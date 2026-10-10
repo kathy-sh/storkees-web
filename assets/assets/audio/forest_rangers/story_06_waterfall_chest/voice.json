@@ -1,0 +1,406 @@
+{
+  "page": "story_06_waterfall_chest",
+  "lines": [
+    {
+      "text": "Žaludy zmizí v dutině dubu. Starý dub se rozzáří teplým světlem a zlatá záře mizí v dálce.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Žaludy zmizí v dutině dubu. Starý dub se rozzáří teplým světlem a zlatá záře mizí v dálce.\",\"tts\":\"Žaludy zmizí v dutině dubu. [in awe] Starý dub se rozzáří teplým světlem a zlatá záře mizí v dálce.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.046,
+          "words": [
+            {
+              "word": "Žaludy",
+              "start": 0.0,
+              "end": 0.48
+            },
+            {
+              "word": "zmizí",
+              "start": 0.6,
+              "end": 1.04
+            },
+            {
+              "word": "v",
+              "start": 1.08,
+              "end": 1.12
+            },
+            {
+              "word": "dutině",
+              "start": 1.2,
+              "end": 1.6
+            },
+            {
+              "word": "dubu.",
+              "start": 1.68,
+              "end": 2.0
+            },
+            {
+              "word": "Starý",
+              "start": 2.64,
+              "end": 2.96
+            },
+            {
+              "word": "dub",
+              "start": 3.12,
+              "end": 3.36
+            },
+            {
+              "word": "se",
+              "start": 3.44,
+              "end": 3.52
+            },
+            {
+              "word": "rozzáří",
+              "start": 3.6,
+              "end": 4.24
+            },
+            {
+              "word": "teplým",
+              "start": 4.32,
+              "end": 4.72
+            },
+            {
+              "word": "světlem",
+              "start": 4.8,
+              "end": 5.28
+            },
+            {
+              "word": "a",
+              "start": 5.68,
+              "end": 5.76
+            },
+            {
+              "word": "zlatá",
+              "start": 5.84,
+              "end": 6.24
+            },
+            {
+              "word": "záře",
+              "start": 6.32,
+              "end": 6.72
+            },
+            {
+              "word": "mizí",
+              "start": 6.8,
+              "end": 7.12
+            },
+            {
+              "word": "v",
+              "start": 7.16,
+              "end": 7.2
+            },
+            {
+              "word": "dálce.",
+              "start": 7.24,
+              "end": 7.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Co se to stalo?“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„Co se to stalo?“\",\"tts\":\"[surprised] „Co se to stalo?“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.228,
+          "words": [
+            {
+              "word": "„Co",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "se",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "to",
+              "start": 0.4,
+              "end": 0.48
+            },
+            {
+              "word": "stalo?“",
+              "start": 0.56,
+              "end": 0.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Vypadá to, jako bychom něco probudili.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "03_marek.mp3",
+          "request": "{\"text\":\"„Vypadá to, jako bychom něco probudili.“\",\"tts\":\"[curious] „Vypadá to, jako bychom něco probudili.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.082,
+          "words": [
+            {
+              "word": "„Vypadá",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "to,",
+              "start": 0.64,
+              "end": 0.8
+            },
+            {
+              "word": "jako",
+              "start": 1.12,
+              "end": 1.36
+            },
+            {
+              "word": "bychom",
+              "start": 1.4,
+              "end": 1.6
+            },
+            {
+              "word": "něco",
+              "start": 1.68,
+              "end": 1.92
+            },
+            {
+              "word": "probudili.“",
+              "start": 2.0,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Prosím, ať je to něco roztomilého.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "04_karel.mp3",
+          "request": "{\"text\":\"„Prosím, ať je to něco roztomilého.“\",\"tts\":\"[nervously] „Prosím, ať je to něco roztomilého.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.082,
+          "words": [
+            {
+              "word": "„Prosím,",
+              "start": 0.08,
+              "end": 0.64
+            },
+            {
+              "word": "ať",
+              "start": 1.04,
+              "end": 1.2
+            },
+            {
+              "word": "je",
+              "start": 1.24,
+              "end": 1.28
+            },
+            {
+              "word": "to",
+              "start": 1.32,
+              "end": 1.36
+            },
+            {
+              "word": "něco",
+              "start": 1.44,
+              "end": 1.68
+            },
+            {
+              "word": "roztomilého.“",
+              "start": 1.76,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Za světlem! Dub nám ukazuje cestu.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "05_marek.mp3",
+          "request": "{\"text\":\"„Za světlem! Dub nám ukazuje cestu.“\",\"tts\":\"[excited] „Za světlem! Dub nám ukazuje cestu.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Za",
+              "start": 0.16,
+              "end": 0.24
+            },
+            {
+              "word": "světlem!",
+              "start": 0.32,
+              "end": 0.88
+            },
+            {
+              "word": "Dub",
+              "start": 1.28,
+              "end": 1.44
+            },
+            {
+              "word": "nám",
+              "start": 1.52,
+              "end": 1.68
+            },
+            {
+              "word": "ukazuje",
+              "start": 1.76,
+              "end": 2.16
+            },
+            {
+              "word": "cestu.“",
+              "start": 2.24,
+              "end": 2.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Jdete směrem k záři. Zlaté světlo vás dovede až k vodopádu, kde ve skalním výklenku leží stará truhla.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "06_narrator.mp3",
+          "request": "{\"text\":\"Jdete směrem k záři. Zlaté světlo vás dovede až k vodopádu, kde ve skalním výklenku leží stará truhla.\",\"tts\":\"Jdete směrem k záři. Zlaté světlo vás dovede až k vodopádu, [mysteriously] kde ve skalním výklenku leží stará truhla.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.908,
+          "words": [
+            {
+              "word": "Jdete",
+              "start": 0.0,
+              "end": 0.32
+            },
+            {
+              "word": "směrem",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "word": "k",
+              "start": 0.8,
+              "end": 0.84
+            },
+            {
+              "word": "záři.",
+              "start": 0.88,
+              "end": 1.36
+            },
+            {
+              "word": "Zlaté",
+              "start": 1.92,
+              "end": 2.32
+            },
+            {
+              "word": "světlo",
+              "start": 2.4,
+              "end": 2.8
+            },
+            {
+              "word": "vás",
+              "start": 2.88,
+              "end": 3.12
+            },
+            {
+              "word": "dovede",
+              "start": 3.2,
+              "end": 3.6
+            },
+            {
+              "word": "až",
+              "start": 3.64,
+              "end": 3.76
+            },
+            {
+              "word": "k",
+              "start": 3.84,
+              "end": 3.92
+            },
+            {
+              "word": "vodopádu,",
+              "start": 4.0,
+              "end": 4.56
+            },
+            {
+              "word": "kde",
+              "start": 5.227,
+              "end": 5.28
+            },
+            {
+              "word": "ve",
+              "start": 5.36,
+              "end": 5.44
+            },
+            {
+              "word": "skalním",
+              "start": 5.52,
+              "end": 6.0
+            },
+            {
+              "word": "výklenku",
+              "start": 6.08,
+              "end": 6.8
+            },
+            {
+              "word": "leží",
+              "start": 7.12,
+              "end": 7.52
+            },
+            {
+              "word": "stará",
+              "start": 7.6,
+              "end": 8.08
+            },
+            {
+              "word": "truhla.",
+              "start": 8.16,
+              "end": 8.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Takovou truhlu jsem ještě neviděla.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "07_tereza.mp3",
+          "request": "{\"text\":\"„Takovou truhlu jsem ještě neviděla.“\",\"tts\":\"[in awe] „Takovou truhlu jsem ještě neviděla.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.004,
+          "words": [
+            {
+              "word": "„Takovou",
+              "start": 0.08,
+              "end": 0.56
+            },
+            {
+              "word": "truhlu",
+              "start": 0.72,
+              "end": 1.2
+            },
+            {
+              "word": "jsem",
+              "start": 1.24,
+              "end": 1.44
+            },
+            {
+              "word": "ještě",
+              "start": 1.52,
+              "end": 1.76
+            },
+            {
+              "word": "neviděla.“",
+              "start": 1.92,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

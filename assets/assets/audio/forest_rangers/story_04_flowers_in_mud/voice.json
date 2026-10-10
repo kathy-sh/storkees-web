@@ -1,0 +1,358 @@
+{
+  "page": "story_04_flowers_in_mud",
+  "lines": [
+    {
+      "text": "Trní se rozestoupí a dovolí vám projít dál. Na mýtině s měkkým bahnem jsou jemné otisky květin.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Trní se rozestoupí a dovolí vám projít dál. Na mýtině s měkkým bahnem jsou jemné otisky květin.\",\"tts\":\"[softly] Trní se rozestoupí a dovolí vám projít dál. Na mýtině s měkkým bahnem jsou jemné otisky květin.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.124,
+          "words": [
+            {
+              "word": "Trní",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "se",
+              "start": 0.48,
+              "end": 0.56
+            },
+            {
+              "word": "rozestoupí",
+              "start": 0.64,
+              "end": 1.44
+            },
+            {
+              "word": "a",
+              "start": 1.76,
+              "end": 1.84
+            },
+            {
+              "word": "dovolí",
+              "start": 2.0,
+              "end": 2.32
+            },
+            {
+              "word": "vám",
+              "start": 2.4,
+              "end": 2.56
+            },
+            {
+              "word": "projít",
+              "start": 2.64,
+              "end": 3.04
+            },
+            {
+              "word": "dál.",
+              "start": 3.08,
+              "end": 3.44
+            },
+            {
+              "word": "Na",
+              "start": 4.32,
+              "end": 4.48
+            },
+            {
+              "word": "mýtině",
+              "start": 4.52,
+              "end": 4.96
+            },
+            {
+              "word": "s",
+              "start": 5.0,
+              "end": 5.04
+            },
+            {
+              "word": "měkkým",
+              "start": 5.08,
+              "end": 5.44
+            },
+            {
+              "word": "bahnem",
+              "start": 5.52,
+              "end": 6.0
+            },
+            {
+              "word": "jsou",
+              "start": 6.08,
+              "end": 6.32
+            },
+            {
+              "word": "jemné",
+              "start": 6.4,
+              "end": 6.8
+            },
+            {
+              "word": "otisky",
+              "start": 6.88,
+              "end": 7.28
+            },
+            {
+              "word": "květin.",
+              "start": 7.36,
+              "end": 7.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Kdo by válel květiny v bahně?“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„Kdo by válel květiny v bahně?“\",\"tts\":\"[confused] „Kdo by válel květiny v bahně?“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.351,
+          "words": [
+            {
+              "word": "„Kdo",
+              "start": 0.12,
+              "end": 0.32
+            },
+            {
+              "word": "by",
+              "start": 0.4,
+              "end": 0.48
+            },
+            {
+              "word": "válel",
+              "start": 0.52,
+              "end": 0.88
+            },
+            {
+              "word": "květiny",
+              "start": 0.96,
+              "end": 1.36
+            },
+            {
+              "word": "v",
+              "start": 1.44,
+              "end": 1.52
+            },
+            {
+              "word": "bahně?“",
+              "start": 1.6,
+              "end": 2.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Zakladatelé klubu takto značili cestu.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "03_tereza.mp3",
+          "request": "{\"text\":\"„Zakladatelé klubu takto značili cestu.“\",\"tts\":\"„Zakladatelé klubu takto značili cestu.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.847,
+          "words": [
+            {
+              "word": "„Zakladatelé",
+              "start": 0.08,
+              "end": 0.72
+            },
+            {
+              "word": "klubu",
+              "start": 0.8,
+              "end": 1.2
+            },
+            {
+              "word": "takto",
+              "start": 1.28,
+              "end": 1.6
+            },
+            {
+              "word": "značili",
+              "start": 1.68,
+              "end": 2.08
+            },
+            {
+              "word": "cestu.“",
+              "start": 2.28,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ale ne! Vypadá to, že je někdo odnesl.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "04_tereza.mp3",
+          "request": "{\"text\":\"„Ale ne! Vypadá to, že je někdo odnesl.“\",\"tts\":\"[worried] „Ale ne! Vypadá to, že je někdo odnesl.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.631,
+          "words": [
+            {
+              "word": "„Ale",
+              "start": 0.2,
+              "end": 0.32
+            },
+            {
+              "word": "ne!",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "word": "Vypadá",
+              "start": 1.28,
+              "end": 1.68
+            },
+            {
+              "word": "to,",
+              "start": 1.76,
+              "end": 1.84
+            },
+            {
+              "word": "že",
+              "start": 1.893,
+              "end": 1.92
+            },
+            {
+              "word": "je",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "někdo",
+              "start": 2.12,
+              "end": 2.4
+            },
+            {
+              "word": "odnesl.“",
+              "start": 2.48,
+              "end": 3.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A co s tím teď budeme dělat? Já už mám bahno po kotníky!“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "05_karel.mp3",
+          "request": "{\"text\":\"„A co s tím teď budeme dělat? Já už mám bahno po kotníky!“\",\"tts\":\"[whining] „A co s tím teď budeme dělat? Já už mám bahno po kotníky!“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.206,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "co",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "s",
+              "start": 0.4,
+              "end": 0.44
+            },
+            {
+              "word": "tím",
+              "start": 0.48,
+              "end": 0.56
+            },
+            {
+              "word": "teď",
+              "start": 0.64,
+              "end": 0.8
+            },
+            {
+              "word": "budeme",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "dělat?",
+              "start": 1.2,
+              "end": 1.76
+            },
+            {
+              "word": "Já",
+              "start": 2.08,
+              "end": 2.2
+            },
+            {
+              "word": "už",
+              "start": 2.24,
+              "end": 2.36
+            },
+            {
+              "word": "mám",
+              "start": 2.4,
+              "end": 2.56
+            },
+            {
+              "word": "bahno",
+              "start": 2.64,
+              "end": 2.96
+            },
+            {
+              "word": "po",
+              "start": 3.04,
+              "end": 3.12
+            },
+            {
+              "word": "kotníky!“",
+              "start": 3.2,
+              "end": 3.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Podíváme se kolem, jestli nějaké nenajdeme.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "06_marek.mp3",
+          "request": "{\"text\":\"„Podíváme se kolem, jestli nějaké nenajdeme.“\",\"tts\":\"[calmly] „Podíváme se kolem, jestli nějaké nenajdeme.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Podíváme",
+              "start": 0.14,
+              "end": 0.48
+            },
+            {
+              "word": "se",
+              "start": 0.56,
+              "end": 0.72
+            },
+            {
+              "word": "kolem,",
+              "start": 0.76,
+              "end": 1.12
+            },
+            {
+              "word": "jestli",
+              "start": 1.44,
+              "end": 1.76
+            },
+            {
+              "word": "nějaké",
+              "start": 1.787,
+              "end": 2.16
+            },
+            {
+              "word": "nenajdeme.“",
+              "start": 2.24,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

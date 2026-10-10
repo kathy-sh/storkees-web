@@ -1,0 +1,270 @@
+{
+  "page": "story_07_scroll",
+  "lines": [
+    {
+      "text": "Víko se zvedne. Uvnitř leží svitek převázaný provázkem.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Víko se zvedne. Uvnitř leží svitek převázaný provázkem.\",\"tts\":\"[softly] Víko se zvedne. Uvnitř leží svitek převázaný provázkem.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.754,
+          "words": [
+            {
+              "word": "Víko",
+              "start": 0.24,
+              "end": 0.56
+            },
+            {
+              "word": "se",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "zvedne.",
+              "start": 0.76,
+              "end": 1.2
+            },
+            {
+              "word": "Uvnitř",
+              "start": 1.84,
+              "end": 2.32
+            },
+            {
+              "word": "leží",
+              "start": 2.4,
+              "end": 2.64
+            },
+            {
+              "word": "svitek",
+              "start": 2.72,
+              "end": 3.12
+            },
+            {
+              "word": "převázaný",
+              "start": 3.2,
+              "end": 3.76
+            },
+            {
+              "word": "provázkem.",
+              "start": 3.88,
+              "end": 4.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Slunce už se dotýká korun stromů!“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "02_tereza.mp3",
+          "request": "{\"text\":\"„Slunce už se dotýká korun stromů!“\",\"tts\":\"[alarmed] „Slunce už se dotýká korun stromů!“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.429,
+          "words": [
+            {
+              "word": "„Slunce",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "už",
+              "start": 0.6,
+              "end": 0.68
+            },
+            {
+              "word": "se",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "dotýká",
+              "start": 0.92,
+              "end": 1.28
+            },
+            {
+              "word": "korun",
+              "start": 1.36,
+              "end": 1.6
+            },
+            {
+              "word": "stromů!“",
+              "start": 1.68,
+              "end": 2.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Honem zpět do klubovny!“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "03_marek.mp3",
+          "request": "{\"text\":\"„Honem zpět do klubovny!“\",\"tts\":\"[urgently] „Honem zpět do klubovny!“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.646,
+          "words": [
+            {
+              "word": "„Honem",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "zpět",
+              "start": 0.48,
+              "end": 0.8
+            },
+            {
+              "word": "do",
+              "start": 0.84,
+              "end": 0.88
+            },
+            {
+              "word": "klubovny!“",
+              "start": 0.96,
+              "end": 1.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Nevíme, co ten svitek skrývá. Musíme být opatrní.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "04_marek.mp3",
+          "request": "{\"text\":\"„Nevíme, co ten svitek skrývá. Musíme být opatrní.“\",\"tts\":\"[seriously] „Nevíme, co ten svitek skrývá. Musíme být opatrní.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.866,
+          "words": [
+            {
+              "word": "„Nevíme,",
+              "start": 0.16,
+              "end": 0.64
+            },
+            {
+              "word": "co",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "ten",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "svitek",
+              "start": 1.04,
+              "end": 1.36
+            },
+            {
+              "word": "skrývá.",
+              "start": 1.44,
+              "end": 1.92
+            },
+            {
+              "word": "Musíme",
+              "start": 2.4,
+              "end": 2.8
+            },
+            {
+              "word": "být",
+              "start": 2.853,
+              "end": 2.96
+            },
+            {
+              "word": "opatrní.“",
+              "start": 3.04,
+              "end": 3.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Po návratu do klubovny otevřeš svitek. Sotva ho rozvineš, vylétnou z něj velké bubliny.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "05_narrator.mp3",
+          "request": "{\"text\":\"Po návratu do klubovny otevřeš svitek. Sotva ho rozvineš, vylétnou z něj velké bubliny.\",\"tts\":\"Po návratu do klubovny otevřeš svitek. [excited] Sotva ho rozvineš, vylétnou z něj velké bubliny.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.922,
+          "words": [
+            {
+              "word": "Po",
+              "start": 0.0,
+              "end": 0.08
+            },
+            {
+              "word": "návratu",
+              "start": 0.16,
+              "end": 0.6
+            },
+            {
+              "word": "do",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "klubovny",
+              "start": 0.76,
+              "end": 1.36
+            },
+            {
+              "word": "otevřeš",
+              "start": 1.44,
+              "end": 1.92
+            },
+            {
+              "word": "svitek.",
+              "start": 2.0,
+              "end": 2.48
+            },
+            {
+              "word": "Sotva",
+              "start": 3.187,
+              "end": 3.44
+            },
+            {
+              "word": "ho",
+              "start": 3.52,
+              "end": 3.6
+            },
+            {
+              "word": "rozvineš,",
+              "start": 3.72,
+              "end": 4.32
+            },
+            {
+              "word": "vylétnou",
+              "start": 4.56,
+              "end": 5.04
+            },
+            {
+              "word": "z",
+              "start": 5.08,
+              "end": 5.12
+            },
+            {
+              "word": "něj",
+              "start": 5.16,
+              "end": 5.44
+            },
+            {
+              "word": "velké",
+              "start": 5.52,
+              "end": 5.92
+            },
+            {
+              "word": "bubliny.",
+              "start": 6.0,
+              "end": 6.48
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

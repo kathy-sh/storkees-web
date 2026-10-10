@@ -1,0 +1,348 @@
+{
+  "page": "story_05_old_oak",
+  "lines": [
+    {
+      "text": "Poslední květina zapadne na své místo a celá mýtina rozkvete. Mezi květy se objeví úzká pěšinka, která končí u mohutného dubu.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Poslední květina zapadne na své místo a celá mýtina rozkvete. Mezi květy se objeví úzká pěšinka, která končí u mohutného dubu.\",\"tts\":\"[warmly] Poslední květina zapadne na své místo a celá mýtina rozkvete. Mezi květy se objeví úzká pěšinka, která končí u mohutného dubu.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.371,
+          "words": [
+            {
+              "word": "Poslední",
+              "start": 0.08,
+              "end": 0.64
+            },
+            {
+              "word": "květina",
+              "start": 0.72,
+              "end": 1.12
+            },
+            {
+              "word": "zapadne",
+              "start": 1.2,
+              "end": 1.6
+            },
+            {
+              "word": "na",
+              "start": 1.64,
+              "end": 1.68
+            },
+            {
+              "word": "své",
+              "start": 1.76,
+              "end": 2.0
+            },
+            {
+              "word": "místo",
+              "start": 2.08,
+              "end": 2.56
+            },
+            {
+              "word": "a",
+              "start": 2.8,
+              "end": 2.88
+            },
+            {
+              "word": "celá",
+              "start": 3.12,
+              "end": 3.52
+            },
+            {
+              "word": "mýtina",
+              "start": 3.6,
+              "end": 4.08
+            },
+            {
+              "word": "rozkvete.",
+              "start": 4.16,
+              "end": 4.72
+            },
+            {
+              "word": "Mezi",
+              "start": 5.36,
+              "end": 5.6
+            },
+            {
+              "word": "květy",
+              "start": 5.68,
+              "end": 6.0
+            },
+            {
+              "word": "se",
+              "start": 6.08,
+              "end": 6.24
+            },
+            {
+              "word": "objeví",
+              "start": 6.32,
+              "end": 6.72
+            },
+            {
+              "word": "úzká",
+              "start": 6.8,
+              "end": 7.12
+            },
+            {
+              "word": "pěšinka,",
+              "start": 7.2,
+              "end": 7.84
+            },
+            {
+              "word": "která",
+              "start": 7.92,
+              "end": 8.24
+            },
+            {
+              "word": "končí",
+              "start": 8.32,
+              "end": 8.8
+            },
+            {
+              "word": "u",
+              "start": 8.96,
+              "end": 9.04
+            },
+            {
+              "word": "mohutného",
+              "start": 9.12,
+              "end": 9.76
+            },
+            {
+              "word": "dubu.",
+              "start": 9.84,
+              "end": 10.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ten dub je určitě starší než my všichni dohromady.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„Ten dub je určitě starší než my všichni dohromady.“\",\"tts\":\"[amazed] „Ten dub je určitě starší než my všichni dohromady.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.971,
+          "words": [
+            {
+              "word": "„Ten",
+              "start": 0.206,
+              "end": 0.24
+            },
+            {
+              "word": "dub",
+              "start": 0.4,
+              "end": 0.64
+            },
+            {
+              "word": "je",
+              "start": 0.76,
+              "end": 0.88
+            },
+            {
+              "word": "určitě",
+              "start": 0.96,
+              "end": 1.44
+            },
+            {
+              "word": "starší",
+              "start": 1.52,
+              "end": 1.92
+            },
+            {
+              "word": "než",
+              "start": 2.0,
+              "end": 2.16
+            },
+            {
+              "word": "my",
+              "start": 2.24,
+              "end": 2.32
+            },
+            {
+              "word": "všichni",
+              "start": 2.4,
+              "end": 2.8
+            },
+            {
+              "word": "dohromady.“",
+              "start": 2.84,
+              "end": 3.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Podle kmene má aspoň pět set let.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "03_tereza.mp3",
+          "request": "{\"text\":\"„Podle kmene má aspoň pět set let.“\",\"tts\":\"[thoughtfully] „Podle kmene má aspoň pět set let.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Podle",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "kmene",
+              "start": 0.52,
+              "end": 0.88
+            },
+            {
+              "word": "má",
+              "start": 0.92,
+              "end": 1.12
+            },
+            {
+              "word": "aspoň",
+              "start": 1.2,
+              "end": 1.68
+            },
+            {
+              "word": "pět",
+              "start": 1.72,
+              "end": 1.96
+            },
+            {
+              "word": "set",
+              "start": 2.0,
+              "end": 2.16
+            },
+            {
+              "word": "let.“",
+              "start": 2.24,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Hele veverka a vypadá, že něco hlídá.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "04_tereza.mp3",
+          "request": "{\"text\":\"„Hele veverka a vypadá, že něco hlídá.“\",\"tts\":\"[whispers] „Hele veverka a vypadá, že něco hlídá.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.396,
+          "words": [
+            {
+              "word": "„Hele",
+              "start": 0.24,
+              "end": 0.4
+            },
+            {
+              "word": "veverka",
+              "start": 0.48,
+              "end": 1.04
+            },
+            {
+              "word": "a",
+              "start": 1.36,
+              "end": 1.44
+            },
+            {
+              "word": "vypadá,",
+              "start": 1.48,
+              "end": 1.92
+            },
+            {
+              "word": "že",
+              "start": 2.027,
+              "end": 2.08
+            },
+            {
+              "word": "něco",
+              "start": 2.133,
+              "end": 2.32
+            },
+            {
+              "word": "hlídá.“",
+              "start": 2.4,
+              "end": 2.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Kouká na mě nějak hladově.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "05_karel.mp3",
+          "request": "{\"text\":\"„Kouká na mě nějak hladově.“\",\"tts\":\"[nervously] „Kouká na mě nějak hladově.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.429,
+          "words": [
+            {
+              "word": "„Kouká",
+              "start": 0.08,
+              "end": 0.48
+            },
+            {
+              "word": "na",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "mě",
+              "start": 0.68,
+              "end": 0.8
+            },
+            {
+              "word": "nějak",
+              "start": 0.84,
+              "end": 1.2
+            },
+            {
+              "word": "hladově.“",
+              "start": 1.28,
+              "end": 2.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Pojďme se podívat blíž.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "06_marek.mp3",
+          "request": "{\"text\":\"„Pojďme se podívat blíž.“\",\"tts\":\"„Pojďme se podívat blíž.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.802,
+          "words": [
+            {
+              "word": "„Pojďme",
+              "start": 0.04,
+              "end": 0.32
+            },
+            {
+              "word": "se",
+              "start": 0.4,
+              "end": 0.56
+            },
+            {
+              "word": "podívat",
+              "start": 0.64,
+              "end": 0.96
+            },
+            {
+              "word": "blíž.“",
+              "start": 1.04,
+              "end": 1.52
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

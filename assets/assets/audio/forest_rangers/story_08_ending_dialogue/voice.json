@@ -1,0 +1,550 @@
+{
+  "page": "story_08_ending_dialogue",
+  "lines": [
+    {
+      "text": "Poslední paprsek slunce dopadne na svitek a klubovna se rozsvítí lucernami.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Poslední paprsek slunce dopadne na svitek a klubovna se rozsvítí lucernami.\",\"tts\":\"[warmly] Poslední paprsek slunce dopadne na svitek a klubovna se rozsvítí lucernami.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.329,
+          "words": [
+            {
+              "word": "Poslední",
+              "start": 0.08,
+              "end": 0.56
+            },
+            {
+              "word": "paprsek",
+              "start": 0.64,
+              "end": 0.96
+            },
+            {
+              "word": "slunce",
+              "start": 1.04,
+              "end": 1.52
+            },
+            {
+              "word": "dopadne",
+              "start": 1.56,
+              "end": 1.92
+            },
+            {
+              "word": "na",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "svitek",
+              "start": 2.16,
+              "end": 2.64
+            },
+            {
+              "word": "a",
+              "start": 2.88,
+              "end": 2.96
+            },
+            {
+              "word": "klubovna",
+              "start": 3.12,
+              "end": 3.68
+            },
+            {
+              "word": "se",
+              "start": 3.76,
+              "end": 3.84
+            },
+            {
+              "word": "rozsvítí",
+              "start": 3.92,
+              "end": 4.48
+            },
+            {
+              "word": "lucernami.",
+              "start": 4.52,
+              "end": 5.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To je všechno? Já čekal poklad.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„To je všechno? Já čekal poklad.“\",\"tts\":\"[disappointed] „To je všechno? Já čekal poklad.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.239,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "je",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "všechno?",
+              "start": 0.4,
+              "end": 1.04
+            },
+            {
+              "word": "Já",
+              "start": 1.52,
+              "end": 1.68
+            },
+            {
+              "word": "čekal",
+              "start": 1.76,
+              "end": 2.0
+            },
+            {
+              "word": "poklad.“",
+              "start": 2.16,
+              "end": 2.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Celá ta cesta byla zkouška, Kájo. Chtěli zjistit, jestli máme trpělivost.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "03_tereza.mp3",
+          "request": "{\"text\":\"„Celá ta cesta byla zkouška, Kájo. Chtěli zjistit, jestli máme trpělivost.“\",\"tts\":\"[warmly] „Celá ta cesta byla zkouška, Kájo. Chtěli zjistit, jestli máme trpělivost.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.721,
+          "words": [
+            {
+              "word": "„Celá",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "ta",
+              "start": 0.48,
+              "end": 0.56
+            },
+            {
+              "word": "cesta",
+              "start": 0.64,
+              "end": 1.0
+            },
+            {
+              "word": "byla",
+              "start": 1.04,
+              "end": 1.2
+            },
+            {
+              "word": "zkouška,",
+              "start": 1.36,
+              "end": 1.84
+            },
+            {
+              "word": "Kájo.",
+              "start": 1.92,
+              "end": 2.32
+            },
+            {
+              "word": "Chtěli",
+              "start": 2.84,
+              "end": 3.12
+            },
+            {
+              "word": "zjistit,",
+              "start": 3.2,
+              "end": 3.68
+            },
+            {
+              "word": "jestli",
+              "start": 3.84,
+              "end": 4.0
+            },
+            {
+              "word": "máme",
+              "start": 4.04,
+              "end": 4.32
+            },
+            {
+              "word": "trpělivost.“",
+              "start": 4.4,
+              "end": 5.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A proč to nenapsali rovnou na dveře?“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "04_karel.mp3",
+          "request": "{\"text\":\"„A proč to nenapsali rovnou na dveře?“\",\"tts\":\"[grumbling] „A proč to nenapsali rovnou na dveře?“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.351,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "proč",
+              "start": 0.24,
+              "end": 0.48
+            },
+            {
+              "word": "to",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "nenapsali",
+              "start": 0.72,
+              "end": 1.12
+            },
+            {
+              "word": "rovnou",
+              "start": 1.2,
+              "end": 1.52
+            },
+            {
+              "word": "na",
+              "start": 1.56,
+              "end": 1.6
+            },
+            {
+              "word": "dveře?“",
+              "start": 1.68,
+              "end": 2.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Protože by tě nebavilo to hledat.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "05_tereza.mp3",
+          "request": "{\"text\":\"„Protože by tě nebavilo to hledat.“\",\"tts\":\"[chuckles] „Protože by tě nebavilo to hledat.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Protože",
+              "start": 0.32,
+              "end": 1.04
+            },
+            {
+              "word": "by",
+              "start": 1.08,
+              "end": 1.12
+            },
+            {
+              "word": "tě",
+              "start": 1.2,
+              "end": 1.36
+            },
+            {
+              "word": "nebavilo",
+              "start": 1.44,
+              "end": 1.84
+            },
+            {
+              "word": "to",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "hledat.“",
+              "start": 2.04,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Trpělivost … ta mi nikdy moc nešla.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "06_marek.mp3",
+          "request": "{\"text\":\"„Trpělivost … ta mi nikdy moc nešla.“\",\"tts\":\"[sheepishly] „Trpělivost … ta mi nikdy moc nešla.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.318,
+          "words": [
+            {
+              "word": "„Trpělivost",
+              "start": 0.08,
+              "end": 1.04
+            },
+            {
+              "word": "ta",
+              "start": 1.52,
+              "end": 1.6
+            },
+            {
+              "word": "mi",
+              "start": 1.68,
+              "end": 1.76
+            },
+            {
+              "word": "nikdy",
+              "start": 1.84,
+              "end": 2.08
+            },
+            {
+              "word": "moc",
+              "start": 2.12,
+              "end": 2.32
+            },
+            {
+              "word": "nešla.“",
+              "start": 2.4,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Marku, ty jsi v životě nepočkal ani na konec věty.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "07_tereza.mp3",
+          "request": "{\"text\":\"„Marku, ty jsi v životě nepočkal ani na konec věty.“\",\"tts\":\"[teasing] „Marku, ty jsi v životě nepočkal ani na konec věty.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.362,
+          "words": [
+            {
+              "word": "„Marku,",
+              "start": 0.16,
+              "end": 0.72
+            },
+            {
+              "word": "ty",
+              "start": 1.08,
+              "end": 1.12
+            },
+            {
+              "word": "jsi",
+              "start": 1.2,
+              "end": 1.32
+            },
+            {
+              "word": "v",
+              "start": 1.36,
+              "end": 1.4
+            },
+            {
+              "word": "životě",
+              "start": 1.44,
+              "end": 1.84
+            },
+            {
+              "word": "nepočkal",
+              "start": 1.88,
+              "end": 2.4
+            },
+            {
+              "word": "ani",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "na",
+              "start": 2.72,
+              "end": 2.8
+            },
+            {
+              "word": "konec",
+              "start": 2.88,
+              "end": 3.2
+            },
+            {
+              "word": "věty.“",
+              "start": 3.28,
+              "end": 3.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Já čekám na dort a trpělivost mám.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "08_karel.mp3",
+          "request": "{\"text\":\"„Já čekám na dort a trpělivost mám.“\",\"tts\":\"[proudly] „Já čekám na dort a trpělivost mám.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Já",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "čekám",
+              "start": 0.32,
+              "end": 0.64
+            },
+            {
+              "word": "na",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "dort",
+              "start": 0.84,
+              "end": 1.2
+            },
+            {
+              "word": "a",
+              "start": 1.36,
+              "end": 1.44
+            },
+            {
+              "word": "trpělivost",
+              "start": 1.6,
+              "end": 2.32
+            },
+            {
+              "word": "mám.“",
+              "start": 2.4,
+              "end": 2.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To není trpělivost, Kájo. To je hlad.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "09_tereza.mp3",
+          "request": "{\"text\":\"„To není trpělivost, Kájo. To je hlad.“\",\"tts\":\"[laughs] „To není trpělivost, Kájo. To je hlad.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.127,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.96,
+              "end": 1.04
+            },
+            {
+              "word": "není",
+              "start": 1.12,
+              "end": 1.44
+            },
+            {
+              "word": "trpělivost,",
+              "start": 1.52,
+              "end": 2.24
+            },
+            {
+              "word": "Kájo.",
+              "start": 2.293,
+              "end": 2.64
+            },
+            {
+              "word": "To",
+              "start": 3.04,
+              "end": 3.2
+            },
+            {
+              "word": "je",
+              "start": 3.28,
+              "end": 3.36
+            },
+            {
+              "word": "hlad.“",
+              "start": 3.44,
+              "end": 3.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A tobě se zkouška povedla. Bez tebe bychom to do západu nestihli.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "10_marek.mp3",
+          "request": "{\"text\":\"„A tobě se zkouška povedla. Bez tebe bychom to do západu nestihli.“\",\"tts\":\"[warmly] „A tobě se zkouška povedla. Bez tebe bychom to do západu nestihli.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.441,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "tobě",
+              "start": 0.24,
+              "end": 0.56
+            },
+            {
+              "word": "se",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "zkouška",
+              "start": 0.8,
+              "end": 1.2
+            },
+            {
+              "word": "povedla.",
+              "start": 1.24,
+              "end": 1.68
+            },
+            {
+              "word": "Bez",
+              "start": 2.16,
+              "end": 2.36
+            },
+            {
+              "word": "tebe",
+              "start": 2.4,
+              "end": 2.64
+            },
+            {
+              "word": "bychom",
+              "start": 2.68,
+              "end": 2.96
+            },
+            {
+              "word": "to",
+              "start": 3.0,
+              "end": 3.04
+            },
+            {
+              "word": "do",
+              "start": 3.12,
+              "end": 3.2
+            },
+            {
+              "word": "západu",
+              "start": 3.28,
+              "end": 3.6
+            },
+            {
+              "word": "nestihli.“",
+              "start": 3.76,
+              "end": 4.16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

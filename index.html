@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/storkees-web/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Storkees: logická únikovka pro děti.">
+  <!-- Until Flutter starts (it then writes its own, see the script below). -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+  <!-- "Přidat na plochu" (iPhone): own name, whole screen, the game draws
+       under the status bar (the app keeps clear of it, see WebSafeArea). -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Storkees">
+  <meta name="application-name" content="Storkees">
+  <meta name="theme-color" content="#F5EEDF">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Storkees</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    html, body {
+      margin: 0;
+      height: 100%;
+      background-color: #F5EEDF;
+      /* No bounce or pull-to-refresh of the page itself. */
+      overscroll-behavior: none;
+    }
+    /* Splash screen until Flutter draws its first frame: the menu
+       background with the book 20 px above the middle, the same as the
+       first frame of the splash animation (lib/screens/splash_screen.dart). */
+    #splash {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1;
+      background-color: #F5EEDF;
+      transition: opacity 0.3s ease-out;
+    }
+    #splash img {
+      width: 240px;
+      height: auto;
+      transform: translateY(-20px);
+    }
+    #splash.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+    /* Measures the safe area of the screen (iPhone notch, home indicator). */
+    #safe-area-probe {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 0;
+      height: 0;
+      visibility: hidden;
+      pointer-events: none;
+      padding-top: env(safe-area-inset-top, 0px);
+      padding-right: env(safe-area-inset-right, 0px);
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+      padding-left: env(safe-area-inset-left, 0px);
+    }
+  </style>
+  <script>
+    // Flutter writes its own <meta name="viewport"> without
+    // "viewport-fit=cover", so the page would stay inside the safe area and
+    // the browser would report it as 0. Add it to every viewport tag.
+    (function () {
+      function coverWholeScreen(meta) {
+        var content = meta.getAttribute('content') || '';
+        if (content.indexOf('viewport-fit') === -1) {
+          meta.setAttribute('content', content + ', viewport-fit=cover');
+        }
+      }
+      new MutationObserver(function (changes) {
+        changes.forEach(function (change) {
+          change.addedNodes.forEach(function (node) {
+            if (node.tagName === 'META' && node.name === 'viewport') {
+              coverWholeScreen(node);
+            }
+          });
+        });
+      }).observe(document.head, { childList: true });
+    })();
+
+    // Safe area in CSS pixels as [top, right, bottom, left], read by the
+    // app (lib/widgets/web_safe_area_reader_web.dart).
+    window.storkeesSafeArea = function () {
+      var probe = document.getElementById('safe-area-probe');
+      if (!probe) {
+        probe = document.createElement('div');
+        probe.id = 'safe-area-probe';
+        document.body.appendChild(probe);
+      }
+      var style = getComputedStyle(probe);
+      return [
+        parseFloat(style.paddingTop) || 0,
+        parseFloat(style.paddingRight) || 0,
+        parseFloat(style.paddingBottom) || 0,
+        parseFloat(style.paddingLeft) || 0,
+      ];
+    };
+  </script>
+</head>
+<body>
+  <div id="splash"><img src="icons/splash_logo.svg" alt="Storkees"></div>
+  <script>
+    window.addEventListener('flutter-first-frame', function () {
+      var splash = document.getElementById('splash');
+      splash.classList.add('hidden');
+      setTimeout(function () { splash.remove(); }, 300);
+    });
+  </script>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

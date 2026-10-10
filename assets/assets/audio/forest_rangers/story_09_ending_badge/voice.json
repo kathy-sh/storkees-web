@@ -1,0 +1,79 @@
+{
+  "page": "story_09_ending_badge",
+  "lines": [
+    {
+      "text": "„Vítej v klubu!“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "01_marek.mp3",
+          "request": "{\"text\":\"„Vítej v klubu!“\",\"tts\":\"[joyfully] „Vítej v klubu!“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.489,
+          "words": [
+            {
+              "word": "„Vítej",
+              "start": 0.16,
+              "end": 0.52
+            },
+            {
+              "word": "v",
+              "start": 0.56,
+              "end": 0.6
+            },
+            {
+              "word": "klubu!“",
+              "start": 0.64,
+              "end": 1.04
+            }
+          ]
+        },
+        {
+          "voice": "tereza",
+          "file": "01_tereza.mp3",
+          "request": "{\"text\":\"„Vítej v klubu!“\",\"tts\":\"[joyfully] „Vítej v klubu!“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.646,
+          "words": [
+            {
+              "word": "„Vítej",
+              "start": 0.2,
+              "end": 0.56
+            },
+            {
+              "word": "v",
+              "start": 0.64,
+              "end": 0.68
+            },
+            {
+              "word": "klubu!“",
+              "start": 0.72,
+              "end": 1.2
+            }
+          ]
+        },
+        {
+          "voice": "karel",
+          "file": "01_karel.mp3",
+          "request": "{\"text\":\"„Vítej v klubu!“\",\"tts\":\"[joyfully] „Vítej v klubu!“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.489,
+          "words": [
+            {
+              "word": "„Vítej",
+              "start": 0.147,
+              "end": 0.48
+            },
+            {
+              "word": "v",
+              "start": 0.52,
+              "end": 0.56
+            },
+            {
+              "word": "klubu!“",
+              "start": 0.6,
+              "end": 0.96
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
