@@ -141,6 +141,116 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
+  <script>
+    // iPhone (Safari, an icon on the home screen): the game sound stays asleep
+    // until something else wakes it (Kateřina 2. 11. 2026: the background
+    // began only with reading aloud). So every tap and every return to the
+    // game wakes it, and the switch on the side does not silence it, the same
+    // as reading aloud.
+    (function () {
+      var Native = window.AudioContext || window.webkitAudioContext;
+      if (!Native) return;
+      var contexts = [];
+      function Tracked(options) {
+        var context = new Native(options);
+        contexts.push(context);
+        return context;
+      }
+      Tracked.prototype = Native.prototype;
+      window.AudioContext = Tracked;
+      window.webkitAudioContext = Tracked;
+
+      function wake() {
+        contexts.forEach(function (context) {
+          if (context.state !== 'running' && context.state !== 'closed') {
+            context.resume().catch(function () {});
+          }
+        });
+      }
+      ['touchend', 'pointerup', 'click', 'keydown'].forEach(function (name) {
+        window.addEventListener(name, wake, { capture: true, passive: true });
+      });
+      ['pageshow', 'focus'].forEach(function (name) {
+        window.addEventListener(name, wake);
+      });
+      document.addEventListener('visibilitychange', wake);
+      if (navigator.audioSession) navigator.audioSession.type = 'playback';
+
+      // Safari on an iPhone ignores the volume of an <audio> element, so
+      // reading aloud goes through a gain of its own, which also can make a
+      // quiet recording louder. False when it cannot.
+      var voiceContext;
+      var voiceGains = new WeakMap();
+      window.storkeesVoiceGain = function (element, gain) {
+        try {
+          var node = voiceGains.get(element);
+          if (!node) {
+            voiceContext = voiceContext || new Tracked();
+            var source = voiceContext.createMediaElementSource(element);
+            node = voiceContext.createGain();
+            source.connect(node);
+            node.connect(voiceContext.destination);
+            voiceGains.set(element, node);
+          }
+          node.gain.value = gain;
+          wake();
+          return true;
+        } catch (error) {
+          return false;
+        }
+      };
+
+      var note = '';
+      window.storkeesNote = function (text) { note = text; };
+
+      // Only the trial version: how smooth the picture is and the state of
+      // the sound, for reading out on the phone.
+      if (location.pathname.indexOf('/zkouska/') < 0) return;
+      window.addEventListener('DOMContentLoaded', function () {
+        var panel = document.createElement('div');
+        panel.id = 'storkees-measure';
+        panel.style.cssText =
+          'position:fixed;z-index:99999;left:0;right:0;pointer-events:none;' +
+          'top:env(safe-area-inset-top);text-align:center;' +
+          'font:12px monospace;color:#fff;background:rgba(0,0,0,.65)';
+        document.body.appendChild(panel);
+        var last = performance.now();
+        var frames = 0;
+        var worst = 0;
+        var worst10 = [];
+        function frame(now) {
+          frames++;
+          worst = Math.max(worst, now - last);
+          last = now;
+          requestAnimationFrame(frame);
+        }
+        requestAnimationFrame(frame);
+        setInterval(function () {
+          worst10.push(worst);
+          if (worst10.length > 10) worst10.shift();
+          var state = contexts.map(function (c) { return c.state; }).join(',');
+          panel.textContent =
+            'snimku/s ' + frames +
+            ' | nejdelsi 10 s ' + Math.round(Math.max.apply(null, worst10)) + ' ms' +
+            ' | zvuk ' + (state || 'zadny') +
+            (navigator.audioSession ? ' | ' + navigator.audioSession.type : ' | bez session') +
+            (location.search.indexOf('bez_zvuku') >= 0 ? ' | BEZ ZVUKU' : '') +
+            ' | okno ' + innerWidth + 'x' + innerHeight +
+            ' | displej ' + screen.height +
+            ' | ikona ' + (window.storkeesFromIcon ? 'ano' : 'ne') +
+            ' | hra ' + (function () {
+              var view = document.querySelector('flutter-view');
+              if (!view) return '?';
+              var box = view.getBoundingClientRect();
+              return Math.round(box.top) + '-' + Math.round(box.bottom);
+            })() +
+            (note ? ' | ' + note : '');
+          frames = 0;
+          worst = 0;
+        }, 1000);
+      });
+    })();
+  </script>
   <!-- The game sound (flutter_soloud), loaded from this site. -->
   <script src="assets/packages/flutter_soloud/web/init_soloud.js" defer></script>
   <script src="flutter_bootstrap.js" async></script>
