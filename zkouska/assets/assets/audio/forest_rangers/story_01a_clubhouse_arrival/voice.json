@@ -1,0 +1,534 @@
+{
+  "page": "story_01a_clubhouse_arrival",
+  "lines": [
+    {
+      "text": "Dveře se otevřou do tmy a ty vstoupíš dovnitř. Klubovna voní dřevem a starým papírem. Uprostřed stojí stůl a na něm leží podivný deník.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Dveře se otevřou do tmy a ty vstoupíš dovnitř. Klubovna voní dřevem a starým papírem. Uprostřed stojí stůl a na něm leží podivný deník.\",\"tts\":\"[softly] Dveře se otevřou do tmy a ty vstoupíš dovnitř. Klubovna voní dřevem a starým papírem. [mysteriously] Uprostřed stojí stůl a na něm leží podivný deník.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 11.311,
+          "words": [
+            {
+              "word": "Dveře",
+              "start": 0.16,
+              "end": 0.48
+            },
+            {
+              "word": "se",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "otevřou",
+              "start": 0.76,
+              "end": 1.12
+            },
+            {
+              "word": "do",
+              "start": 1.2,
+              "end": 1.28
+            },
+            {
+              "word": "tmy",
+              "start": 1.36,
+              "end": 1.68
+            },
+            {
+              "word": "a",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "ty",
+              "start": 2.08,
+              "end": 2.16
+            },
+            {
+              "word": "vstoupíš",
+              "start": 2.2,
+              "end": 2.64
+            },
+            {
+              "word": "dovnitř.",
+              "start": 2.68,
+              "end": 3.28
+            },
+            {
+              "word": "Klubovna",
+              "start": 3.92,
+              "end": 4.32
+            },
+            {
+              "word": "voní",
+              "start": 4.44,
+              "end": 4.64
+            },
+            {
+              "word": "dřevem",
+              "start": 4.72,
+              "end": 5.2
+            },
+            {
+              "word": "a",
+              "start": 5.36,
+              "end": 5.44
+            },
+            {
+              "word": "starým",
+              "start": 5.52,
+              "end": 5.88
+            },
+            {
+              "word": "papírem.",
+              "start": 5.92,
+              "end": 6.56
+            },
+            {
+              "word": "Uprostřed",
+              "start": 7.248,
+              "end": 7.76
+            },
+            {
+              "word": "stojí",
+              "start": 7.84,
+              "end": 8.16
+            },
+            {
+              "word": "stůl",
+              "start": 8.28,
+              "end": 8.72
+            },
+            {
+              "word": "a",
+              "start": 9.04,
+              "end": 9.12
+            },
+            {
+              "word": "na",
+              "start": 9.2,
+              "end": 9.28
+            },
+            {
+              "word": "něm",
+              "start": 9.32,
+              "end": 9.48
+            },
+            {
+              "word": "leží",
+              "start": 9.52,
+              "end": 9.84
+            },
+            {
+              "word": "podivný",
+              "start": 10.0,
+              "end": 10.56
+            },
+            {
+              "word": "deník.",
+              "start": 10.68,
+              "end": 11.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dveře se otevřely, takže pozdrav už znáš. Já se jmenuji Marek, tamto byl Karel a tohle je Tereza. Pojď dál.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "02_marek.mp3",
+          "request": "{\"text\":\"„Dveře se otevřely, takže pozdrav už znáš. Já se jmenuji Marek, tamto byl Karel a tohle je Tereza. Pojď dál.“\",\"tts\":\"[proudly] „Dveře se otevřely, takže pozdrav už znáš. [warmly] Já se jmenuji Marek, tamto byl Karel a tohle je Tereza. Pojď dál.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.359,
+          "words": [
+            {
+              "word": "„Dveře",
+              "start": 0.12,
+              "end": 0.44
+            },
+            {
+              "word": "se",
+              "start": 0.48,
+              "end": 0.64
+            },
+            {
+              "word": "otevřely,",
+              "start": 0.76,
+              "end": 1.2
+            },
+            {
+              "word": "takže",
+              "start": 1.52,
+              "end": 1.84
+            },
+            {
+              "word": "pozdrav",
+              "start": 1.92,
+              "end": 2.24
+            },
+            {
+              "word": "už",
+              "start": 2.32,
+              "end": 2.48
+            },
+            {
+              "word": "znáš.",
+              "start": 2.56,
+              "end": 2.96
+            },
+            {
+              "word": "Já",
+              "start": 3.44,
+              "end": 3.52
+            },
+            {
+              "word": "se",
+              "start": 3.6,
+              "end": 3.76
+            },
+            {
+              "word": "jmenuji",
+              "start": 3.84,
+              "end": 4.08
+            },
+            {
+              "word": "Marek,",
+              "start": 4.16,
+              "end": 4.56
+            },
+            {
+              "word": "tamto",
+              "start": 4.88,
+              "end": 5.04
+            },
+            {
+              "word": "byl",
+              "start": 5.12,
+              "end": 5.24
+            },
+            {
+              "word": "Karel",
+              "start": 5.28,
+              "end": 5.68
+            },
+            {
+              "word": "a",
+              "start": 5.92,
+              "end": 6.0
+            },
+            {
+              "word": "tohle",
+              "start": 6.16,
+              "end": 6.48
+            },
+            {
+              "word": "je",
+              "start": 6.56,
+              "end": 6.64
+            },
+            {
+              "word": "Tereza.",
+              "start": 6.72,
+              "end": 7.12
+            },
+            {
+              "word": "Pojď",
+              "start": 7.52,
+              "end": 7.733
+            },
+            {
+              "word": "dál.“",
+              "start": 7.787,
+              "end": 8.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Za dveřmi se ozve hlasité žuchnutí.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Za dveřmi se ozve hlasité žuchnutí.\",\"tts\":\"[amused] Za dveřmi se ozve hlasité žuchnutí.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.239,
+          "words": [
+            {
+              "word": "Za",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "dveřmi",
+              "start": 0.4,
+              "end": 0.8
+            },
+            {
+              "word": "se",
+              "start": 0.88,
+              "end": 1.04
+            },
+            {
+              "word": "ozve",
+              "start": 1.12,
+              "end": 1.36
+            },
+            {
+              "word": "hlasité",
+              "start": 1.44,
+              "end": 2.08
+            },
+            {
+              "word": "žuchnutí.",
+              "start": 2.12,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jsem v pořádku! Spadl jsem schválně, abych prolomil ledy.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "04_karel.mp3",
+          "request": "{\"text\":\"„Jsem v pořádku! Spadl jsem schválně, abych prolomil ledy.“\",\"tts\":\"[groans] „Jsem v pořádku! [laughs] Spadl jsem schválně, abych prolomil ledy.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.878,
+          "words": [
+            {
+              "word": "„Jsem",
+              "start": 1.0,
+              "end": 1.2
+            },
+            {
+              "word": "v",
+              "start": 1.28,
+              "end": 1.32
+            },
+            {
+              "word": "pořádku!",
+              "start": 1.36,
+              "end": 2.24
+            },
+            {
+              "word": "Spadl",
+              "start": 3.04,
+              "end": 3.28
+            },
+            {
+              "word": "jsem",
+              "start": 3.32,
+              "end": 3.52
+            },
+            {
+              "word": "schválně,",
+              "start": 3.6,
+              "end": 4.08
+            },
+            {
+              "word": "abych",
+              "start": 4.32,
+              "end": 4.56
+            },
+            {
+              "word": "prolomil",
+              "start": 4.64,
+              "end": 5.04
+            },
+            {
+              "word": "ledy.“",
+              "start": 5.16,
+              "end": 5.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Marku! Náš deník nejde otevřít.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "05_tereza.mp3",
+          "request": "{\"text\":\"„Marku! Náš deník nejde otevřít.“\",\"tts\":\"[worried] „Marku! Náš deník nejde otevřít.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.318,
+          "words": [
+            {
+              "word": "„Marku!",
+              "start": 0.16,
+              "end": 0.72
+            },
+            {
+              "word": "Náš",
+              "start": 1.2,
+              "end": 1.44
+            },
+            {
+              "word": "deník",
+              "start": 1.56,
+              "end": 1.84
+            },
+            {
+              "word": "nejde",
+              "start": 1.92,
+              "end": 2.16
+            },
+            {
+              "word": "otevřít.“",
+              "start": 2.28,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Včera večer ho omotala divoká liána.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "06_tereza.mp3",
+          "request": "{\"text\":\"„Včera večer ho omotala divoká liána.“\",\"tts\":\"„Včera večer ho omotala divoká liána.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.004,
+          "words": [
+            {
+              "word": "„Včera",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "večer",
+              "start": 0.52,
+              "end": 0.8
+            },
+            {
+              "word": "ho",
+              "start": 0.88,
+              "end": 1.04
+            },
+            {
+              "word": "omotala",
+              "start": 1.12,
+              "end": 1.52
+            },
+            {
+              "word": "divoká",
+              "start": 1.6,
+              "end": 2.08
+            },
+            {
+              "word": "liána.“",
+              "start": 2.2,
+              "end": 2.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Zkoušeli jsme ji odmotat, ale liána drží jako přilepená.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "07_tereza.mp3",
+          "request": "{\"text\":\"„Zkoušeli jsme ji odmotat, ale liána drží jako přilepená.“\",\"tts\":\"[sighs] „Zkoušeli jsme ji odmotat, ale liána drží jako přilepená.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.407,
+          "words": [
+            {
+              "word": "„Zkoušeli",
+              "start": 0.88,
+              "end": 1.36
+            },
+            {
+              "word": "jsme",
+              "start": 1.4,
+              "end": 1.52
+            },
+            {
+              "word": "ji",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "odmotat,",
+              "start": 1.76,
+              "end": 2.24
+            },
+            {
+              "word": "ale",
+              "start": 2.64,
+              "end": 2.88
+            },
+            {
+              "word": "liána",
+              "start": 3.0,
+              "end": 3.44
+            },
+            {
+              "word": "drží",
+              "start": 3.52,
+              "end": 3.8
+            },
+            {
+              "word": "jako",
+              "start": 3.84,
+              "end": 4.08
+            },
+            {
+              "word": "přilepená.“",
+              "start": 4.12,
+              "end": 4.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Bez deníku nemůžeme dělat průzkum lesa.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "08_marek.mp3",
+          "request": "{\"text\":\"„Bez deníku nemůžeme dělat průzkum lesa.“\",\"tts\":\"[seriously] „Bez deníku nemůžeme dělat průzkum lesa.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.004,
+          "words": [
+            {
+              "word": "„Bez",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "deníku",
+              "start": 0.44,
+              "end": 0.8
+            },
+            {
+              "word": "nemůžeme",
+              "start": 0.88,
+              "end": 1.36
+            },
+            {
+              "word": "dělat",
+              "start": 1.4,
+              "end": 1.68
+            },
+            {
+              "word": "průzkum",
+              "start": 1.76,
+              "end": 2.16
+            },
+            {
+              "word": "lesa.“",
+              "start": 2.32,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

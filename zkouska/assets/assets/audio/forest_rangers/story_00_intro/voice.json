@@ -1,0 +1,324 @@
+{
+  "page": "story_00_intro",
+  "lines": [
+    {
+      "text": "Za jednou vesnicí roste velký les, který nezná žádný nudný dospělák. V něm stojí stará vrba s tajnou klubovnou uvnitř kmene. Dnes se k ní poprvé blížíš i ty. A to zrovna v den, kdy mají strážci stoleté narozeniny.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Za jednou vesnicí roste velký les, který nezná žádný nudný dospělák. V něm stojí stará vrba s tajnou klubovnou uvnitř kmene. Dnes se k ní poprvé blížíš i ty. A to zrovna v den, kdy mají strážci stoleté narozeniny.\",\"tts\":\"[warmly] Za jednou vesnicí roste velký les, který nezná žádný nudný dospělák. [mysteriously] V něm stojí stará vrba s tajnou klubovnou uvnitř kmene. Dnes se k ní poprvé blížíš i ty. [warmly] A to zrovna v den, kdy mají strážci stoleté narozeniny.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 17.006,
+          "words": [
+            {
+              "word": "Za",
+              "start": 0.24,
+              "end": 0.36
+            },
+            {
+              "word": "jednou",
+              "start": 0.4,
+              "end": 0.64
+            },
+            {
+              "word": "vesnicí",
+              "start": 0.72,
+              "end": 1.28
+            },
+            {
+              "word": "roste",
+              "start": 1.36,
+              "end": 1.76
+            },
+            {
+              "word": "velký",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "word": "les,",
+              "start": 2.32,
+              "end": 2.64
+            },
+            {
+              "word": "který",
+              "start": 2.76,
+              "end": 3.04
+            },
+            {
+              "word": "nezná",
+              "start": 3.12,
+              "end": 3.6
+            },
+            {
+              "word": "žádný",
+              "start": 3.68,
+              "end": 4.16
+            },
+            {
+              "word": "nudný",
+              "start": 4.24,
+              "end": 4.56
+            },
+            {
+              "word": "dospělák.",
+              "start": 4.64,
+              "end": 5.36
+            },
+            {
+              "word": "V",
+              "start": 5.984,
+              "end": 6.0
+            },
+            {
+              "word": "něm",
+              "start": 6.04,
+              "end": 6.24
+            },
+            {
+              "word": "stojí",
+              "start": 6.32,
+              "end": 6.64
+            },
+            {
+              "word": "stará",
+              "start": 6.72,
+              "end": 7.12
+            },
+            {
+              "word": "vrba",
+              "start": 7.2,
+              "end": 7.52
+            },
+            {
+              "word": "s",
+              "start": 7.6,
+              "end": 7.68
+            },
+            {
+              "word": "tajnou",
+              "start": 7.76,
+              "end": 8.16
+            },
+            {
+              "word": "klubovnou",
+              "start": 8.24,
+              "end": 8.8
+            },
+            {
+              "word": "uvnitř",
+              "start": 8.96,
+              "end": 9.36
+            },
+            {
+              "word": "kmene.",
+              "start": 9.44,
+              "end": 9.84
+            },
+            {
+              "word": "Dnes",
+              "start": 10.48,
+              "end": 10.88
+            },
+            {
+              "word": "se",
+              "start": 10.96,
+              "end": 11.12
+            },
+            {
+              "word": "k",
+              "start": 11.147,
+              "end": 11.173
+            },
+            {
+              "word": "ní",
+              "start": 11.2,
+              "end": 11.36
+            },
+            {
+              "word": "poprvé",
+              "start": 11.44,
+              "end": 11.84
+            },
+            {
+              "word": "blížíš",
+              "start": 11.92,
+              "end": 12.4
+            },
+            {
+              "word": "i",
+              "start": 12.44,
+              "end": 12.48
+            },
+            {
+              "word": "ty.",
+              "start": 12.56,
+              "end": 12.8
+            },
+            {
+              "word": "A",
+              "start": 13.467,
+              "end": 13.493
+            },
+            {
+              "word": "to",
+              "start": 13.52,
+              "end": 13.6
+            },
+            {
+              "word": "zrovna",
+              "start": 13.68,
+              "end": 14.0
+            },
+            {
+              "word": "v",
+              "start": 14.08,
+              "end": 14.12
+            },
+            {
+              "word": "den,",
+              "start": 14.16,
+              "end": 14.4
+            },
+            {
+              "word": "kdy",
+              "start": 14.48,
+              "end": 14.64
+            },
+            {
+              "word": "mají",
+              "start": 14.72,
+              "end": 14.88
+            },
+            {
+              "word": "strážci",
+              "start": 14.96,
+              "end": 15.52
+            },
+            {
+              "word": "stoleté",
+              "start": 15.6,
+              "end": 16.16
+            },
+            {
+              "word": "narozeniny.",
+              "start": 16.24,
+              "end": 16.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Stůj! Dovnitř smí jen ten, kdo zná tajný pozdrav.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "02_marek.mp3",
+          "request": "{\"text\":\"„Stůj! Dovnitř smí jen ten, kdo zná tajný pozdrav.“\",\"tts\":\"[firmly] „Stůj! [playfully] Dovnitř smí jen ten, kdo zná tajný pozdrav.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.519,
+          "words": [
+            {
+              "word": "„Stůj!",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "Dovnitř",
+              "start": 1.04,
+              "end": 1.48
+            },
+            {
+              "word": "smí",
+              "start": 1.52,
+              "end": 1.76
+            },
+            {
+              "word": "jen",
+              "start": 1.88,
+              "end": 2.0
+            },
+            {
+              "word": "ten,",
+              "start": 2.16,
+              "end": 2.32
+            },
+            {
+              "word": "kdo",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "zná",
+              "start": 2.72,
+              "end": 2.96
+            },
+            {
+              "word": "tajný",
+              "start": 3.04,
+              "end": 3.44
+            },
+            {
+              "word": "pozdrav.“",
+              "start": 3.52,
+              "end": 4.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Chceš se k nám přidat? Máš dobrý postřeh?“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "03_karel.mp3",
+          "request": "{\"text\":\"„Chceš se k nám přidat? Máš dobrý postřeh?“\",\"tts\":\"[excited] „Chceš se k nám přidat? [questioning] Máš dobrý postřeh?“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.926,
+          "words": [
+            {
+              "word": "„Chceš",
+              "start": 0.12,
+              "end": 0.32
+            },
+            {
+              "word": "se",
+              "start": 0.36,
+              "end": 0.4
+            },
+            {
+              "word": "k",
+              "start": 0.44,
+              "end": 0.48
+            },
+            {
+              "word": "nám",
+              "start": 0.52,
+              "end": 0.64
+            },
+            {
+              "word": "přidat?",
+              "start": 0.72,
+              "end": 1.12
+            },
+            {
+              "word": "Máš",
+              "start": 1.66,
+              "end": 1.84
+            },
+            {
+              "word": "dobrý",
+              "start": 1.92,
+              "end": 2.08
+            },
+            {
+              "word": "postřeh?“",
+              "start": 2.16,
+              "end": 2.64
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

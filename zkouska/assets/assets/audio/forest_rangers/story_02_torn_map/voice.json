@@ -1,0 +1,298 @@
+{
+  "page": "story_02_torn_map",
+  "lines": [
+    {
+      "text": "Liána povolí, deník se otevře a vypadne z něj hromádka papírových útržků.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Liána povolí, deník se otevře a vypadne z něj hromádka papírových útržků.\",\"tts\":\"Liána povolí, deník se otevře a vypadne z něj hromádka papírových útržků.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.348,
+          "words": [
+            {
+              "word": "Liána",
+              "start": 0.0,
+              "end": 0.48
+            },
+            {
+              "word": "povolí,",
+              "start": 0.56,
+              "end": 1.2
+            },
+            {
+              "word": "deník",
+              "start": 1.6,
+              "end": 1.96
+            },
+            {
+              "word": "se",
+              "start": 2.0,
+              "end": 2.16
+            },
+            {
+              "word": "otevře",
+              "start": 2.28,
+              "end": 2.72
+            },
+            {
+              "word": "a",
+              "start": 3.12,
+              "end": 3.2
+            },
+            {
+              "word": "vypadne",
+              "start": 3.28,
+              "end": 3.68
+            },
+            {
+              "word": "z",
+              "start": 3.76,
+              "end": 3.8
+            },
+            {
+              "word": "něj",
+              "start": 3.84,
+              "end": 4.0
+            },
+            {
+              "word": "hromádka",
+              "start": 4.04,
+              "end": 4.64
+            },
+            {
+              "word": "papírových",
+              "start": 4.8,
+              "end": 5.44
+            },
+            {
+              "word": "útržků.",
+              "start": 5.52,
+              "end": 6.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To je stará mapa lesa!“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„To je stará mapa lesa!“\",\"tts\":\"[excited] „To je stará mapa lesa!“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.724,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "je",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "stará",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "word": "mapa",
+              "start": 0.8,
+              "end": 1.04
+            },
+            {
+              "word": "lesa!“",
+              "start": 1.2,
+              "end": 1.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ale ne, někdo ji roztrhal. Karle?“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "03_tereza.mp3",
+          "request": "{\"text\":\"„Ale ne, někdo ji roztrhal. Karle?“\",\"tts\":\"[disappointed] „Ale ne, někdo ji roztrhal. [suspiciously] Karle?“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.709,
+          "words": [
+            {
+              "word": "„Ale",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "ne,",
+              "start": 0.48,
+              "end": 0.8
+            },
+            {
+              "word": "někdo",
+              "start": 1.28,
+              "end": 1.6
+            },
+            {
+              "word": "ji",
+              "start": 1.64,
+              "end": 1.68
+            },
+            {
+              "word": "roztrhal.",
+              "start": 1.8,
+              "end": 2.4
+            },
+            {
+              "word": "Karle?“",
+              "start": 3.16,
+              "end": 3.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Já to nebyl. … Asi.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "04_karel.mp3",
+          "request": "{\"text\":\"„Já to nebyl. … Asi.“\",\"tts\":\"[nervously] „Já to nebyl. … Asi.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.847,
+          "words": [
+            {
+              "word": "„Já",
+              "start": 0.24,
+              "end": 0.4
+            },
+            {
+              "word": "to",
+              "start": 0.48,
+              "end": 0.64
+            },
+            {
+              "word": "nebyl.",
+              "start": 0.72,
+              "end": 1.2
+            },
+            {
+              "word": "Asi.“",
+              "start": 1.84,
+              "end": 2.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Papír je starší než naše babičky. Tenhle se roztrhne i sám.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "05_tereza.mp3",
+          "request": "{\"text\":\"„Papír je starší než naše babičky. Tenhle se roztrhne i sám.“\",\"tts\":\"[thoughtfully] „Papír je starší než naše babičky. Tenhle se roztrhne i sám.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.833,
+          "words": [
+            {
+              "word": "„Papír",
+              "start": 0.12,
+              "end": 0.48
+            },
+            {
+              "word": "je",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "starší",
+              "start": 0.8,
+              "end": 1.12
+            },
+            {
+              "word": "než",
+              "start": 1.2,
+              "end": 1.36
+            },
+            {
+              "word": "naše",
+              "start": 1.44,
+              "end": 1.6
+            },
+            {
+              "word": "babičky.",
+              "start": 1.68,
+              "end": 2.24
+            },
+            {
+              "word": "Tenhle",
+              "start": 2.84,
+              "end": 3.12
+            },
+            {
+              "word": "se",
+              "start": 3.2,
+              "end": 3.28
+            },
+            {
+              "word": "roztrhne",
+              "start": 3.36,
+              "end": 3.76
+            },
+            {
+              "word": "i",
+              "start": 3.84,
+              "end": 3.92
+            },
+            {
+              "word": "sám.“",
+              "start": 3.96,
+              "end": 4.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dobře. Co teď s tím?“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "06_marek.mp3",
+          "request": "{\"text\":\"„Dobře. Co teď s tím?“\",\"tts\":\"[determined] „Dobře. Co teď s tím?“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.116,
+          "words": [
+            {
+              "word": "„Dobře.",
+              "start": 0.12,
+              "end": 0.56
+            },
+            {
+              "word": "Co",
+              "start": 0.96,
+              "end": 1.04
+            },
+            {
+              "word": "teď",
+              "start": 1.12,
+              "end": 1.28
+            },
+            {
+              "word": "s",
+              "start": 1.32,
+              "end": 1.36
+            },
+            {
+              "word": "tím?“",
+              "start": 1.4,
+              "end": 1.68
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

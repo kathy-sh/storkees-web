@@ -1,0 +1,1146 @@
+{
+  "frameSize": 600,
+  "defaults": {
+    "skin": "plet_broskvova",
+    "hair": "vlasy_mikado_kastanova",
+    "clothes": "obleceni_svetr_modra"
+  },
+  "parts": [
+    {
+      "file": "plet_broskvova.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "broskvova",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_svetla.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "svetla",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_piskova.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "piskova",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_karamelova.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "karamelova",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_hneda.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "hneda",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_tmava.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "tmava",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_zelena.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "zelena",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_modra.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "modra",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_fialova.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "fialova",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "plet_ruzova.webp",
+      "kind": "skin",
+      "shape": "",
+      "color": "ruzova",
+      "order": 20,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_cerna.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_zelena.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_modra.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_ruzova.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_fialova.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_cervena.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_zluta.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_oranzova.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_svetr_seda.webp",
+      "kind": "clothes",
+      "shape": "svetr",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "odmena_obleceni_forest_rangers.webp",
+      "kind": "clothes",
+      "shape": "forest_rangers",
+      "color": "",
+      "order": 30,
+      "reward": true
+    },
+    {
+      "file": "odmena_obleceni_museum.webp",
+      "kind": "clothes",
+      "shape": "museum",
+      "color": "",
+      "order": 30,
+      "reward": true
+    },
+    {
+      "file": "vlasy_velmi_kratke_kastanova.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_cerna.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_blond.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_platinova.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_zelena.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_modra.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_ruzova.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_fialova.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_cervena.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_velmi_kratke_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "velmi_kratke",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_kastanova.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_cerna.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_blond.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_platinova.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_zelena.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_modra.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_ruzova.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_fialova.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_cervena.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_uhlazene_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "uhlazene",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_kastanova.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_cerna.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_blond.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_platinova.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_zelena.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_modra.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_ruzova.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_fialova.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_cervena.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kratke_kudrliny_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "kratke_kudrliny",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_kastanova.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_cerna.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_blond.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_platinova.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_zelena.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_modra.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_ruzova.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_fialova.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_cervena.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_rozcuch_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "rozcuch",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_kastanova.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_cerna.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_blond.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_platinova.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_zelena.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_modra.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_ruzova.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_fialova.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_cervena.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_huste_kudrny_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "huste_kudrny",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_kastanova.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_cerna.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_blond.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_platinova.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_zelena.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_modra.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_ruzova.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_fialova.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_cervena.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_delsi_rovne_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "delsi_rovne",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_kastanova.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_cerna.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_blond.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_platinova.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_zelena.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_modra.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_ruzova.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_fialova.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_cervena.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_drdulky_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "drdulky",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_kastanova.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_cerna.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_blond.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_platinova.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_zelena.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_modra.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_ruzova.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_fialova.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_cervena.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_mikado_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "mikado",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_kastanova.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_cerna.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_blond.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_platinova.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_zelena.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_modra.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_ruzova.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_fialova.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_cervena.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_kudrny_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "kudrny",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_kastanova.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_cerna.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_blond.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_platinova.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_zelena.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_modra.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_ruzova.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_fialova.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_cervena.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_copy_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "copy",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_kastanova.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "kastanova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_cerna.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "cerna",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_tmave_hneda.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "tmave_hneda",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_blond.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "blond",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_platinova.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "platinova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_zelena.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "zelena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_modra.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "modra",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_ruzova.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "ruzova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_fialova.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "fialova",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_cervena.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "cervena",
+      "order": 60,
+      "reward": false
+    },
+    {
+      "file": "vlasy_dlouhe_rovne_svetle_hneda.webp",
+      "kind": "hair",
+      "shape": "dlouhe_rovne",
+      "color": "svetle_hneda",
+      "order": 60,
+      "reward": false
+    }
+  ]
+}

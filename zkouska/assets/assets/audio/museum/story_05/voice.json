@@ -1,0 +1,341 @@
+{
+  "page": "story_05",
+  "lines": [
+    {
+      "text": "Poslední kost zapadne na své místo. Kostra se zachvěje, pomalu zvedne hlavu… a ukáže čelistí k pískovišti v rohu sálu.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Poslední kost zapadne na své místo. Kostra se zachvěje, pomalu zvedne hlavu… a ukáže čelistí k pískovišti v rohu sálu.\",\"tts\":\"[amazed] Poslední kost zapadne na své místo. Kostra se zachvěje, pomalu zvedne hlavu… a ukáže čelistí k pískovišti v rohu sálu.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.24,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Poslední",
+              "start": 0.602,
+              "end": 1.162
+            },
+            {
+              "word": "kost",
+              "start": 1.322,
+              "end": 1.722
+            },
+            {
+              "word": "zapadne",
+              "start": 1.802,
+              "end": 2.282
+            },
+            {
+              "word": "na",
+              "start": 2.362,
+              "end": 2.442
+            },
+            {
+              "word": "své",
+              "start": 2.522,
+              "end": 2.642
+            },
+            {
+              "word": "místo.",
+              "start": 2.682,
+              "end": 3.162
+            },
+            {
+              "word": "Kostra",
+              "start": 3.722,
+              "end": 4.122
+            },
+            {
+              "word": "se",
+              "start": 4.162,
+              "end": 4.202
+            },
+            {
+              "word": "zachvěje,",
+              "start": 4.282,
+              "end": 4.922
+            },
+            {
+              "word": "pomalu",
+              "start": 5.322,
+              "end": 5.642
+            },
+            {
+              "word": "zvedne",
+              "start": 5.722,
+              "end": 6.042
+            },
+            {
+              "word": "hlavu…",
+              "start": 6.122,
+              "end": 6.522
+            },
+            {
+              "word": "a",
+              "start": 7.162,
+              "end": 7.242
+            },
+            {
+              "word": "ukáže",
+              "start": 7.322,
+              "end": 7.802
+            },
+            {
+              "word": "čelistí",
+              "start": 7.882,
+              "end": 8.362
+            },
+            {
+              "word": "k",
+              "start": 8.442,
+              "end": 8.482
+            },
+            {
+              "word": "pískovišti",
+              "start": 8.522,
+              "end": 9.242
+            },
+            {
+              "word": "v",
+              "start": 9.282,
+              "end": 9.322
+            },
+            {
+              "word": "rohu",
+              "start": 9.362,
+              "end": 9.562
+            },
+            {
+              "word": "sálu.",
+              "start": 9.642,
+              "end": 10.042
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ehm. Děkujeme?“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "02_ema.mp3",
+          "request": "{\"text\":\"„Ehm. Děkujeme?“\",\"tts\":\"[confused] „Ehm. Děkujeme?“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.194,
+          "words": [
+            {
+              "word": "„Ehm.",
+              "start": 0.16,
+              "end": 0.64
+            },
+            {
+              "word": "Děkujeme?“",
+              "start": 1.2,
+              "end": 2.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Rozumím tomu správně, že nám právě poradil dinosaurus?“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "03_nela.mp3",
+          "request": "{\"text\":\"„Rozumím tomu správně, že nám právě poradil dinosaurus?“\",\"tts\":\"[dryly] „Rozumím tomu správně, že nám právě poradil dinosaurus?“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.971,
+          "words": [
+            {
+              "word": "„Rozumím",
+              "start": 0.24,
+              "end": 0.64
+            },
+            {
+              "word": "tomu",
+              "start": 0.72,
+              "end": 0.88
+            },
+            {
+              "word": "správně,",
+              "start": 0.96,
+              "end": 1.52
+            },
+            {
+              "word": "že",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "nám",
+              "start": 1.72,
+              "end": 1.92
+            },
+            {
+              "word": "právě",
+              "start": 2.0,
+              "end": 2.32
+            },
+            {
+              "word": "poradil",
+              "start": 2.4,
+              "end": 2.8
+            },
+            {
+              "word": "dinosaurus?“",
+              "start": 2.88,
+              "end": 3.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pískoviště ale vypadá úplně obyčejně. Hromada písku a v ní… nic.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Pískoviště ale vypadá úplně obyčejně. Hromada písku a v ní… nic.\",\"tts\":\"Pískoviště ale vypadá úplně obyčejně. Hromada písku a v ní… [pause] nic.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.531,
+          "words": [
+            {
+              "word": "Pískoviště",
+              "start": 0.0,
+              "end": 0.64
+            },
+            {
+              "word": "ale",
+              "start": 0.76,
+              "end": 0.88
+            },
+            {
+              "word": "vypadá",
+              "start": 0.987,
+              "end": 1.36
+            },
+            {
+              "word": "úplně",
+              "start": 1.44,
+              "end": 1.84
+            },
+            {
+              "word": "obyčejně.",
+              "start": 1.96,
+              "end": 2.48
+            },
+            {
+              "word": "Hromada",
+              "start": 3.04,
+              "end": 3.44
+            },
+            {
+              "word": "písku",
+              "start": 3.52,
+              "end": 4.16
+            },
+            {
+              "word": "a",
+              "start": 4.32,
+              "end": 4.4
+            },
+            {
+              "word": "v",
+              "start": 4.48,
+              "end": 4.52
+            },
+            {
+              "word": "ní…",
+              "start": 4.56,
+              "end": 4.96
+            },
+            {
+              "word": "nic.",
+              "start": 5.92,
+              "end": 6.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Žádná cedulka. Žádný vzkaz. Žádná šipka ‚Klíč je tady‘. To je teda pomoc.“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "05_nela.mp3",
+          "request": "{\"text\":\"„Žádná cedulka. Žádný vzkaz. Žádná šipka ‚Klíč je tady‘. To je teda pomoc.“\",\"tts\":\"[sarcastically] „Žádná cedulka. Žádný vzkaz. Žádná šipka ‚Klíč je tady‘. To je teda pomoc.“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.001,
+          "words": [
+            {
+              "word": "„Žádná",
+              "start": 0.24,
+              "end": 0.64
+            },
+            {
+              "word": "cedulka.",
+              "start": 0.8,
+              "end": 1.36
+            },
+            {
+              "word": "Žádný",
+              "start": 1.76,
+              "end": 2.08
+            },
+            {
+              "word": "vzkaz.",
+              "start": 2.16,
+              "end": 2.64
+            },
+            {
+              "word": "Žádná",
+              "start": 3.12,
+              "end": 3.44
+            },
+            {
+              "word": "šipka",
+              "start": 3.52,
+              "end": 3.92
+            },
+            {
+              "word": "‚Klíč",
+              "start": 4.12,
+              "end": 4.48
+            },
+            {
+              "word": "je",
+              "start": 4.56,
+              "end": 4.64
+            },
+            {
+              "word": "tady‘.",
+              "start": 4.68,
+              "end": 4.96
+            },
+            {
+              "word": "To",
+              "start": 5.44,
+              "end": 5.6
+            },
+            {
+              "word": "je",
+              "start": 5.68,
+              "end": 5.76
+            },
+            {
+              "word": "teda",
+              "start": 5.84,
+              "end": 6.08
+            },
+            {
+              "word": "pomoc.“",
+              "start": 6.12,
+              "end": 6.56
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
