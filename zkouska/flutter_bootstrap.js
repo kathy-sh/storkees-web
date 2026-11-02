@@ -48,7 +48,15 @@ _flutter.buildConfig = {"engineRevision":"692136cb6582dbfc5af3fb33c2515a069f2f66
 _flutter.loader.load({
   onEntrypointLoaded: async function (engineInitializer) {
     var options = {};
-    if (window.navigator.standalone) {
+    var fromIcon =
+      window.navigator.standalone === true ||
+      window.matchMedia('(display-mode: standalone)').matches ||
+      window.matchMedia('(display-mode: fullscreen)').matches;
+    window.storkeesFromIcon = fromIcon;
+    if (fromIcon) {
+      // What the game does not reach: dark, not a light strip.
+      document.documentElement.style.background = '#000';
+      document.body.style.background = '#000';
       var host = document.createElement('div');
       host.id = 'storkees-host';
       host.style.cssText =

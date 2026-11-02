@@ -236,6 +236,14 @@
             (navigator.audioSession ? ' | ' + navigator.audioSession.type : ' | bez session') +
             (location.search.indexOf('bez_zvuku') >= 0 ? ' | BEZ ZVUKU' : '') +
             ' | okno ' + innerWidth + 'x' + innerHeight +
+            ' | displej ' + screen.height +
+            ' | ikona ' + (window.storkeesFromIcon ? 'ano' : 'ne') +
+            ' | hra ' + (function () {
+              var view = document.querySelector('flutter-view');
+              if (!view) return '?';
+              var box = view.getBoundingClientRect();
+              return Math.round(box.top) + '-' + Math.round(box.bottom);
+            })() +
             (note ? ' | ' + note : '');
           frames = 0;
           worst = 0;
