@@ -1,0 +1,872 @@
+{
+  "page": "story_22",
+  "lines": [
+    {
+      "text": "Poslední součástka zapadne na své místo a pod bedýnkou se zaleskne zlatý úlomek klíče s kolečkem. Hodinář vezme bedýnku do rukou. Chvíli se na ni dívá. A pak se mu v očích rozsvítí. Tentokrát doopravdy.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Poslední součástka zapadne na své místo a pod bedýnkou se zaleskne zlatý úlomek klíče s kolečkem. Hodinář vezme bedýnku do rukou. Chvíli se na ni dívá. A pak se mu v očích rozsvítí. Tentokrát doopravdy.\",\"tts\":\"[warmly] Poslední součástka zapadne na své místo a pod bedýnkou se zaleskne zlatý úlomek klíče s kolečkem. Hodinář vezme bedýnku do rukou. Chvíli se na ni dívá. A pak se mu v očích rozsvítí. Tentokrát doopravdy.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 17.607,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Poslední",
+              "start": 0.602,
+              "end": 1.082
+            },
+            {
+              "word": "součástka",
+              "start": 1.122,
+              "end": 1.882
+            },
+            {
+              "word": "zapadne",
+              "start": 2.002,
+              "end": 2.282
+            },
+            {
+              "word": "na",
+              "start": 2.362,
+              "end": 2.442
+            },
+            {
+              "word": "své",
+              "start": 2.522,
+              "end": 2.682
+            },
+            {
+              "word": "místo",
+              "start": 2.762,
+              "end": 3.242
+            },
+            {
+              "word": "a",
+              "start": 3.562,
+              "end": 3.722
+            },
+            {
+              "word": "pod",
+              "start": 3.802,
+              "end": 3.962
+            },
+            {
+              "word": "bedýnkou",
+              "start": 4.042,
+              "end": 4.522
+            },
+            {
+              "word": "se",
+              "start": 4.602,
+              "end": 4.682
+            },
+            {
+              "word": "zaleskne",
+              "start": 4.762,
+              "end": 5.242
+            },
+            {
+              "word": "zlatý",
+              "start": 5.322,
+              "end": 5.722
+            },
+            {
+              "word": "úlomek",
+              "start": 5.882,
+              "end": 6.282
+            },
+            {
+              "word": "klíče",
+              "start": 6.362,
+              "end": 6.762
+            },
+            {
+              "word": "s",
+              "start": 6.802,
+              "end": 6.842
+            },
+            {
+              "word": "kolečkem.",
+              "start": 6.922,
+              "end": 7.562
+            },
+            {
+              "word": "Hodinář",
+              "start": 8.522,
+              "end": 9.162
+            },
+            {
+              "word": "vezme",
+              "start": 9.282,
+              "end": 9.482
+            },
+            {
+              "word": "bedýnku",
+              "start": 9.562,
+              "end": 10.042
+            },
+            {
+              "word": "do",
+              "start": 10.122,
+              "end": 10.202
+            },
+            {
+              "word": "rukou.",
+              "start": 10.322,
+              "end": 10.682
+            },
+            {
+              "word": "Chvíli",
+              "start": 11.242,
+              "end": 11.642
+            },
+            {
+              "word": "se",
+              "start": 11.722,
+              "end": 11.802
+            },
+            {
+              "word": "na",
+              "start": 11.882,
+              "end": 11.962
+            },
+            {
+              "word": "ni",
+              "start": 12.042,
+              "end": 12.122
+            },
+            {
+              "word": "dívá.",
+              "start": 12.162,
+              "end": 12.602
+            },
+            {
+              "word": "A",
+              "start": 13.402,
+              "end": 13.482
+            },
+            {
+              "word": "pak",
+              "start": 13.642,
+              "end": 13.882
+            },
+            {
+              "word": "se",
+              "start": 13.962,
+              "end": 14.042
+            },
+            {
+              "word": "mu",
+              "start": 14.122,
+              "end": 14.202
+            },
+            {
+              "word": "v",
+              "start": 14.229,
+              "end": 14.255
+            },
+            {
+              "word": "očích",
+              "start": 14.282,
+              "end": 14.602
+            },
+            {
+              "word": "rozsvítí.",
+              "start": 14.682,
+              "end": 15.402
+            },
+            {
+              "word": "Tentokrát",
+              "start": 15.962,
+              "end": 16.602
+            },
+            {
+              "word": "doopravdy.",
+              "start": 16.682,
+              "end": 17.322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Už si vzpomínám. Na všechno. Za orlojem je tajná chodba, která vede k srdci muzea.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "02_clockmaker.mp3",
+          "request": "{\"text\":\"„Už si vzpomínám. Na všechno. Za orlojem je tajná chodba, která vede k srdci muzea.“\",\"tts\":\"[relieved] „Už si vzpomínám. Na všechno. [thoughtfully] Za orlojem je tajná chodba, která vede k srdci muzea.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.393,
+          "words": [
+            {
+              "word": "„Už",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "si",
+              "start": 0.32,
+              "end": 0.4
+            },
+            {
+              "word": "vzpomínám.",
+              "start": 0.44,
+              "end": 1.36
+            },
+            {
+              "word": "Na",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "všechno.",
+              "start": 2.08,
+              "end": 2.64
+            },
+            {
+              "word": "Za",
+              "start": 3.36,
+              "end": 3.52
+            },
+            {
+              "word": "orlojem",
+              "start": 3.6,
+              "end": 4.08
+            },
+            {
+              "word": "je",
+              "start": 4.16,
+              "end": 4.24
+            },
+            {
+              "word": "tajná",
+              "start": 4.32,
+              "end": 4.64
+            },
+            {
+              "word": "chodba,",
+              "start": 4.72,
+              "end": 5.12
+            },
+            {
+              "word": "která",
+              "start": 5.48,
+              "end": 5.76
+            },
+            {
+              "word": "vede",
+              "start": 5.84,
+              "end": 6.08
+            },
+            {
+              "word": "k",
+              "start": 6.16,
+              "end": 6.2
+            },
+            {
+              "word": "srdci",
+              "start": 6.24,
+              "end": 6.64
+            },
+            {
+              "word": "muzea.“",
+              "start": 6.72,
+              "end": 7.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Baronka mě přinutila ho zastavit a zapečetit. Od té chvíle je tu pořád půlnoc. Ráno nikdy nepřijde a dveře se nikdy neotevřou.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "03_clockmaker.mp3",
+          "request": "{\"text\":\"„Baronka mě přinutila ho zastavit a zapečetit. Od té chvíle je tu pořád půlnoc. Ráno nikdy nepřijde a dveře se nikdy neotevřou.“\",\"tts\":\"[seriously] „Baronka mě přinutila ho zastavit a zapečetit. Od té chvíle je tu pořád půlnoc. Ráno nikdy nepřijde a dveře se nikdy neotevřou.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.841,
+          "words": [
+            {
+              "word": "„Baronka",
+              "start": 0.24,
+              "end": 0.56
+            },
+            {
+              "word": "mě",
+              "start": 0.6,
+              "end": 0.8
+            },
+            {
+              "word": "přinutila",
+              "start": 0.84,
+              "end": 1.36
+            },
+            {
+              "word": "ho",
+              "start": 1.44,
+              "end": 1.52
+            },
+            {
+              "word": "zastavit",
+              "start": 1.56,
+              "end": 2.16
+            },
+            {
+              "word": "a",
+              "start": 2.24,
+              "end": 2.32
+            },
+            {
+              "word": "zapečetit.",
+              "start": 2.36,
+              "end": 3.12
+            },
+            {
+              "word": "Od",
+              "start": 3.76,
+              "end": 3.92
+            },
+            {
+              "word": "té",
+              "start": 4.0,
+              "end": 4.08
+            },
+            {
+              "word": "chvíle",
+              "start": 4.16,
+              "end": 4.56
+            },
+            {
+              "word": "je",
+              "start": 4.6,
+              "end": 4.64
+            },
+            {
+              "word": "tu",
+              "start": 4.72,
+              "end": 4.88
+            },
+            {
+              "word": "pořád",
+              "start": 4.96,
+              "end": 5.44
+            },
+            {
+              "word": "půlnoc.",
+              "start": 5.48,
+              "end": 6.0
+            },
+            {
+              "word": "Ráno",
+              "start": 6.64,
+              "end": 6.96
+            },
+            {
+              "word": "nikdy",
+              "start": 7.04,
+              "end": 7.28
+            },
+            {
+              "word": "nepřijde",
+              "start": 7.36,
+              "end": 8.16
+            },
+            {
+              "word": "a",
+              "start": 8.24,
+              "end": 8.32
+            },
+            {
+              "word": "dveře",
+              "start": 8.4,
+              "end": 8.8
+            },
+            {
+              "word": "se",
+              "start": 8.88,
+              "end": 9.12
+            },
+            {
+              "word": "nikdy",
+              "start": 9.2,
+              "end": 9.44
+            },
+            {
+              "word": "neotevřou.“",
+              "start": 9.52,
+              "end": 10.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A klíč?“",
+      "recordings": [
+        {
+          "voice": "jonas",
+          "file": "04_jonas.mp3",
+          "request": "{\"text\":\"„A klíč?“\",\"tts\":\"[nervously] „A klíč?“\",\"voiceId\":\"FaWkkmPaCmlojJvzpzai\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 0.914,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "klíč?“",
+              "start": 0.24,
+              "end": 0.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ten rozlomila ona. Kousek po kousku roznesla úlomky po muzeu a u každého nastražila past, aby už nikdo nemohl srdce muzea znovu probudit. A já hlupák jí ještě svítil na cestu.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "05_clockmaker.mp3",
+          "request": "{\"text\":\"„Ten rozlomila ona. Kousek po kousku roznesla úlomky po muzeu a u každého nastražila past, aby už nikdo nemohl srdce muzea znovu probudit. A já hlupák jí ještě svítil na cestu.“\",\"tts\":\"[sadly] „Ten rozlomila ona. Kousek po kousku roznesla úlomky po muzeu a u každého nastražila past, aby už nikdo nemohl srdce muzea znovu probudit. [sighs] A já hlupák jí ještě svítil na cestu.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 15.308,
+          "words": [
+            {
+              "word": "„Ten",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "rozlomila",
+              "start": 0.48,
+              "end": 1.12
+            },
+            {
+              "word": "ona.",
+              "start": 1.32,
+              "end": 1.52
+            },
+            {
+              "word": "Kousek",
+              "start": 2.4,
+              "end": 2.84
+            },
+            {
+              "word": "po",
+              "start": 2.88,
+              "end": 2.96
+            },
+            {
+              "word": "kousku",
+              "start": 3.04,
+              "end": 3.44
+            },
+            {
+              "word": "roznesla",
+              "start": 3.52,
+              "end": 3.92
+            },
+            {
+              "word": "úlomky",
+              "start": 4.0,
+              "end": 4.4
+            },
+            {
+              "word": "po",
+              "start": 4.48,
+              "end": 4.56
+            },
+            {
+              "word": "muzeu",
+              "start": 4.64,
+              "end": 4.96
+            },
+            {
+              "word": "a",
+              "start": 5.52,
+              "end": 5.6
+            },
+            {
+              "word": "u",
+              "start": 5.68,
+              "end": 5.76
+            },
+            {
+              "word": "každého",
+              "start": 5.84,
+              "end": 6.32
+            },
+            {
+              "word": "nastražila",
+              "start": 6.4,
+              "end": 6.96
+            },
+            {
+              "word": "past,",
+              "start": 7.04,
+              "end": 7.44
+            },
+            {
+              "word": "aby",
+              "start": 7.88,
+              "end": 8.0
+            },
+            {
+              "word": "už",
+              "start": 8.04,
+              "end": 8.24
+            },
+            {
+              "word": "nikdo",
+              "start": 8.32,
+              "end": 8.72
+            },
+            {
+              "word": "nemohl",
+              "start": 8.773,
+              "end": 9.04
+            },
+            {
+              "word": "srdce",
+              "start": 9.12,
+              "end": 9.44
+            },
+            {
+              "word": "muzea",
+              "start": 9.52,
+              "end": 9.84
+            },
+            {
+              "word": "znovu",
+              "start": 9.92,
+              "end": 10.16
+            },
+            {
+              "word": "probudit.",
+              "start": 10.24,
+              "end": 10.72
+            },
+            {
+              "word": "A",
+              "start": 12.56,
+              "end": 12.64
+            },
+            {
+              "word": "já",
+              "start": 12.72,
+              "end": 12.88
+            },
+            {
+              "word": "hlupák",
+              "start": 12.96,
+              "end": 13.6
+            },
+            {
+              "word": "jí",
+              "start": 13.627,
+              "end": 13.68
+            },
+            {
+              "word": "ještě",
+              "start": 13.76,
+              "end": 14.0
+            },
+            {
+              "word": "svítil",
+              "start": 14.08,
+              "end": 14.48
+            },
+            {
+              "word": "na",
+              "start": 14.56,
+              "end": 14.64
+            },
+            {
+              "word": "cestu.“",
+              "start": 14.8,
+              "end": 15.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jen jednou se mi na chvíli rozjasnilo v hlavě. Rychle jsem napsal vzkaz a schoval ho do skříňky v šatně, kde by ho baronka nikdy nehledala. Stihl jsem to těsně předtím, než mi poručila, ať se zavřu za mříž. A pak už jsem si nepamatoval nic.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "06_clockmaker.mp3",
+          "request": "{\"text\":\"„Jen jednou se mi na chvíli rozjasnilo v hlavě. Rychle jsem napsal vzkaz a schoval ho do skříňky v šatně, kde by ho baronka nikdy nehledala. Stihl jsem to těsně předtím, než mi poručila, ať se zavřu za mříž. A pak už jsem si nepamatoval nic.“\",\"tts\":\"[thoughtfully] „Jen jednou se mi na chvíli rozjasnilo v hlavě. Rychle jsem napsal vzkaz a schoval ho do skříňky v šatně, kde by ho baronka nikdy nehledala. Stihl jsem to těsně předtím, než mi poručila, ať se zavřu za mříž. A pak už jsem si nepamatoval nic.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 16.588,
+          "words": [
+            {
+              "word": "„Jen",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "jednou",
+              "start": 0.48,
+              "end": 0.8
+            },
+            {
+              "word": "se",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "mi",
+              "start": 1.04,
+              "end": 1.12
+            },
+            {
+              "word": "na",
+              "start": 1.2,
+              "end": 1.28
+            },
+            {
+              "word": "chvíli",
+              "start": 1.32,
+              "end": 1.6
+            },
+            {
+              "word": "rozjasnilo",
+              "start": 1.68,
+              "end": 2.28
+            },
+            {
+              "word": "v",
+              "start": 2.32,
+              "end": 2.347
+            },
+            {
+              "word": "hlavě.",
+              "start": 2.373,
+              "end": 2.72
+            },
+            {
+              "word": "Rychle",
+              "start": 3.4,
+              "end": 3.68
+            },
+            {
+              "word": "jsem",
+              "start": 3.733,
+              "end": 3.84
+            },
+            {
+              "word": "napsal",
+              "start": 3.92,
+              "end": 4.16
+            },
+            {
+              "word": "vzkaz",
+              "start": 4.24,
+              "end": 4.72
+            },
+            {
+              "word": "a",
+              "start": 4.96,
+              "end": 5.04
+            },
+            {
+              "word": "schoval",
+              "start": 5.12,
+              "end": 5.52
+            },
+            {
+              "word": "ho",
+              "start": 5.56,
+              "end": 5.6
+            },
+            {
+              "word": "do",
+              "start": 5.68,
+              "end": 5.76
+            },
+            {
+              "word": "skříňky",
+              "start": 5.84,
+              "end": 6.24
+            },
+            {
+              "word": "v",
+              "start": 6.28,
+              "end": 6.32
+            },
+            {
+              "word": "šatně,",
+              "start": 6.36,
+              "end": 6.72
+            },
+            {
+              "word": "kde",
+              "start": 7.0,
+              "end": 7.12
+            },
+            {
+              "word": "by",
+              "start": 7.16,
+              "end": 7.2
+            },
+            {
+              "word": "ho",
+              "start": 7.28,
+              "end": 7.36
+            },
+            {
+              "word": "baronka",
+              "start": 7.44,
+              "end": 7.84
+            },
+            {
+              "word": "nikdy",
+              "start": 7.92,
+              "end": 8.24
+            },
+            {
+              "word": "nehledala.",
+              "start": 8.32,
+              "end": 8.8
+            },
+            {
+              "word": "Stihl",
+              "start": 9.6,
+              "end": 9.84
+            },
+            {
+              "word": "jsem",
+              "start": 9.893,
+              "end": 10.0
+            },
+            {
+              "word": "to",
+              "start": 10.08,
+              "end": 10.16
+            },
+            {
+              "word": "těsně",
+              "start": 10.24,
+              "end": 10.64
+            },
+            {
+              "word": "předtím,",
+              "start": 10.68,
+              "end": 11.12
+            },
+            {
+              "word": "než",
+              "start": 11.227,
+              "end": 11.32
+            },
+            {
+              "word": "mi",
+              "start": 11.36,
+              "end": 11.52
+            },
+            {
+              "word": "poručila,",
+              "start": 11.6,
+              "end": 12.0
+            },
+            {
+              "word": "ať",
+              "start": 12.28,
+              "end": 12.4
+            },
+            {
+              "word": "se",
+              "start": 12.48,
+              "end": 12.56
+            },
+            {
+              "word": "zavřu",
+              "start": 12.64,
+              "end": 12.92
+            },
+            {
+              "word": "za",
+              "start": 12.96,
+              "end": 13.04
+            },
+            {
+              "word": "mříž.",
+              "start": 13.08,
+              "end": 13.44
+            },
+            {
+              "word": "A",
+              "start": 14.16,
+              "end": 14.24
+            },
+            {
+              "word": "pak",
+              "start": 14.4,
+              "end": 14.56
+            },
+            {
+              "word": "už",
+              "start": 14.6,
+              "end": 14.72
+            },
+            {
+              "word": "jsem",
+              "start": 14.773,
+              "end": 14.88
+            },
+            {
+              "word": "si",
+              "start": 14.96,
+              "end": 15.04
+            },
+            {
+              "word": "nepamatoval",
+              "start": 15.2,
+              "end": 15.84
+            },
+            {
+              "word": "nic.“",
+              "start": 15.92,
+              "end": 16.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ale proč to udělala?“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "07_ema.mp3",
+          "request": "{\"text\":\"„Ale proč to udělala?“\",\"tts\":\"[curious] „Ale proč to udělala?“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.881,
+          "words": [
+            {
+              "word": "„Ale",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "proč",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "word": "to",
+              "start": 0.8,
+              "end": 0.88
+            },
+            {
+              "word": "udělala?“",
+              "start": 0.96,
+              "end": 1.52
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
