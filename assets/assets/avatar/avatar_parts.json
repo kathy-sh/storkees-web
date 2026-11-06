@@ -2,8 +2,8 @@
   "frameSize": 600,
   "defaults": {
     "skin": "plet_broskvova",
-    "hair": "vlasy_mikado_kastanova",
-    "clothes": "obleceni_svetr_modra"
+    "hair": "vlasy_mikado_tmave_hneda",
+    "clothes": "obleceni_tricko_oranzova"
   },
   "parts": [
     {
@@ -87,6 +87,262 @@
       "reward": false
     },
     {
+      "file": "paze_tricko_zelena.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "zelena",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_modra.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "modra",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_ruzova.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "ruzova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_fialova.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "fialova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_broskvova.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "broskvova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_hneda.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "hneda",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_karamelova.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "karamelova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_piskova.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "piskova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_svetla.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "svetla",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_tricko_tmava.webp",
+      "kind": "arms",
+      "shape": "tricko",
+      "color": "tmava",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_zelena.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "zelena",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_modra.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "modra",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_ruzova.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "ruzova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_fialova.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "fialova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_broskvova.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "broskvova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_hneda.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "hneda",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_karamelova.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "karamelova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_piskova.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "piskova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_svetla.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "svetla",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_polo_tmava.webp",
+      "kind": "arms",
+      "shape": "polo",
+      "color": "tmava",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_zelena.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "zelena",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_modra.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "modra",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_ruzova.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "ruzova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_fialova.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "fialova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_broskvova.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "broskvova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_hneda.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "hneda",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_karamelova.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "karamelova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_piskova.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "piskova",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_svetla.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "svetla",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "paze_rozepnuta_kosile_tmava.webp",
+      "kind": "arms",
+      "shape": "rozepnuta_kosile",
+      "color": "tmava",
+      "order": 25,
+      "reward": false
+    },
+    {
+      "file": "odmena_obleceni_forest_rangers.webp",
+      "kind": "clothes",
+      "shape": "forest_rangers",
+      "color": "",
+      "order": 30,
+      "reward": true
+    },
+    {
+      "file": "odmena_obleceni_museum.webp",
+      "kind": "clothes",
+      "shape": "museum",
+      "color": "",
+      "order": 30,
+      "reward": true
+    },
+    {
       "file": "obleceni_svetr_cerna.webp",
       "kind": "clothes",
       "shape": "svetr",
@@ -159,20 +415,652 @@
       "reward": false
     },
     {
-      "file": "odmena_obleceni_forest_rangers.webp",
+      "file": "obleceni_tricko_cerna.webp",
       "kind": "clothes",
-      "shape": "forest_rangers",
-      "color": "",
+      "shape": "tricko",
+      "color": "cerna",
       "order": 30,
-      "reward": true
+      "reward": false
     },
     {
-      "file": "odmena_obleceni_museum.webp",
+      "file": "obleceni_tricko_zelena.webp",
       "kind": "clothes",
-      "shape": "museum",
-      "color": "",
+      "shape": "tricko",
+      "color": "zelena",
       "order": 30,
-      "reward": true
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_modra.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_ruzova.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_fialova.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_cervena.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_zluta.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_oranzova.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_tricko_seda.webp",
+      "kind": "clothes",
+      "shape": "tricko",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_cerna.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_zelena.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_modra.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_ruzova.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_fialova.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_cervena.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_zluta.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_oranzova.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_polo_seda.webp",
+      "kind": "clothes",
+      "shape": "polo",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_cerna.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_zelena.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_modra.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_ruzova.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_fialova.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_cervena.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_zluta.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_oranzova.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kosile_seda.webp",
+      "kind": "clothes",
+      "shape": "kosile",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_cerna.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_zelena.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_modra.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_ruzova.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_fialova.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_cervena.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_zluta.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_oranzova.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_bomber_seda.webp",
+      "kind": "clothes",
+      "shape": "bomber",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_cerna.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_zelena.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_modra.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_ruzova.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_fialova.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_cervena.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_zluta.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_oranzova.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_kardigan_seda.webp",
+      "kind": "clothes",
+      "shape": "kardigan",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_cerna.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_zelena.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_modra.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_ruzova.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_fialova.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_cervena.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_zluta.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_oranzova.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_halenka_seda.webp",
+      "kind": "clothes",
+      "shape": "halenka",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_cerna.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_zelena.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_modra.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_ruzova.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_fialova.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_cervena.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_zluta.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_oranzova.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_mikina_seda.webp",
+      "kind": "clothes",
+      "shape": "mikina",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_cerna.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_zelena.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_modra.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_ruzova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_fialova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_cervena.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_zluta.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_oranzova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuty_svetr_seda.webp",
+      "kind": "clothes",
+      "shape": "rozepnuty_svetr",
+      "color": "seda",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_cerna.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "cerna",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_zelena.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "zelena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_modra.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "modra",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_ruzova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "ruzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_fialova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "fialova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_cervena.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "cervena",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_zluta.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "zluta",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_oranzova.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "oranzova",
+      "order": 30,
+      "reward": false
+    },
+    {
+      "file": "obleceni_rozepnuta_kosile_seda.webp",
+      "kind": "clothes",
+      "shape": "rozepnuta_kosile",
+      "color": "seda",
+      "order": 30,
+      "reward": false
     },
     {
       "file": "vlasy_velmi_kratke_kastanova.webp",
