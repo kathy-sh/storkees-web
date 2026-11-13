@@ -1,0 +1,94 @@
+{
+  "page": "task_08_bubbles",
+  "lines": [
+    {
+      "text": "I ten nejvyšší strom byl nejprve malé semínko. Velké věci potřebují čas a hlavně trpělivost.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"I ten nejvyšší strom byl nejprve malé semínko. Velké věci potřebují čas a hlavně trpělivost.\",\"tts\":\"[short pause] [encouragingly] I ten nejvyšší strom byl nejprve malé semínko. [determined] Velké věci potřebují čas a hlavně [short pause] [proudly] trpělivost.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.281,
+          "leadingSilence": 0.313,
+          "words": [
+            {
+              "word": "I",
+              "start": 0.393,
+              "end": 0.473
+            },
+            {
+              "word": "ten",
+              "start": 0.593,
+              "end": 0.713
+            },
+            {
+              "word": "nejvyšší",
+              "start": 0.793,
+              "end": 1.273
+            },
+            {
+              "word": "strom",
+              "start": 1.353,
+              "end": 1.753
+            },
+            {
+              "word": "byl",
+              "start": 1.833,
+              "end": 1.993
+            },
+            {
+              "word": "nejprve",
+              "start": 2.153,
+              "end": 2.633
+            },
+            {
+              "word": "malé",
+              "start": 2.713,
+              "end": 3.033
+            },
+            {
+              "word": "semínko.",
+              "start": 3.113,
+              "end": 3.673
+            },
+            {
+              "word": "Velké",
+              "start": 4.233,
+              "end": 4.553
+            },
+            {
+              "word": "věci",
+              "start": 4.593,
+              "end": 4.873
+            },
+            {
+              "word": "potřebují",
+              "start": 4.953,
+              "end": 5.433
+            },
+            {
+              "word": "čas",
+              "start": 5.513,
+              "end": 5.833
+            },
+            {
+              "word": "a",
+              "start": 6.073,
+              "end": 6.153
+            },
+            {
+              "word": "hlavně",
+              "start": 6.233,
+              "end": 6.713
+            },
+            {
+              "word": "trpělivost.",
+              "start": 7.273,
+              "end": 8.073
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

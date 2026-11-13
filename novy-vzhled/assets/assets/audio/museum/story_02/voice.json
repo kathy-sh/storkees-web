@@ -1,0 +1,788 @@
+{
+  "page": "story_02",
+  "lines": [
+    {
+      "text": "Když exkurze skončí, všichni spěchají k autobusu. Teda téměř všichni.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Když exkurze skončí, všichni spěchají k autobusu. Teda téměř všichni.\",\"tts\":\"[playfully] Když exkurze skončí, všichni spěchají k autobusu. Teda téměř všichni.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.008,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Když",
+              "start": 0.602,
+              "end": 0.842
+            },
+            {
+              "word": "exkurze",
+              "start": 0.922,
+              "end": 1.322
+            },
+            {
+              "word": "skončí,",
+              "start": 1.402,
+              "end": 1.962
+            },
+            {
+              "word": "všichni",
+              "start": 2.202,
+              "end": 2.682
+            },
+            {
+              "word": "spěchají",
+              "start": 2.762,
+              "end": 3.162
+            },
+            {
+              "word": "k",
+              "start": 3.202,
+              "end": 3.242
+            },
+            {
+              "word": "autobusu.",
+              "start": 3.322,
+              "end": 3.882
+            },
+            {
+              "word": "Teda",
+              "start": 4.362,
+              "end": 4.682
+            },
+            {
+              "word": "téměř",
+              "start": 4.922,
+              "end": 5.402
+            },
+            {
+              "word": "všichni.",
+              "start": 5.429,
+              "end": 5.802
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Psst. Mám plán. Schováme se v šatně a muzeum bude v noci jen naše.“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "02_ema.mp3",
+          "request": "{\"text\":\"„Psst. Mám plán. Schováme se v šatně a muzeum bude v noci jen naše.“\",\"tts\":\"[mischievously, whispers] „Psst. Mám plán. Schováme se v šatně a muzeum bude v noci jen naše.“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.034,
+          "words": [
+            {
+              "word": "„Psst.",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "Mám",
+              "start": 0.8,
+              "end": 0.96
+            },
+            {
+              "word": "plán.",
+              "start": 1.12,
+              "end": 1.52
+            },
+            {
+              "word": "Schováme",
+              "start": 2.0,
+              "end": 2.48
+            },
+            {
+              "word": "se",
+              "start": 2.56,
+              "end": 2.64
+            },
+            {
+              "word": "v",
+              "start": 2.68,
+              "end": 2.72
+            },
+            {
+              "word": "šatně",
+              "start": 2.76,
+              "end": 3.12
+            },
+            {
+              "word": "a",
+              "start": 3.44,
+              "end": 3.6
+            },
+            {
+              "word": "muzeum",
+              "start": 3.68,
+              "end": 4.16
+            },
+            {
+              "word": "bude",
+              "start": 4.24,
+              "end": 4.4
+            },
+            {
+              "word": "v",
+              "start": 4.427,
+              "end": 4.453
+            },
+            {
+              "word": "noci",
+              "start": 4.48,
+              "end": 4.72
+            },
+            {
+              "word": "jen",
+              "start": 4.88,
+              "end": 5.12
+            },
+            {
+              "word": "naše.“",
+              "start": 5.24,
+              "end": 5.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To je ten nejhorší plán, jaký jsem kdy slyšel.“",
+      "recordings": [
+        {
+          "voice": "jonas",
+          "file": "03_jonas.mp3",
+          "request": "{\"text\":\"„To je ten nejhorší plán, jaký jsem kdy slyšel.“\",\"tts\":\"[nervously] „To je ten nejhorší plán, jaký jsem kdy slyšel.“\",\"voiceId\":\"FaWkkmPaCmlojJvzpzai\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.631,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "je",
+              "start": 0.2,
+              "end": 0.24
+            },
+            {
+              "word": "ten",
+              "start": 0.32,
+              "end": 0.56
+            },
+            {
+              "word": "nejhorší",
+              "start": 0.64,
+              "end": 1.2
+            },
+            {
+              "word": "plán,",
+              "start": 1.28,
+              "end": 1.6
+            },
+            {
+              "word": "jaký",
+              "start": 1.76,
+              "end": 1.88
+            },
+            {
+              "word": "jsem",
+              "start": 1.92,
+              "end": 2.08
+            },
+            {
+              "word": "kdy",
+              "start": 2.12,
+              "end": 2.32
+            },
+            {
+              "word": "slyšel.“",
+              "start": 2.36,
+              "end": 2.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Autobus odjede. Muzeum se zavře a světla zhasnou. Všechny hodiny v muzeu se v tu chvíli zastaví a ručičky skočí na půlnoc.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Autobus odjede. Muzeum se zavře a světla zhasnou. Všechny hodiny v muzeu se v tu chvíli zastaví a ručičky skočí na půlnoc.\",\"tts\":\"[calmly] Autobus odjede. [tense] Muzeum se zavře a světla zhasnou. Všechny hodiny v muzeu se v tu chvíli zastaví a ručičky skočí na půlnoc.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.188,
+          "words": [
+            {
+              "word": "Autobus",
+              "start": 0.08,
+              "end": 0.64
+            },
+            {
+              "word": "odjede.",
+              "start": 0.72,
+              "end": 1.2
+            },
+            {
+              "word": "Muzeum",
+              "start": 1.96,
+              "end": 2.24
+            },
+            {
+              "word": "se",
+              "start": 2.32,
+              "end": 2.48
+            },
+            {
+              "word": "zavře",
+              "start": 2.52,
+              "end": 2.88
+            },
+            {
+              "word": "a",
+              "start": 2.96,
+              "end": 3.04
+            },
+            {
+              "word": "světla",
+              "start": 3.12,
+              "end": 3.52
+            },
+            {
+              "word": "zhasnou.",
+              "start": 3.56,
+              "end": 4.16
+            },
+            {
+              "word": "Všechny",
+              "start": 4.96,
+              "end": 5.32
+            },
+            {
+              "word": "hodiny",
+              "start": 5.36,
+              "end": 5.68
+            },
+            {
+              "word": "v",
+              "start": 5.72,
+              "end": 5.76
+            },
+            {
+              "word": "muzeu",
+              "start": 5.84,
+              "end": 6.24
+            },
+            {
+              "word": "se",
+              "start": 6.32,
+              "end": 6.4
+            },
+            {
+              "word": "v",
+              "start": 6.48,
+              "end": 6.52
+            },
+            {
+              "word": "tu",
+              "start": 6.56,
+              "end": 6.64
+            },
+            {
+              "word": "chvíli",
+              "start": 6.68,
+              "end": 7.04
+            },
+            {
+              "word": "zastaví",
+              "start": 7.08,
+              "end": 7.68
+            },
+            {
+              "word": "a",
+              "start": 8.08,
+              "end": 8.16
+            },
+            {
+              "word": "ručičky",
+              "start": 8.24,
+              "end": 8.8
+            },
+            {
+              "word": "skočí",
+              "start": 8.88,
+              "end": 9.2
+            },
+            {
+              "word": "na",
+              "start": 9.28,
+              "end": 9.36
+            },
+            {
+              "word": "půlnoc.",
+              "start": 9.4,
+              "end": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Zavolám domů, že se exkurze trochu protáhne. Hm. Nemám signál, ani čárku.“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "05_nela.mp3",
+          "request": "{\"text\":\"„Zavolám domů, že se exkurze trochu protáhne. Hm. Nemám signál, ani čárku.“\",\"tts\":\"[dryly] „Zavolám domů, že se exkurze trochu protáhne. [pause] Hm. Nemám signál, ani čárku.“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.706,
+          "words": [
+            {
+              "word": "„Zavolám",
+              "start": 0.2,
+              "end": 0.64
+            },
+            {
+              "word": "domů,",
+              "start": 0.8,
+              "end": 1.12
+            },
+            {
+              "word": "že",
+              "start": 1.44,
+              "end": 1.52
+            },
+            {
+              "word": "se",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "exkurze",
+              "start": 1.76,
+              "end": 2.32
+            },
+            {
+              "word": "trochu",
+              "start": 2.4,
+              "end": 2.64
+            },
+            {
+              "word": "protáhne.",
+              "start": 2.8,
+              "end": 3.36
+            },
+            {
+              "word": "Hm.",
+              "start": 4.32,
+              "end": 4.64
+            },
+            {
+              "word": "Nemám",
+              "start": 5.28,
+              "end": 5.6
+            },
+            {
+              "word": "signál,",
+              "start": 5.68,
+              "end": 6.24
+            },
+            {
+              "word": "ani",
+              "start": 6.64,
+              "end": 6.8
+            },
+            {
+              "word": "čárku.“",
+              "start": 6.88,
+              "end": 7.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A vstupní dveře jsou zamčené! Jako by nás muzeum nechtělo pustit ven.“",
+      "recordings": [
+        {
+          "voice": "jonas",
+          "file": "06_jonas.mp3",
+          "request": "{\"text\":\"„A vstupní dveře jsou zamčené! Jako by nás muzeum nechtělo pustit ven.“\",\"tts\":\"[scared] „A vstupní dveře jsou zamčené! Jako by nás muzeum nechtělo pustit ven.“\",\"voiceId\":\"FaWkkmPaCmlojJvzpzai\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.911,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.069,
+              "end": 0.08
+            },
+            {
+              "word": "vstupní",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "dveře",
+              "start": 0.64,
+              "end": 0.88
+            },
+            {
+              "word": "jsou",
+              "start": 0.96,
+              "end": 1.12
+            },
+            {
+              "word": "zamčené!",
+              "start": 1.2,
+              "end": 1.76
+            },
+            {
+              "word": "Jako",
+              "start": 2.4,
+              "end": 2.64
+            },
+            {
+              "word": "by",
+              "start": 2.68,
+              "end": 2.72
+            },
+            {
+              "word": "nás",
+              "start": 2.8,
+              "end": 3.04
+            },
+            {
+              "word": "muzeum",
+              "start": 3.12,
+              "end": 3.44
+            },
+            {
+              "word": "nechtělo",
+              "start": 3.52,
+              "end": 3.84
+            },
+            {
+              "word": "pustit",
+              "start": 3.88,
+              "end": 4.24
+            },
+            {
+              "word": "ven.“",
+              "start": 4.44,
+              "end": 4.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A děti poprvé napadne, že se odsud možná nedostanou. Ani dnes. Ani nikdy.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "07_narrator.mp3",
+          "request": "{\"text\":\"A děti poprvé napadne, že se odsud možná nedostanou. Ani dnes. Ani nikdy.\",\"tts\":\"[whispers] A děti poprvé napadne, že se odsud možná nedostanou. [long pause] Ani dnes. [whispers] Ani nikdy.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.844,
+          "words": [
+            {
+              "word": "A",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "děti",
+              "start": 0.2,
+              "end": 0.48
+            },
+            {
+              "word": "poprvé",
+              "start": 0.56,
+              "end": 0.96
+            },
+            {
+              "word": "napadne,",
+              "start": 1.08,
+              "end": 1.52
+            },
+            {
+              "word": "že",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "se",
+              "start": 2.08,
+              "end": 2.16
+            },
+            {
+              "word": "odsud",
+              "start": 2.24,
+              "end": 2.56
+            },
+            {
+              "word": "možná",
+              "start": 2.64,
+              "end": 2.96
+            },
+            {
+              "word": "nedostanou.",
+              "start": 3.04,
+              "end": 3.76
+            },
+            {
+              "word": "Ani",
+              "start": 4.48,
+              "end": 4.72
+            },
+            {
+              "word": "dnes.",
+              "start": 4.76,
+              "end": 5.28
+            },
+            {
+              "word": "Ani",
+              "start": 5.84,
+              "end": 6.08
+            },
+            {
+              "word": "nikdy.",
+              "start": 6.16,
+              "end": 6.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tak nebudeme čekat. Prozkoumáme to tu. Jenom potřebujeme světlo.“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "08_ema.mp3",
+          "request": "{\"text\":\"„Tak nebudeme čekat. Prozkoumáme to tu. Jenom potřebujeme světlo.“\",\"tts\":\"[determined] „Tak nebudeme čekat. Prozkoumáme to tu. Jenom potřebujeme světlo.“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.989,
+          "words": [
+            {
+              "word": "„Tak",
+              "start": 0.067,
+              "end": 0.24
+            },
+            {
+              "word": "nebudeme",
+              "start": 0.32,
+              "end": 0.8
+            },
+            {
+              "word": "čekat.",
+              "start": 0.84,
+              "end": 1.2
+            },
+            {
+              "word": "Prozkoumáme",
+              "start": 1.64,
+              "end": 2.24
+            },
+            {
+              "word": "to",
+              "start": 2.32,
+              "end": 2.4
+            },
+            {
+              "word": "tu.",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "Jenom",
+              "start": 3.04,
+              "end": 3.28
+            },
+            {
+              "word": "potřebujeme",
+              "start": 3.36,
+              "end": 3.92
+            },
+            {
+              "word": "světlo.“",
+              "start": 4.0,
+              "end": 4.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "V muzeu je prapodivné ticho. V šatně na zdi nejistě bliká lampa. Nela najde u dveří starý otočný vypínač a zkušeně s ním párkrát cvakne. Lampa zapraská, zabliká a rozsvítí se naplno.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "09_narrator.mp3",
+          "request": "{\"text\":\"V muzeu je prapodivné ticho. V šatně na zdi nejistě bliká lampa. Nela najde u dveří starý otočný vypínač a zkušeně s ním párkrát cvakne. Lampa zapraská, zabliká a rozsvítí se naplno.\",\"tts\":\"[mysterious] V muzeu je prapodivné ticho. V šatně na zdi nejistě bliká lampa. Nela najde u dveří starý otočný vypínač a zkušeně s ním párkrát cvakne. [relieved] Lampa zapraská, zabliká a rozsvítí se naplno.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 16.039,
+          "words": [
+            {
+              "word": "V",
+              "start": 0.16,
+              "end": 0.2
+            },
+            {
+              "word": "muzeu",
+              "start": 0.24,
+              "end": 0.64
+            },
+            {
+              "word": "je",
+              "start": 0.72,
+              "end": 0.88
+            },
+            {
+              "word": "prapodivné",
+              "start": 0.96,
+              "end": 1.68
+            },
+            {
+              "word": "ticho.",
+              "start": 1.76,
+              "end": 2.24
+            },
+            {
+              "word": "V",
+              "start": 2.96,
+              "end": 3.0
+            },
+            {
+              "word": "šatně",
+              "start": 3.04,
+              "end": 3.36
+            },
+            {
+              "word": "na",
+              "start": 3.44,
+              "end": 3.52
+            },
+            {
+              "word": "zdi",
+              "start": 3.6,
+              "end": 3.84
+            },
+            {
+              "word": "nejistě",
+              "start": 4.0,
+              "end": 4.48
+            },
+            {
+              "word": "bliká",
+              "start": 4.52,
+              "end": 4.8
+            },
+            {
+              "word": "lampa.",
+              "start": 4.88,
+              "end": 5.36
+            },
+            {
+              "word": "Nela",
+              "start": 6.24,
+              "end": 6.48
+            },
+            {
+              "word": "najde",
+              "start": 6.52,
+              "end": 6.8
+            },
+            {
+              "word": "u",
+              "start": 6.88,
+              "end": 6.92
+            },
+            {
+              "word": "dveří",
+              "start": 6.96,
+              "end": 7.36
+            },
+            {
+              "word": "starý",
+              "start": 7.44,
+              "end": 7.84
+            },
+            {
+              "word": "otočný",
+              "start": 7.96,
+              "end": 8.28
+            },
+            {
+              "word": "vypínač",
+              "start": 8.32,
+              "end": 9.2
+            },
+            {
+              "word": "a",
+              "start": 9.24,
+              "end": 9.28
+            },
+            {
+              "word": "zkušeně",
+              "start": 9.44,
+              "end": 9.92
+            },
+            {
+              "word": "s",
+              "start": 10.0,
+              "end": 10.08
+            },
+            {
+              "word": "ním",
+              "start": 10.16,
+              "end": 10.4
+            },
+            {
+              "word": "párkrát",
+              "start": 10.44,
+              "end": 10.96
+            },
+            {
+              "word": "cvakne.",
+              "start": 11.04,
+              "end": 11.52
+            },
+            {
+              "word": "Lampa",
+              "start": 12.24,
+              "end": 12.48
+            },
+            {
+              "word": "zapraská,",
+              "start": 12.56,
+              "end": 13.52
+            },
+            {
+              "word": "zabliká",
+              "start": 13.6,
+              "end": 14.48
+            },
+            {
+              "word": "a",
+              "start": 14.56,
+              "end": 14.64
+            },
+            {
+              "word": "rozsvítí",
+              "start": 14.72,
+              "end": 15.24
+            },
+            {
+              "word": "se",
+              "start": 15.28,
+              "end": 15.36
+            },
+            {
+              "word": "naplno.",
+              "start": 15.44,
+              "end": 15.84
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

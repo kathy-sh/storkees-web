@@ -1,0 +1,479 @@
+{
+  "page": "story_03_founders_trail",
+  "lines": [
+    {
+      "text": "„Koukejte! To je cesta zakladatelů klubu.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "01_marek.mp3",
+          "request": "{\"text\":\"„Koukejte! To je cesta zakladatelů klubu.“\",\"tts\":\"[excited] „Koukejte! To je cesta zakladatelů klubu.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.082,
+          "words": [
+            {
+              "word": "„Koukejte!",
+              "start": 0.08,
+              "end": 0.72
+            },
+            {
+              "word": "To",
+              "start": 1.12,
+              "end": 1.2
+            },
+            {
+              "word": "je",
+              "start": 1.24,
+              "end": 1.28
+            },
+            {
+              "word": "cesta",
+              "start": 1.36,
+              "end": 1.68
+            },
+            {
+              "word": "zakladatelů",
+              "start": 1.76,
+              "end": 2.4
+            },
+            {
+              "word": "klubu.“",
+              "start": 2.48,
+              "end": 2.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Co kdybychom se zašli podívat, odkud k nám zakladatelé přišli?“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "02_karel.mp3",
+          "request": "{\"text\":\"„Co kdybychom se zašli podívat, odkud k nám zakladatelé přišli?“\",\"tts\":\"[curious] „Co kdybychom se zašli podívat, odkud k nám zakladatelé přišli?“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.709,
+          "words": [
+            {
+              "word": "„Co",
+              "start": 0.16,
+              "end": 0.24
+            },
+            {
+              "word": "kdybychom",
+              "start": 0.28,
+              "end": 0.64
+            },
+            {
+              "word": "se",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "zašli",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "podívat,",
+              "start": 1.2,
+              "end": 1.68
+            },
+            {
+              "word": "odkud",
+              "start": 1.92,
+              "end": 2.16
+            },
+            {
+              "word": "k",
+              "start": 2.2,
+              "end": 2.24
+            },
+            {
+              "word": "nám",
+              "start": 2.28,
+              "end": 2.4
+            },
+            {
+              "word": "zakladatelé",
+              "start": 2.48,
+              "end": 3.04
+            },
+            {
+              "word": "přišli?“",
+              "start": 3.12,
+              "end": 3.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Červená čára na mapě vede hluboko do lesa. Stojíte před cestou z kamenů, kterou blokuje trní.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Červená čára na mapě vede hluboko do lesa. Stojíte před cestou z kamenů, kterou blokuje trní.\",\"tts\":\"Červená čára na mapě vede hluboko do lesa. [mysteriously] Stojíte před cestou z kamenů, kterou blokuje trní.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.889,
+          "words": [
+            {
+              "word": "Červená",
+              "start": 0.0,
+              "end": 0.48
+            },
+            {
+              "word": "čára",
+              "start": 0.56,
+              "end": 0.88
+            },
+            {
+              "word": "na",
+              "start": 0.96,
+              "end": 1.04
+            },
+            {
+              "word": "mapě",
+              "start": 1.2,
+              "end": 1.52
+            },
+            {
+              "word": "vede",
+              "start": 1.6,
+              "end": 1.92
+            },
+            {
+              "word": "hluboko",
+              "start": 2.04,
+              "end": 2.56
+            },
+            {
+              "word": "do",
+              "start": 2.6,
+              "end": 2.64
+            },
+            {
+              "word": "lesa.",
+              "start": 2.72,
+              "end": 3.12
+            },
+            {
+              "word": "Stojíte",
+              "start": 3.76,
+              "end": 4.24
+            },
+            {
+              "word": "před",
+              "start": 4.28,
+              "end": 4.48
+            },
+            {
+              "word": "cestou",
+              "start": 4.56,
+              "end": 5.04
+            },
+            {
+              "word": "z",
+              "start": 5.08,
+              "end": 5.12
+            },
+            {
+              "word": "kamenů,",
+              "start": 5.2,
+              "end": 5.76
+            },
+            {
+              "word": "kterou",
+              "start": 5.88,
+              "end": 6.24
+            },
+            {
+              "word": "blokuje",
+              "start": 6.32,
+              "end": 6.8
+            },
+            {
+              "word": "trní.",
+              "start": 6.88,
+              "end": 7.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Cesta z mapy vede přímo tudy.“",
+      "recordings": [
+        {
+          "voice": "tereza",
+          "file": "04_tereza.mp3",
+          "request": "{\"text\":\"„Cesta z mapy vede přímo tudy.“\",\"tts\":\"„Cesta z mapy vede přímo tudy.“\",\"voiceId\":\"oSQOlcnnmjFaFWphvVCC\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.273,
+          "words": [
+            {
+              "word": "„Cesta",
+              "start": 0.04,
+              "end": 0.32
+            },
+            {
+              "word": "z",
+              "start": 0.4,
+              "end": 0.48
+            },
+            {
+              "word": "mapy",
+              "start": 0.6,
+              "end": 0.8
+            },
+            {
+              "word": "vede",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "přímo",
+              "start": 1.2,
+              "end": 1.68
+            },
+            {
+              "word": "tudy.“",
+              "start": 1.72,
+              "end": 2.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Já přes ty kameny a trní nejdu, Terko.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "05_karel.mp3",
+          "request": "{\"text\":\"„Já přes ty kameny a trní nejdu, Terko.“\",\"tts\":\"[nervously] „Já přes ty kameny a trní nejdu, Terko.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.239,
+          "words": [
+            {
+              "word": "„Já",
+              "start": 0.16,
+              "end": 0.48
+            },
+            {
+              "word": "přes",
+              "start": 0.56,
+              "end": 0.8
+            },
+            {
+              "word": "ty",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "kameny",
+              "start": 1.04,
+              "end": 1.36
+            },
+            {
+              "word": "a",
+              "start": 1.44,
+              "end": 1.48
+            },
+            {
+              "word": "trní",
+              "start": 1.52,
+              "end": 1.84
+            },
+            {
+              "word": "nejdu,",
+              "start": 1.92,
+              "end": 2.32
+            },
+            {
+              "word": "Terko.“",
+              "start": 2.48,
+              "end": 2.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Nikdo neřekl, že to bude snadné, Kájo. Tak pojď.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "06_marek.mp3",
+          "request": "{\"text\":\"„Nikdo neřekl, že to bude snadné, Kájo. Tak pojď.“\",\"tts\":\"[encouragingly] „Nikdo neřekl, že to bude snadné, Kájo. Tak pojď.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.788,
+          "words": [
+            {
+              "word": "„Nikdo",
+              "start": 0.2,
+              "end": 0.48
+            },
+            {
+              "word": "neřekl,",
+              "start": 0.56,
+              "end": 0.96
+            },
+            {
+              "word": "že",
+              "start": 1.013,
+              "end": 1.04
+            },
+            {
+              "word": "to",
+              "start": 1.12,
+              "end": 1.2
+            },
+            {
+              "word": "bude",
+              "start": 1.24,
+              "end": 1.44
+            },
+            {
+              "word": "snadné,",
+              "start": 1.52,
+              "end": 1.92
+            },
+            {
+              "word": "Kájo.",
+              "start": 2.0,
+              "end": 2.4
+            },
+            {
+              "word": "Tak",
+              "start": 2.72,
+              "end": 2.88
+            },
+            {
+              "word": "pojď.“",
+              "start": 3.0,
+              "end": 3.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Za mnou! Strážci se nějakého trní nebojí.“",
+      "recordings": [
+        {
+          "voice": "marek",
+          "file": "07_marek.mp3",
+          "request": "{\"text\":\"„Za mnou! Strážci se nějakého trní nebojí.“\",\"tts\":\"[bravely] „Za mnou! Strážci se nějakého trní nebojí.“\",\"voiceId\":\"gWII8gUYS6mYjlBZ9cmO\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.553,
+          "words": [
+            {
+              "word": "„Za",
+              "start": 0.2,
+              "end": 0.32
+            },
+            {
+              "word": "mnou!",
+              "start": 0.4,
+              "end": 0.72
+            },
+            {
+              "word": "Strážci",
+              "start": 1.04,
+              "end": 1.6
+            },
+            {
+              "word": "se",
+              "start": 1.68,
+              "end": 1.84
+            },
+            {
+              "word": "nějakého",
+              "start": 1.88,
+              "end": 2.4
+            },
+            {
+              "word": "trní",
+              "start": 2.48,
+              "end": 2.8
+            },
+            {
+              "word": "nebojí.“",
+              "start": 2.88,
+              "end": 3.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Strážci se nebojí, ale bodá to úplně stejně jako do kohokoli jiného.“",
+      "recordings": [
+        {
+          "voice": "karel",
+          "file": "08_karel.mp3",
+          "request": "{\"text\":\"„Strážci se nebojí, ale bodá to úplně stejně jako do kohokoli jiného.“\",\"tts\":\"[grumbling] „Strážci se nebojí, ale bodá to úplně stejně jako do kohokoli jiného.“\",\"voiceId\":\"4Kofom5ePM29ePcQ6VWu\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.329,
+          "words": [
+            {
+              "word": "„Strážci",
+              "start": 0.16,
+              "end": 0.72
+            },
+            {
+              "word": "se",
+              "start": 0.8,
+              "end": 0.88
+            },
+            {
+              "word": "nebojí,",
+              "start": 0.96,
+              "end": 1.52
+            },
+            {
+              "word": "ale",
+              "start": 1.96,
+              "end": 2.08
+            },
+            {
+              "word": "bodá",
+              "start": 2.12,
+              "end": 2.4
+            },
+            {
+              "word": "to",
+              "start": 2.52,
+              "end": 2.64
+            },
+            {
+              "word": "úplně",
+              "start": 2.72,
+              "end": 3.04
+            },
+            {
+              "word": "stejně",
+              "start": 3.12,
+              "end": 3.48
+            },
+            {
+              "word": "jako",
+              "start": 3.52,
+              "end": 3.68
+            },
+            {
+              "word": "do",
+              "start": 3.76,
+              "end": 3.84
+            },
+            {
+              "word": "kohokoli",
+              "start": 3.92,
+              "end": 4.4
+            },
+            {
+              "word": "jiného.“",
+              "start": 4.52,
+              "end": 4.96
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

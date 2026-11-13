@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon_clock" clip-path="url(#clip0_0_71)">
+<circle id="Ellipse" cx="7" cy="7" r="6" stroke="#D4A455" stroke-width="2"/>
+<rect id="hand_min" x="6" y="3" width="2" height="5" rx="1" fill="#D4A455"/>
+<rect id="hand_hour" x="6" y="6" width="4" height="2" rx="1" fill="#D4A455"/>
+</g>
+<defs>
+<clipPath id="clip0_0_71">
+<rect width="14" height="14" fill="white"/>
+</clipPath>
+</defs>
+</svg>

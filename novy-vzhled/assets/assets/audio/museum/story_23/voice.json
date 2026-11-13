@@ -1,0 +1,617 @@
+{
+  "page": "story_23",
+  "lines": [
+    {
+      "text": "„Zítra ráno ji mají odvézt do nové galerie na nádraží. Mezi vlaky, hlášení a tisíce lidí. Léta tady nemůže usnout kvůli návštěvníkům. A tam by neusnula už nikdy.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "01_clockmaker.mp3",
+          "request": "{\"text\":\"„Zítra ráno ji mají odvézt do nové galerie na nádraží. Mezi vlaky, hlášení a tisíce lidí. Léta tady nemůže usnout kvůli návštěvníkům. A tam by neusnula už nikdy.“\",\"tts\":\"[thoughtfully] „Zítra ráno ji mají odvézt do nové galerie na nádraží. Mezi vlaky, hlášení a tisíce lidí. Léta tady nemůže usnout kvůli návštěvníkům. A tam by neusnula už nikdy.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 14.002,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "„Zítra",
+              "start": 0.762,
+              "end": 1.162
+            },
+            {
+              "word": "ráno",
+              "start": 1.282,
+              "end": 1.562
+            },
+            {
+              "word": "ji",
+              "start": 1.602,
+              "end": 1.642
+            },
+            {
+              "word": "mají",
+              "start": 1.722,
+              "end": 1.962
+            },
+            {
+              "word": "odvézt",
+              "start": 2.042,
+              "end": 2.522
+            },
+            {
+              "word": "do",
+              "start": 2.562,
+              "end": 2.602
+            },
+            {
+              "word": "nové",
+              "start": 2.682,
+              "end": 2.922
+            },
+            {
+              "word": "galerie",
+              "start": 3.002,
+              "end": 3.402
+            },
+            {
+              "word": "na",
+              "start": 3.482,
+              "end": 3.562
+            },
+            {
+              "word": "nádraží.",
+              "start": 3.602,
+              "end": 4.202
+            },
+            {
+              "word": "Mezi",
+              "start": 4.682,
+              "end": 4.922
+            },
+            {
+              "word": "vlaky,",
+              "start": 5.002,
+              "end": 5.482
+            },
+            {
+              "word": "hlášení",
+              "start": 5.642,
+              "end": 6.362
+            },
+            {
+              "word": "a",
+              "start": 6.442,
+              "end": 6.562
+            },
+            {
+              "word": "tisíce",
+              "start": 6.682,
+              "end": 7.162
+            },
+            {
+              "word": "lidí.",
+              "start": 7.282,
+              "end": 7.562
+            },
+            {
+              "word": "Léta",
+              "start": 8.442,
+              "end": 8.762
+            },
+            {
+              "word": "tady",
+              "start": 8.802,
+              "end": 9.002
+            },
+            {
+              "word": "nemůže",
+              "start": 9.042,
+              "end": 9.482
+            },
+            {
+              "word": "usnout",
+              "start": 9.562,
+              "end": 9.882
+            },
+            {
+              "word": "kvůli",
+              "start": 9.962,
+              "end": 10.202
+            },
+            {
+              "word": "návštěvníkům.",
+              "start": 10.242,
+              "end": 11.162
+            },
+            {
+              "word": "A",
+              "start": 11.562,
+              "end": 11.642
+            },
+            {
+              "word": "tam",
+              "start": 11.802,
+              "end": 12.122
+            },
+            {
+              "word": "by",
+              "start": 12.362,
+              "end": 12.442
+            },
+            {
+              "word": "neusnula",
+              "start": 12.522,
+              "end": 13.002
+            },
+            {
+              "word": "už",
+              "start": 13.082,
+              "end": 13.242
+            },
+            {
+              "word": "nikdy.“",
+              "start": 13.322,
+              "end": 13.722
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To je vlastně… trochu smutné.“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "02_ema.mp3",
+          "request": "{\"text\":\"„To je vlastně… trochu smutné.“\",\"tts\":\"[softly] „To je vlastně… trochu smutné.“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.926,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "je",
+              "start": 0.24,
+              "end": 0.32
+            },
+            {
+              "word": "vlastně…",
+              "start": 0.36,
+              "end": 0.96
+            },
+            {
+              "word": "trochu",
+              "start": 1.52,
+              "end": 1.84
+            },
+            {
+              "word": "smutné.“",
+              "start": 1.92,
+              "end": 2.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jenže jí je úplně jedno, že tu někoho zamkne. A že se muzeum už nikdy neotevře. To je teda pěkně sobecké.“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "03_nela.mp3",
+          "request": "{\"text\":\"„Jenže jí je úplně jedno, že tu někoho zamkne. A že se muzeum už nikdy neotevře. To je teda pěkně sobecké.“\",\"tts\":\"[dryly] „Jenže jí je úplně jedno, že tu někoho zamkne. A že se muzeum už nikdy neotevře. To je teda pěkně sobecké.“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.124,
+          "words": [
+            {
+              "word": "„Jenže",
+              "start": 0.16,
+              "end": 0.48
+            },
+            {
+              "word": "jí",
+              "start": 0.52,
+              "end": 0.64
+            },
+            {
+              "word": "je",
+              "start": 0.76,
+              "end": 0.88
+            },
+            {
+              "word": "úplně",
+              "start": 0.96,
+              "end": 1.36
+            },
+            {
+              "word": "jedno,",
+              "start": 1.44,
+              "end": 1.76
+            },
+            {
+              "word": "že",
+              "start": 1.88,
+              "end": 1.92
+            },
+            {
+              "word": "tu",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "někoho",
+              "start": 2.12,
+              "end": 2.48
+            },
+            {
+              "word": "zamkne.",
+              "start": 2.52,
+              "end": 2.96
+            },
+            {
+              "word": "A",
+              "start": 3.44,
+              "end": 3.52
+            },
+            {
+              "word": "že",
+              "start": 3.6,
+              "end": 3.68
+            },
+            {
+              "word": "se",
+              "start": 3.76,
+              "end": 3.84
+            },
+            {
+              "word": "muzeum",
+              "start": 3.92,
+              "end": 4.32
+            },
+            {
+              "word": "už",
+              "start": 4.36,
+              "end": 4.56
+            },
+            {
+              "word": "nikdy",
+              "start": 4.64,
+              "end": 4.96
+            },
+            {
+              "word": "neotevře.",
+              "start": 5.04,
+              "end": 5.6
+            },
+            {
+              "word": "To",
+              "start": 6.16,
+              "end": 6.24
+            },
+            {
+              "word": "je",
+              "start": 6.32,
+              "end": 6.4
+            },
+            {
+              "word": "teda",
+              "start": 6.48,
+              "end": 6.64
+            },
+            {
+              "word": "pěkně",
+              "start": 6.8,
+              "end": 7.2
+            },
+            {
+              "word": "sobecké.“",
+              "start": 7.24,
+              "end": 7.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Hodinář je zavede do rohu dílny. Stojí tam orloj, na kterém hodinář pracoval celý život. Teď mlčí.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Hodinář je zavede do rohu dílny. Stojí tam orloj, na kterém hodinář pracoval celý život. Teď mlčí.\",\"tts\":\"Hodinář je zavede do rohu dílny. Stojí tam orloj, na kterém hodinář pracoval celý život. Teď mlčí.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.594,
+          "words": [
+            {
+              "word": "Hodinář",
+              "start": 0.0,
+              "end": 0.64
+            },
+            {
+              "word": "je",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "zavede",
+              "start": 0.88,
+              "end": 1.28
+            },
+            {
+              "word": "do",
+              "start": 1.36,
+              "end": 1.44
+            },
+            {
+              "word": "rohu",
+              "start": 1.52,
+              "end": 1.76
+            },
+            {
+              "word": "dílny.",
+              "start": 1.88,
+              "end": 2.32
+            },
+            {
+              "word": "Stojí",
+              "start": 3.12,
+              "end": 3.36
+            },
+            {
+              "word": "tam",
+              "start": 3.48,
+              "end": 3.6
+            },
+            {
+              "word": "orloj,",
+              "start": 3.68,
+              "end": 4.16
+            },
+            {
+              "word": "na",
+              "start": 4.44,
+              "end": 4.48
+            },
+            {
+              "word": "kterém",
+              "start": 4.56,
+              "end": 4.88
+            },
+            {
+              "word": "hodinář",
+              "start": 4.92,
+              "end": 5.52
+            },
+            {
+              "word": "pracoval",
+              "start": 5.56,
+              "end": 6.08
+            },
+            {
+              "word": "celý",
+              "start": 6.16,
+              "end": 6.48
+            },
+            {
+              "word": "život.",
+              "start": 6.56,
+              "end": 6.96
+            },
+            {
+              "word": "Teď",
+              "start": 7.76,
+              "end": 7.92
+            },
+            {
+              "word": "mlčí.",
+              "start": 8.0,
+              "end": 8.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Moje nejkrásnější práce. A cesta k srdci muzea. Jenže jsem ho musel rozebrat.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "05_clockmaker.mp3",
+          "request": "{\"text\":\"„Moje nejkrásnější práce. A cesta k srdci muzea. Jenže jsem ho musel rozebrat.“\",\"tts\":\"[warmly] „Moje nejkrásnější práce. A cesta k srdci muzea. [sadly] Jenže jsem ho musel rozebrat.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.314,
+          "words": [
+            {
+              "word": "„Moje",
+              "start": 0.24,
+              "end": 0.56
+            },
+            {
+              "word": "nejkrásnější",
+              "start": 0.64,
+              "end": 1.6
+            },
+            {
+              "word": "práce.",
+              "start": 1.68,
+              "end": 2.16
+            },
+            {
+              "word": "A",
+              "start": 2.72,
+              "end": 2.8
+            },
+            {
+              "word": "cesta",
+              "start": 2.88,
+              "end": 3.28
+            },
+            {
+              "word": "k",
+              "start": 3.36,
+              "end": 3.4
+            },
+            {
+              "word": "srdci",
+              "start": 3.44,
+              "end": 3.76
+            },
+            {
+              "word": "muzea.",
+              "start": 3.84,
+              "end": 4.24
+            },
+            {
+              "word": "Jenže",
+              "start": 4.96,
+              "end": 5.28
+            },
+            {
+              "word": "jsem",
+              "start": 5.333,
+              "end": 5.44
+            },
+            {
+              "word": "ho",
+              "start": 5.52,
+              "end": 5.6
+            },
+            {
+              "word": "musel",
+              "start": 5.68,
+              "end": 5.92
+            },
+            {
+              "word": "rozebrat.“",
+              "start": 6.0,
+              "end": 6.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tak to opravíme. Určitě to nebude těžké.“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "06_ema.mp3",
+          "request": "{\"text\":\"„Tak to opravíme. Určitě to nebude těžké.“\",\"tts\":\"[confidently] „Tak to opravíme. Určitě to nebude těžké.“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.318,
+          "words": [
+            {
+              "word": "„Tak",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "to",
+              "start": 0.32,
+              "end": 0.4
+            },
+            {
+              "word": "opravíme.",
+              "start": 0.52,
+              "end": 1.04
+            },
+            {
+              "word": "Určitě",
+              "start": 1.44,
+              "end": 1.84
+            },
+            {
+              "word": "to",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "nebude",
+              "start": 2.08,
+              "end": 2.4
+            },
+            {
+              "word": "těžké.“",
+              "start": 2.44,
+              "end": 2.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To samé jsi říkala o tom plánu se šatnou. A podívej, kde jsme.“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "07_nela.mp3",
+          "request": "{\"text\":\"„To samé jsi říkala o tom plánu se šatnou. A podívej, kde jsme.“\",\"tts\":\"[dryly] „To samé jsi říkala o tom plánu se šatnou. A podívej, kde jsme.“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.441,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "samé",
+              "start": 0.24,
+              "end": 0.56
+            },
+            {
+              "word": "jsi",
+              "start": 0.64,
+              "end": 0.76
+            },
+            {
+              "word": "říkala",
+              "start": 0.8,
+              "end": 1.12
+            },
+            {
+              "word": "o",
+              "start": 1.2,
+              "end": 1.28
+            },
+            {
+              "word": "tom",
+              "start": 1.36,
+              "end": 1.44
+            },
+            {
+              "word": "plánu",
+              "start": 1.52,
+              "end": 1.84
+            },
+            {
+              "word": "se",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "šatnou.",
+              "start": 2.04,
+              "end": 2.56
+            },
+            {
+              "word": "A",
+              "start": 2.88,
+              "end": 2.96
+            },
+            {
+              "word": "podívej,",
+              "start": 3.04,
+              "end": 3.547
+            },
+            {
+              "word": "kde",
+              "start": 3.6,
+              "end": 3.76
+            },
+            {
+              "word": "jsme.“",
+              "start": 3.84,
+              "end": 4.08
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

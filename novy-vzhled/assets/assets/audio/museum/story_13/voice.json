@@ -1,0 +1,766 @@
+{
+  "page": "story_13",
+  "lines": [
+    {
+      "text": "„V. T.! To vy jste napsal ten vzkaz!“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "01_ema.mp3",
+          "request": "{\"text\":\"„V. T.! To vy jste napsal ten vzkaz!“\",\"tts\":\"[excited] „Vé Té! To vy jste napsal ten vzkaz!“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.527,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "„V.",
+              "start": 0.762,
+              "end": 1.002
+            },
+            {
+              "word": "T.!",
+              "start": 1.082,
+              "end": 1.322
+            },
+            {
+              "word": "To",
+              "start": 1.722,
+              "end": 1.802
+            },
+            {
+              "word": "vy",
+              "start": 1.962,
+              "end": 2.042
+            },
+            {
+              "word": "jste",
+              "start": 2.122,
+              "end": 2.282
+            },
+            {
+              "word": "napsal",
+              "start": 2.322,
+              "end": 2.602
+            },
+            {
+              "word": "ten",
+              "start": 2.682,
+              "end": 2.842
+            },
+            {
+              "word": "vzkaz!“",
+              "start": 2.882,
+              "end": 3.322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Jonáš mu ukáže vzkaz ze šatny. Hodinář zbledne.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "02_narrator.mp3",
+          "request": "{\"text\":\"Jonáš mu ukáže vzkaz ze šatny. Hodinář zbledne.\",\"tts\":\"Jonáš mu ukáže vzkaz ze šatny. Hodinář zbledne.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.441,
+          "words": [
+            {
+              "word": "Jonáš",
+              "start": 0.0,
+              "end": 0.48
+            },
+            {
+              "word": "mu",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "ukáže",
+              "start": 0.76,
+              "end": 1.12
+            },
+            {
+              "word": "vzkaz",
+              "start": 1.16,
+              "end": 1.6
+            },
+            {
+              "word": "ze",
+              "start": 1.68,
+              "end": 1.76
+            },
+            {
+              "word": "šatny.",
+              "start": 1.84,
+              "end": 2.32
+            },
+            {
+              "word": "Hodinář",
+              "start": 3.04,
+              "end": 3.68
+            },
+            {
+              "word": "zbledne.",
+              "start": 3.8,
+              "end": 4.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To je opravdu moje písmo. Krasopis! Jednička s hvězdičkou! Ale kdy bych to psal? A proč?“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "03_clockmaker.mp3",
+          "request": "{\"text\":\"„To je opravdu moje písmo. Krasopis! Jednička s hvězdičkou! Ale kdy bych to psal? A proč?“\",\"tts\":\"[confused] „To je opravdu moje písmo. [suddenly excited] Krasopis! Jednička s hvězdičkou! [confused] Ale kdy bych to psal? A proč?“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.281,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.08,
+              "end": 0.16
+            },
+            {
+              "word": "je",
+              "start": 0.28,
+              "end": 0.4
+            },
+            {
+              "word": "opravdu",
+              "start": 0.48,
+              "end": 0.96
+            },
+            {
+              "word": "moje",
+              "start": 1.04,
+              "end": 1.28
+            },
+            {
+              "word": "písmo.",
+              "start": 1.36,
+              "end": 1.84
+            },
+            {
+              "word": "Krasopis!",
+              "start": 2.47,
+              "end": 3.2
+            },
+            {
+              "word": "Jednička",
+              "start": 3.6,
+              "end": 4.0
+            },
+            {
+              "word": "s",
+              "start": 4.08,
+              "end": 4.133
+            },
+            {
+              "word": "hvězdičkou!",
+              "start": 4.187,
+              "end": 4.88
+            },
+            {
+              "word": "Ale",
+              "start": 5.6,
+              "end": 5.76
+            },
+            {
+              "word": "kdy",
+              "start": 6.08,
+              "end": 6.24
+            },
+            {
+              "word": "bych",
+              "start": 6.28,
+              "end": 6.4
+            },
+            {
+              "word": "to",
+              "start": 6.48,
+              "end": 6.56
+            },
+            {
+              "word": "psal?",
+              "start": 6.68,
+              "end": 7.04
+            },
+            {
+              "word": "A",
+              "start": 7.52,
+              "end": 7.6
+            },
+            {
+              "word": "proč?“",
+              "start": 7.68,
+              "end": 8.08
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A kdo vás zavřel?“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "04_ema.mp3",
+          "request": "{\"text\":\"„A kdo vás zavřel?“\",\"tts\":\"[seriously] „A kdo vás zavřel?“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.411,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.069,
+              "end": 0.08
+            },
+            {
+              "word": "kdo",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "vás",
+              "start": 0.36,
+              "end": 0.64
+            },
+            {
+              "word": "zavřel?“",
+              "start": 0.68,
+              "end": 1.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jedna paní. Byla krásná, ale hrozně unavená. Nabídla mi šálek čaje a pak… už si nepamatuju nic, jen to, jak se usmívala.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "05_clockmaker.mp3",
+          "request": "{\"text\":\"„Jedna paní. Byla krásná, ale hrozně unavená. Nabídla mi šálek čaje a pak… už si nepamatuju nic, jen to, jak se usmívala.“\",\"tts\":\"[dreamily] „Jedna paní. Byla krásná, ale hrozně unavená. Nabídla mi šálek čaje a pak… [pause] už si nepamatuju nic, [softly] jen to, jak se usmívala.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 13.479,
+          "words": [
+            {
+              "word": "„Jedna",
+              "start": 0.2,
+              "end": 0.48
+            },
+            {
+              "word": "paní.",
+              "start": 0.56,
+              "end": 1.04
+            },
+            {
+              "word": "Byla",
+              "start": 1.68,
+              "end": 1.92
+            },
+            {
+              "word": "krásná,",
+              "start": 2.0,
+              "end": 2.8
+            },
+            {
+              "word": "ale",
+              "start": 3.2,
+              "end": 3.36
+            },
+            {
+              "word": "hrozně",
+              "start": 3.44,
+              "end": 4.0
+            },
+            {
+              "word": "unavená.",
+              "start": 4.08,
+              "end": 4.72
+            },
+            {
+              "word": "Nabídla",
+              "start": 5.52,
+              "end": 5.92
+            },
+            {
+              "word": "mi",
+              "start": 5.96,
+              "end": 6.0
+            },
+            {
+              "word": "šálek",
+              "start": 6.08,
+              "end": 6.48
+            },
+            {
+              "word": "čaje",
+              "start": 6.56,
+              "end": 6.96
+            },
+            {
+              "word": "a",
+              "start": 7.12,
+              "end": 7.2
+            },
+            {
+              "word": "pak…",
+              "start": 7.36,
+              "end": 7.84
+            },
+            {
+              "word": "už",
+              "start": 9.024,
+              "end": 9.12
+            },
+            {
+              "word": "si",
+              "start": 9.2,
+              "end": 9.28
+            },
+            {
+              "word": "nepamatuju",
+              "start": 9.32,
+              "end": 9.92
+            },
+            {
+              "word": "nic,",
+              "start": 10.16,
+              "end": 10.4
+            },
+            {
+              "word": "jen",
+              "start": 11.12,
+              "end": 11.28
+            },
+            {
+              "word": "to,",
+              "start": 11.44,
+              "end": 11.68
+            },
+            {
+              "word": "jak",
+              "start": 12.16,
+              "end": 12.32
+            },
+            {
+              "word": "se",
+              "start": 12.4,
+              "end": 12.48
+            },
+            {
+              "word": "usmívala.“",
+              "start": 12.6,
+              "end": 13.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Všichni se na sebe podívají. Nikdo nic neřekne. Ale každý myslí na totéž. Hodinář se zvedne, opráší si zástěru a zamíří s nimi k hlavnímu sálu. Před ním však jsou rytíři v plné zbroji. Stojí bok po boku a nikoho nepustí dál.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "06_narrator.mp3",
+          "request": "{\"text\":\"Všichni se na sebe podívají. Nikdo nic neřekne. Ale každý myslí na totéž. Hodinář se zvedne, opráší si zástěru a zamíří s nimi k hlavnímu sálu. Před ním však jsou rytíři v plné zbroji. Stojí bok po boku a nikoho nepustí dál.\",\"tts\":\"[ominous] Všichni se na sebe podívají. Nikdo nic neřekne. Ale každý myslí na totéž. [calmly] Hodinář se zvedne, opráší si zástěru a zamíří s nimi k hlavnímu sálu. Před ním však jsou rytíři v plné zbroji. Stojí bok po boku a nikoho nepustí dál.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 20.924,
+          "words": [
+            {
+              "word": "Všichni",
+              "start": 0.16,
+              "end": 0.64
+            },
+            {
+              "word": "se",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "na",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "sebe",
+              "start": 1.04,
+              "end": 1.2
+            },
+            {
+              "word": "podívají.",
+              "start": 1.28,
+              "end": 2.0
+            },
+            {
+              "word": "Nikdo",
+              "start": 2.88,
+              "end": 3.2
+            },
+            {
+              "word": "nic",
+              "start": 3.28,
+              "end": 3.44
+            },
+            {
+              "word": "neřekne.",
+              "start": 3.52,
+              "end": 4.0
+            },
+            {
+              "word": "Ale",
+              "start": 4.8,
+              "end": 5.04
+            },
+            {
+              "word": "každý",
+              "start": 5.2,
+              "end": 5.68
+            },
+            {
+              "word": "myslí",
+              "start": 5.8,
+              "end": 6.08
+            },
+            {
+              "word": "na",
+              "start": 6.16,
+              "end": 6.24
+            },
+            {
+              "word": "totéž.",
+              "start": 6.32,
+              "end": 6.88
+            },
+            {
+              "word": "Hodinář",
+              "start": 7.68,
+              "end": 8.16
+            },
+            {
+              "word": "se",
+              "start": 8.24,
+              "end": 8.32
+            },
+            {
+              "word": "zvedne,",
+              "start": 8.36,
+              "end": 8.88
+            },
+            {
+              "word": "opráší",
+              "start": 9.28,
+              "end": 9.68
+            },
+            {
+              "word": "si",
+              "start": 9.76,
+              "end": 9.84
+            },
+            {
+              "word": "zástěru",
+              "start": 9.92,
+              "end": 10.56
+            },
+            {
+              "word": "a",
+              "start": 10.96,
+              "end": 11.04
+            },
+            {
+              "word": "zamíří",
+              "start": 11.12,
+              "end": 11.6
+            },
+            {
+              "word": "s",
+              "start": 11.68,
+              "end": 11.72
+            },
+            {
+              "word": "nimi",
+              "start": 11.76,
+              "end": 12.0
+            },
+            {
+              "word": "k",
+              "start": 12.04,
+              "end": 12.08
+            },
+            {
+              "word": "hlavnímu",
+              "start": 12.16,
+              "end": 12.64
+            },
+            {
+              "word": "sálu.",
+              "start": 12.72,
+              "end": 13.2
+            },
+            {
+              "word": "Před",
+              "start": 14.08,
+              "end": 14.32
+            },
+            {
+              "word": "ním",
+              "start": 14.4,
+              "end": 14.56
+            },
+            {
+              "word": "však",
+              "start": 14.64,
+              "end": 14.88
+            },
+            {
+              "word": "jsou",
+              "start": 14.92,
+              "end": 15.12
+            },
+            {
+              "word": "rytíři",
+              "start": 15.2,
+              "end": 15.68
+            },
+            {
+              "word": "v",
+              "start": 15.76,
+              "end": 15.84
+            },
+            {
+              "word": "plné",
+              "start": 15.92,
+              "end": 16.16
+            },
+            {
+              "word": "zbroji.",
+              "start": 16.24,
+              "end": 16.64
+            },
+            {
+              "word": "Stojí",
+              "start": 17.44,
+              "end": 17.76
+            },
+            {
+              "word": "bok",
+              "start": 17.84,
+              "end": 18.0
+            },
+            {
+              "word": "po",
+              "start": 18.08,
+              "end": 18.16
+            },
+            {
+              "word": "boku",
+              "start": 18.24,
+              "end": 18.56
+            },
+            {
+              "word": "a",
+              "start": 18.96,
+              "end": 19.04
+            },
+            {
+              "word": "nikoho",
+              "start": 19.2,
+              "end": 19.68
+            },
+            {
+              "word": "nepustí",
+              "start": 19.76,
+              "end": 20.24
+            },
+            {
+              "word": "dál.",
+              "start": 20.32,
+              "end": 20.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ach, pánové rytíři. Velmi důstojní. A velmi tvrdohlaví.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "07_clockmaker.mp3",
+          "request": "{\"text\":\"„Ach, pánové rytíři. Velmi důstojní. A velmi tvrdohlaví.“\",\"tts\":\"[cheerfully] „Ach, pánové rytíři. Velmi důstojní. [chuckles] A velmi tvrdohlaví.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.609,
+          "words": [
+            {
+              "word": "„Ach,",
+              "start": 0.2,
+              "end": 0.56
+            },
+            {
+              "word": "pánové",
+              "start": 0.92,
+              "end": 1.44
+            },
+            {
+              "word": "rytíři.",
+              "start": 1.52,
+              "end": 2.08
+            },
+            {
+              "word": "Velmi",
+              "start": 2.56,
+              "end": 2.96
+            },
+            {
+              "word": "důstojní.",
+              "start": 3.0,
+              "end": 3.76
+            },
+            {
+              "word": "A",
+              "start": 4.8,
+              "end": 4.96
+            },
+            {
+              "word": "velmi",
+              "start": 5.12,
+              "end": 5.52
+            },
+            {
+              "word": "tvrdohlaví.“",
+              "start": 5.6,
+              "end": 6.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Nela zaklepe na brnění.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "08_narrator.mp3",
+          "request": "{\"text\":\"Nela zaklepe na brnění.\",\"tts\":\"Nela zaklepe na brnění.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.038,
+          "words": [
+            {
+              "word": "Nela",
+              "start": 0.0,
+              "end": 0.32
+            },
+            {
+              "word": "zaklepe",
+              "start": 0.4,
+              "end": 0.8
+            },
+            {
+              "word": "na",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "brnění.",
+              "start": 1.04,
+              "end": 1.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Halóóó? Je tam někdo?“",
+      "recordings": [
+        {
+          "voice": "nela",
+          "file": "09_nela.mp3",
+          "request": "{\"text\":\"„Halóóó? Je tam někdo?“\",\"tts\":\"[dryly] „Halóóó? Je tam někdo?“\",\"voiceId\":\"b2DVnyhHOMw8tqff3NSa\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.508,
+          "words": [
+            {
+              "word": "„Halóóó?",
+              "start": 0.24,
+              "end": 0.88
+            },
+            {
+              "word": "Je",
+              "start": 1.36,
+              "end": 1.52
+            },
+            {
+              "word": "tam",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "někdo?“",
+              "start": 1.76,
+              "end": 2.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Brnění dutě zaduní. Ale žádný z nich se ani nehne.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "10_narrator.mp3",
+          "request": "{\"text\":\"Brnění dutě zaduní. Ale žádný z nich se ani nehne.\",\"tts\":\"Brnění dutě zaduní. Ale žádný z nich se ani nehne.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.676,
+          "words": [
+            {
+              "word": "Brnění",
+              "start": 0.0,
+              "end": 0.56
+            },
+            {
+              "word": "dutě",
+              "start": 0.72,
+              "end": 1.04
+            },
+            {
+              "word": "zaduní.",
+              "start": 1.12,
+              "end": 1.76
+            },
+            {
+              "word": "Ale",
+              "start": 2.4,
+              "end": 2.64
+            },
+            {
+              "word": "žádný",
+              "start": 2.72,
+              "end": 3.12
+            },
+            {
+              "word": "z",
+              "start": 3.2,
+              "end": 3.28
+            },
+            {
+              "word": "nich",
+              "start": 3.32,
+              "end": 3.52
+            },
+            {
+              "word": "se",
+              "start": 3.6,
+              "end": 3.76
+            },
+            {
+              "word": "ani",
+              "start": 3.88,
+              "end": 4.0
+            },
+            {
+              "word": "nehne.",
+              "start": 4.12,
+              "end": 4.48
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "page": "story_20",
+  "lines": [
+    {
+      "text": "Kroky se zastaví za dveřmi a všichni ztuhnou. Ozve se jen dlouhé, ospalé zívnutí. Pak šustění sukní pomalu slábne, až utichne úplně.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Kroky se zastaví za dveřmi a všichni ztuhnou. Ozve se jen dlouhé, ospalé zívnutí. Pak šustění sukní pomalu slábne, až utichne úplně.\",\"tts\":\"[tense] Kroky se zastaví za dveřmi a všichni ztuhnou. Ozve se jen dlouhé, ospalé zívnutí. [pause] Pak šustění sukní pomalu slábne, až utichne úplně.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 12.643,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Kroky",
+              "start": 0.682,
+              "end": 0.922
+            },
+            {
+              "word": "se",
+              "start": 1.002,
+              "end": 1.082
+            },
+            {
+              "word": "zastaví",
+              "start": 1.162,
+              "end": 1.562
+            },
+            {
+              "word": "za",
+              "start": 1.642,
+              "end": 1.722
+            },
+            {
+              "word": "dveřmi",
+              "start": 1.762,
+              "end": 2.282
+            },
+            {
+              "word": "a",
+              "start": 2.522,
+              "end": 2.602
+            },
+            {
+              "word": "všichni",
+              "start": 2.682,
+              "end": 3.082
+            },
+            {
+              "word": "ztuhnou.",
+              "start": 3.162,
+              "end": 3.722
+            },
+            {
+              "word": "Ozve",
+              "start": 4.522,
+              "end": 4.762
+            },
+            {
+              "word": "se",
+              "start": 4.842,
+              "end": 4.922
+            },
+            {
+              "word": "jen",
+              "start": 5.042,
+              "end": 5.162
+            },
+            {
+              "word": "dlouhé,",
+              "start": 5.242,
+              "end": 5.882
+            },
+            {
+              "word": "ospalé",
+              "start": 6.122,
+              "end": 6.602
+            },
+            {
+              "word": "zívnutí.",
+              "start": 6.682,
+              "end": 7.402
+            },
+            {
+              "word": "Pak",
+              "start": 8.426,
+              "end": 8.602
+            },
+            {
+              "word": "šustění",
+              "start": 8.642,
+              "end": 9.162
+            },
+            {
+              "word": "sukní",
+              "start": 9.242,
+              "end": 9.722
+            },
+            {
+              "word": "pomalu",
+              "start": 9.762,
+              "end": 10.122
+            },
+            {
+              "word": "slábne,",
+              "start": 10.202,
+              "end": 10.762
+            },
+            {
+              "word": "až",
+              "start": 11.082,
+              "end": 11.322
+            },
+            {
+              "word": "utichne",
+              "start": 11.402,
+              "end": 11.882
+            },
+            {
+              "word": "úplně.",
+              "start": 11.962,
+              "end": 12.442
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Je pryč. Vrátila se do obrazu. Očividně moc dlouho venku nevydrží.“",
+      "recordings": [
+        {
+          "voice": "jonas",
+          "file": "02_jonas.mp3",
+          "request": "{\"text\":\"„Je pryč. Vrátila se do obrazu. Očividně moc dlouho venku nevydrží.“\",\"tts\":\"[whispers, relieved] „Je pryč. Vrátila se do obrazu. Očividně moc dlouho venku nevydrží.“\",\"voiceId\":\"FaWkkmPaCmlojJvzpzai\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.486,
+          "words": [
+            {
+              "word": "„Je",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "pryč.",
+              "start": 0.36,
+              "end": 0.64
+            },
+            {
+              "word": "Vrátila",
+              "start": 1.173,
+              "end": 1.52
+            },
+            {
+              "word": "se",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "do",
+              "start": 1.72,
+              "end": 1.76
+            },
+            {
+              "word": "obrazu.",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "word": "Očividně",
+              "start": 2.96,
+              "end": 3.44
+            },
+            {
+              "word": "moc",
+              "start": 3.48,
+              "end": 3.68
+            },
+            {
+              "word": "dlouho",
+              "start": 3.76,
+              "end": 4.0
+            },
+            {
+              "word": "venku",
+              "start": 4.08,
+              "end": 4.32
+            },
+            {
+              "word": "nevydrží.“",
+              "start": 4.4,
+              "end": 4.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tak toho využijeme. Rychle dolů!“",
+      "recordings": [
+        {
+          "voice": "ema",
+          "file": "03_ema.mp3",
+          "request": "{\"text\":\"„Tak toho využijeme. Rychle dolů!“\",\"tts\":\"[urgently] „Tak toho využijeme. Rychle dolů!“\",\"voiceId\":\"Wx6mpI7DClvnZ58jSRcD\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.429,
+          "words": [
+            {
+              "word": "„Tak",
+              "start": 0.069,
+              "end": 0.16
+            },
+            {
+              "word": "toho",
+              "start": 0.24,
+              "end": 0.48
+            },
+            {
+              "word": "využijeme.",
+              "start": 0.56,
+              "end": 1.2
+            },
+            {
+              "word": "Rychle",
+              "start": 1.52,
+              "end": 1.84
+            },
+            {
+              "word": "dolů!“",
+              "start": 1.88,
+              "end": 2.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Děti jdou tmou za hodinářem. Vede je dlouhou chodbou až k nízkým dveřím.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Děti jdou tmou za hodinářem. Vede je dlouhou chodbou až k nízkým dveřím.\",\"tts\":\"[mysterious] Děti jdou tmou za hodinářem. Vede je dlouhou chodbou až k nízkým dveřím.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.269,
+          "words": [
+            {
+              "word": "Děti",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "jdou",
+              "start": 0.48,
+              "end": 0.72
+            },
+            {
+              "word": "tmou",
+              "start": 0.8,
+              "end": 1.12
+            },
+            {
+              "word": "za",
+              "start": 1.2,
+              "end": 1.36
+            },
+            {
+              "word": "hodinářem.",
+              "start": 1.413,
+              "end": 2.16
+            },
+            {
+              "word": "Vede",
+              "start": 2.8,
+              "end": 3.04
+            },
+            {
+              "word": "je",
+              "start": 3.12,
+              "end": 3.2
+            },
+            {
+              "word": "dlouhou",
+              "start": 3.28,
+              "end": 3.68
+            },
+            {
+              "word": "chodbou",
+              "start": 3.76,
+              "end": 4.32
+            },
+            {
+              "word": "až",
+              "start": 4.4,
+              "end": 4.56
+            },
+            {
+              "word": "k",
+              "start": 4.64,
+              "end": 4.68
+            },
+            {
+              "word": "nízkým",
+              "start": 4.72,
+              "end": 5.16
+            },
+            {
+              "word": "dveřím.",
+              "start": 5.2,
+              "end": 5.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Moje dílna! Kdo mi tady udělal takový nepořádek? Aha. Já. Tady býval vždycky pořádek. Každé hodiny věděly, kolik je hodin. Teď nevědí nic. Ani jedny. Jako já.“",
+      "recordings": [
+        {
+          "voice": "clockmaker",
+          "file": "05_clockmaker.mp3",
+          "request": "{\"text\":\"„Moje dílna! Kdo mi tady udělal takový nepořádek? Aha. Já. Tady býval vždycky pořádek. Každé hodiny věděly, kolik je hodin. Teď nevědí nic. Ani jedny. Jako já.“\",\"tts\":\"[suddenly excited] „Moje dílna! [confused] Kdo mi tady udělal takový nepořádek? [pause] [suddenly realizing] Aha. Já. [suddenly sad] Tady býval vždycky pořádek. Každé hodiny věděly, kolik je hodin. Teď nevědí nic. Ani jedny. [sighs] [sadly] Jako já.“\",\"voiceId\":\"GysaAuTBbQ1yk0RhBjRZ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 17.946,
+          "words": [
+            {
+              "word": "„Moje",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "dílna!",
+              "start": 0.48,
+              "end": 0.96
+            },
+            {
+              "word": "Kdo",
+              "start": 1.68,
+              "end": 1.84
+            },
+            {
+              "word": "mi",
+              "start": 1.92,
+              "end": 2.0
+            },
+            {
+              "word": "tady",
+              "start": 2.04,
+              "end": 2.24
+            },
+            {
+              "word": "udělal",
+              "start": 2.32,
+              "end": 2.56
+            },
+            {
+              "word": "takový",
+              "start": 2.64,
+              "end": 2.96
+            },
+            {
+              "word": "nepořádek?",
+              "start": 3.04,
+              "end": 3.76
+            },
+            {
+              "word": "Aha.",
+              "start": 4.7,
+              "end": 5.04
+            },
+            {
+              "word": "Já.",
+              "start": 5.68,
+              "end": 6.0
+            },
+            {
+              "word": "Tady",
+              "start": 7.029,
+              "end": 7.2
+            },
+            {
+              "word": "býval",
+              "start": 7.24,
+              "end": 7.52
+            },
+            {
+              "word": "vždycky",
+              "start": 7.56,
+              "end": 8.0
+            },
+            {
+              "word": "pořádek.",
+              "start": 8.08,
+              "end": 8.72
+            },
+            {
+              "word": "Každé",
+              "start": 9.52,
+              "end": 9.84
+            },
+            {
+              "word": "hodiny",
+              "start": 9.92,
+              "end": 10.24
+            },
+            {
+              "word": "věděly,",
+              "start": 10.32,
+              "end": 10.72
+            },
+            {
+              "word": "kolik",
+              "start": 10.96,
+              "end": 11.2
+            },
+            {
+              "word": "je",
+              "start": 11.24,
+              "end": 11.28
+            },
+            {
+              "word": "hodin.",
+              "start": 11.36,
+              "end": 11.76
+            },
+            {
+              "word": "Teď",
+              "start": 12.64,
+              "end": 12.88
+            },
+            {
+              "word": "nevědí",
+              "start": 13.0,
+              "end": 13.36
+            },
+            {
+              "word": "nic.",
+              "start": 13.56,
+              "end": 13.76
+            },
+            {
+              "word": "Ani",
+              "start": 14.48,
+              "end": 14.68
+            },
+            {
+              "word": "jedny.",
+              "start": 14.72,
+              "end": 15.12
+            },
+            {
+              "word": "Jako",
+              "start": 17.107,
+              "end": 17.36
+            },
+            {
+              "word": "já.“",
+              "start": 17.44,
+              "end": 17.68
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
