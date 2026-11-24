@@ -1,0 +1,655 @@
+{
+  "page": "story_01",
+  "lines": [
+    {
+      "text": "Děda Bohouš slaví sedmdesátiny a dům praská ve švech. Voní tu jídlo, cinkají skleničky a pořád někdo zvoní u dveří. Teta Jarmila štípe do tváří každého, kdo se nestihne schovat. Strýc Pepa pořád dokola vypráví o hypotékách. A děda spokojeně sedí v čele stolu a usmívá se.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Děda Bohouš slaví sedmdesátiny a dům praská ve švech. Voní tu jídlo, cinkají skleničky a pořád někdo zvoní u dveří. Teta Jarmila štípe do tváří každého, kdo se nestihne schovat. Strýc Pepa pořád dokola vypráví o hypotékách. A děda spokojeně sedí v čele stolu a usmívá se.\",\"tts\":\"[warmly] Děda Bohouš slaví sedmdesátiny a dům praská ve švech. Voní tu jídlo, cinkají skleničky a pořád někdo zvoní u dveří. [amused] Teta Jarmila štípe do tváří každého, kdo se nestihne schovat. Strýc Pepa pořád dokola vypráví o hypotékách. A děda spokojeně sedí v čele stolu a usmívá se.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 21.682,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Děda",
+              "start": 0.666,
+              "end": 0.842
+            },
+            {
+              "word": "Bohouš",
+              "start": 0.922,
+              "end": 1.402
+            },
+            {
+              "word": "slaví",
+              "start": 1.442,
+              "end": 1.722
+            },
+            {
+              "word": "sedmdesátiny",
+              "start": 1.802,
+              "end": 2.762
+            },
+            {
+              "word": "a",
+              "start": 2.842,
+              "end": 2.922
+            },
+            {
+              "word": "dům",
+              "start": 3.082,
+              "end": 3.402
+            },
+            {
+              "word": "praská",
+              "start": 3.562,
+              "end": 4.122
+            },
+            {
+              "word": "ve",
+              "start": 4.202,
+              "end": 4.282
+            },
+            {
+              "word": "švech.",
+              "start": 4.322,
+              "end": 4.682
+            },
+            {
+              "word": "Voní",
+              "start": 5.162,
+              "end": 5.482
+            },
+            {
+              "word": "tu",
+              "start": 5.562,
+              "end": 5.642
+            },
+            {
+              "word": "jídlo,",
+              "start": 5.682,
+              "end": 6.122
+            },
+            {
+              "word": "cinkají",
+              "start": 6.282,
+              "end": 6.682
+            },
+            {
+              "word": "skleničky",
+              "start": 6.762,
+              "end": 7.322
+            },
+            {
+              "word": "a",
+              "start": 7.642,
+              "end": 7.722
+            },
+            {
+              "word": "pořád",
+              "start": 7.802,
+              "end": 8.282
+            },
+            {
+              "word": "někdo",
+              "start": 8.309,
+              "end": 8.522
+            },
+            {
+              "word": "zvoní",
+              "start": 8.562,
+              "end": 8.842
+            },
+            {
+              "word": "u",
+              "start": 8.922,
+              "end": 9.002
+            },
+            {
+              "word": "dveří.",
+              "start": 9.055,
+              "end": 9.402
+            },
+            {
+              "word": "Teta",
+              "start": 9.946,
+              "end": 10.202
+            },
+            {
+              "word": "Jarmila",
+              "start": 10.282,
+              "end": 10.682
+            },
+            {
+              "word": "štípe",
+              "start": 10.762,
+              "end": 11.162
+            },
+            {
+              "word": "do",
+              "start": 11.202,
+              "end": 11.242
+            },
+            {
+              "word": "tváří",
+              "start": 11.322,
+              "end": 11.722
+            },
+            {
+              "word": "každého,",
+              "start": 11.802,
+              "end": 12.282
+            },
+            {
+              "word": "kdo",
+              "start": 12.362,
+              "end": 12.522
+            },
+            {
+              "word": "se",
+              "start": 12.602,
+              "end": 12.682
+            },
+            {
+              "word": "nestihne",
+              "start": 12.762,
+              "end": 13.242
+            },
+            {
+              "word": "schovat.",
+              "start": 13.322,
+              "end": 13.802
+            },
+            {
+              "word": "Strýc",
+              "start": 14.282,
+              "end": 14.602
+            },
+            {
+              "word": "Pepa",
+              "start": 14.682,
+              "end": 15.082
+            },
+            {
+              "word": "pořád",
+              "start": 15.162,
+              "end": 15.482
+            },
+            {
+              "word": "dokola",
+              "start": 15.562,
+              "end": 15.882
+            },
+            {
+              "word": "vypráví",
+              "start": 15.962,
+              "end": 16.442
+            },
+            {
+              "word": "o",
+              "start": 16.482,
+              "end": 16.522
+            },
+            {
+              "word": "hypotékách.",
+              "start": 16.602,
+              "end": 17.402
+            },
+            {
+              "word": "A",
+              "start": 17.882,
+              "end": 17.962
+            },
+            {
+              "word": "děda",
+              "start": 18.042,
+              "end": 18.442
+            },
+            {
+              "word": "spokojeně",
+              "start": 18.522,
+              "end": 19.162
+            },
+            {
+              "word": "sedí",
+              "start": 19.282,
+              "end": 19.482
+            },
+            {
+              "word": "v",
+              "start": 19.522,
+              "end": 19.562
+            },
+            {
+              "word": "čele",
+              "start": 19.602,
+              "end": 19.802
+            },
+            {
+              "word": "stolu",
+              "start": 19.882,
+              "end": 20.282
+            },
+            {
+              "word": "a",
+              "start": 20.522,
+              "end": 20.602
+            },
+            {
+              "word": "usmívá",
+              "start": 20.682,
+              "end": 21.242
+            },
+            {
+              "word": "se.",
+              "start": 21.322,
+              "end": 21.482
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tohle je oficiálně nejnudnější oslava na světě. Mám to spočítané. Strýc řekl ‚hypotéka‘ dvaačtyřicetkrát.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "02_klara.mp3",
+          "request": "{\"text\":\"„Tohle je oficiálně nejnudnější oslava na světě. Mám to spočítané. Strýc řekl ‚hypotéka‘ dvaačtyřicetkrát.“\",\"tts\":\"[dryly] „Tohle je oficiálně nejnudnější oslava na světě. Mám to spočítané. Strýc řekl ‚hypotéka‘ dvaačtyřicetkrát.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 9.404,
+          "words": [
+            {
+              "word": "„Tohle",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "je",
+              "start": 0.48,
+              "end": 0.72
+            },
+            {
+              "word": "oficiálně",
+              "start": 0.8,
+              "end": 1.76
+            },
+            {
+              "word": "nejnudnější",
+              "start": 1.88,
+              "end": 2.64
+            },
+            {
+              "word": "oslava",
+              "start": 2.72,
+              "end": 3.12
+            },
+            {
+              "word": "na",
+              "start": 3.2,
+              "end": 3.28
+            },
+            {
+              "word": "světě.",
+              "start": 3.36,
+              "end": 4.08
+            },
+            {
+              "word": "Mám",
+              "start": 4.133,
+              "end": 4.24
+            },
+            {
+              "word": "to",
+              "start": 4.32,
+              "end": 4.4
+            },
+            {
+              "word": "spočítané.",
+              "start": 4.48,
+              "end": 5.44
+            },
+            {
+              "word": "Strýc",
+              "start": 5.52,
+              "end": 5.88
+            },
+            {
+              "word": "řekl",
+              "start": 5.92,
+              "end": 6.4
+            },
+            {
+              "word": "‚hypotéka‘",
+              "start": 6.613,
+              "end": 7.44
+            },
+            {
+              "word": "dvaačtyřicetkrát.“",
+              "start": 7.52,
+              "end": 8.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Teta mě štípla pětkrát. Za chvíli budu mít místo tváří dvě rajčata.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "03_tobi.mp3",
+          "request": "{\"text\":\"„Teta mě štípla pětkrát. Za chvíli budu mít místo tváří dvě rajčata.“\",\"tts\":\"[whining] „Teta mě štípla pětkrát. Za chvíli budu mít místo tváří dvě rajčata.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.486,
+          "words": [
+            {
+              "word": "„Teta",
+              "start": 0.08,
+              "end": 0.32
+            },
+            {
+              "word": "mě",
+              "start": 0.36,
+              "end": 0.56
+            },
+            {
+              "word": "štípla",
+              "start": 0.64,
+              "end": 0.96
+            },
+            {
+              "word": "pětkrát.",
+              "start": 1.12,
+              "end": 1.92
+            },
+            {
+              "word": "Za",
+              "start": 2.32,
+              "end": 2.4
+            },
+            {
+              "word": "chvíli",
+              "start": 2.44,
+              "end": 2.72
+            },
+            {
+              "word": "budu",
+              "start": 2.8,
+              "end": 2.96
+            },
+            {
+              "word": "mít",
+              "start": 3.0,
+              "end": 3.12
+            },
+            {
+              "word": "místo",
+              "start": 3.2,
+              "end": 3.52
+            },
+            {
+              "word": "tváří",
+              "start": 3.6,
+              "end": 4.0
+            },
+            {
+              "word": "dvě",
+              "start": 4.08,
+              "end": 4.24
+            },
+            {
+              "word": "rajčata.“",
+              "start": 4.32,
+              "end": 4.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dvě malá kyselá rajčátka.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "04_klara.mp3",
+          "request": "{\"text\":\"„Dvě malá kyselá rajčátka.“\",\"tts\":\"[teasing] „Dvě malá kyselá rajčátka.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.004,
+          "words": [
+            {
+              "word": "„Dvě",
+              "start": 0.2,
+              "end": 0.48
+            },
+            {
+              "word": "malá",
+              "start": 0.64,
+              "end": 1.04
+            },
+            {
+              "word": "kyselá",
+              "start": 1.2,
+              "end": 1.76
+            },
+            {
+              "word": "rajčátka.“",
+              "start": 1.92,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Já nejsem kyselý!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "05_tobi.mp3",
+          "request": "{\"text\":\"„Já nejsem kyselý!“\",\"tts\":\"[offended] „Já nejsem kyselý!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.646,
+          "words": [
+            {
+              "word": "„Já",
+              "start": 0.12,
+              "end": 0.32
+            },
+            {
+              "word": "nejsem",
+              "start": 0.4,
+              "end": 0.8
+            },
+            {
+              "word": "kyselý!“",
+              "start": 0.88,
+              "end": 1.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pod stolem si povzdechne pes Ferda. Nikdo mu zatím neupustil ani drobeček. Klára kývne na bratra Tobiho a ukáže ke schodům.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "06_narrator.mp3",
+          "request": "{\"text\":\"Pod stolem si povzdechne pes Ferda. Nikdo mu zatím neupustil ani drobeček. Klára kývne na bratra Tobiho a ukáže ke schodům.\",\"tts\":\"[mysterious] Pod stolem si povzdechne pes Ferda. Nikdo mu zatím neupustil ani drobeček. Klára kývne na bratra Tobiho a ukáže ke schodům.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.031,
+          "words": [
+            {
+              "word": "Pod",
+              "start": 0.192,
+              "end": 0.24
+            },
+            {
+              "word": "stolem",
+              "start": 0.32,
+              "end": 0.72
+            },
+            {
+              "word": "si",
+              "start": 0.8,
+              "end": 0.96
+            },
+            {
+              "word": "povzdechne",
+              "start": 1.013,
+              "end": 1.52
+            },
+            {
+              "word": "pes",
+              "start": 1.6,
+              "end": 1.84
+            },
+            {
+              "word": "Ferda.",
+              "start": 1.88,
+              "end": 2.24
+            },
+            {
+              "word": "Nikdo",
+              "start": 2.96,
+              "end": 3.28
+            },
+            {
+              "word": "mu",
+              "start": 3.36,
+              "end": 3.44
+            },
+            {
+              "word": "zatím",
+              "start": 3.48,
+              "end": 3.76
+            },
+            {
+              "word": "neupustil",
+              "start": 3.84,
+              "end": 4.64
+            },
+            {
+              "word": "ani",
+              "start": 4.76,
+              "end": 4.88
+            },
+            {
+              "word": "drobeček.",
+              "start": 4.96,
+              "end": 5.6
+            },
+            {
+              "word": "Klára",
+              "start": 6.32,
+              "end": 6.72
+            },
+            {
+              "word": "kývne",
+              "start": 6.76,
+              "end": 7.04
+            },
+            {
+              "word": "na",
+              "start": 7.12,
+              "end": 7.2
+            },
+            {
+              "word": "bratra",
+              "start": 7.24,
+              "end": 7.52
+            },
+            {
+              "word": "Tobiho",
+              "start": 7.6,
+              "end": 8.16
+            },
+            {
+              "word": "a",
+              "start": 8.28,
+              "end": 8.4
+            },
+            {
+              "word": "ukáže",
+              "start": 8.52,
+              "end": 8.88
+            },
+            {
+              "word": "ke",
+              "start": 8.92,
+              "end": 8.96
+            },
+            {
+              "word": "schodům.",
+              "start": 9.04,
+              "end": 9.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Mizíme.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "07_klara.mp3",
+          "request": "{\"text\":\"„Mizíme.“\",\"tts\":\"[whispers, mischievously] „Mizíme.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.411,
+          "words": [
+            {
+              "word": "„Mizíme.“",
+              "start": 0.2,
+              "end": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Schody vedou na půdu, kam nikdo nechodí.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "08_narrator.mp3",
+          "request": "{\"text\":\"Schody vedou na půdu, kam nikdo nechodí.\",\"tts\":\"[mysterious] Schody vedou na půdu, kam nikdo nechodí.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.396,
+          "words": [
+            {
+              "word": "Schody",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "vedou",
+              "start": 0.64,
+              "end": 0.88
+            },
+            {
+              "word": "na",
+              "start": 0.96,
+              "end": 1.12
+            },
+            {
+              "word": "půdu,",
+              "start": 1.16,
+              "end": 1.6
+            },
+            {
+              "word": "kam",
+              "start": 1.88,
+              "end": 2.16
+            },
+            {
+              "word": "nikdo",
+              "start": 2.24,
+              "end": 2.56
+            },
+            {
+              "word": "nechodí.",
+              "start": 2.64,
+              "end": 3.2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "page": "story_07",
+  "lines": [
+    {
+      "text": "„Takže kohout Rex naháněl malého dědu!“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "01_klara.mp3",
+          "request": "{\"text\":\"„Takže kohout Rex naháněl malého dědu!“\",\"tts\":\"[laughing] „Takže kohout Rex naháněl malého dědu!“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.12,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "„Takže",
+              "start": 1.802,
+              "end": 2.122
+            },
+            {
+              "word": "kohout",
+              "start": 2.282,
+              "end": 2.762
+            },
+            {
+              "word": "Rex",
+              "start": 2.842,
+              "end": 3.242
+            },
+            {
+              "word": "naháněl",
+              "start": 3.322,
+              "end": 3.882
+            },
+            {
+              "word": "malého",
+              "start": 3.962,
+              "end": 4.442
+            },
+            {
+              "word": "dědu!“",
+              "start": 4.522,
+              "end": 4.922
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Děda vždycky vypráví, jak lovil dinosaury. A přitom dinosaurus lovil jeho!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "02_tobi.mp3",
+          "request": "{\"text\":\"„Děda vždycky vypráví, jak lovil dinosaury. A přitom dinosaurus lovil jeho!“\",\"tts\":\"[delighted] „Děda vždycky vypráví, jak lovil dinosaury. A přitom dinosaurus lovil jeho!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.799,
+          "words": [
+            {
+              "word": "„Děda",
+              "start": 0.12,
+              "end": 0.4
+            },
+            {
+              "word": "vždycky",
+              "start": 0.44,
+              "end": 0.96
+            },
+            {
+              "word": "vypráví,",
+              "start": 1.04,
+              "end": 1.52
+            },
+            {
+              "word": "jak",
+              "start": 1.6,
+              "end": 1.76
+            },
+            {
+              "word": "lovil",
+              "start": 1.84,
+              "end": 2.16
+            },
+            {
+              "word": "dinosaury.",
+              "start": 2.28,
+              "end": 3.2
+            },
+            {
+              "word": "A",
+              "start": 3.28,
+              "end": 3.36
+            },
+            {
+              "word": "přitom",
+              "start": 3.387,
+              "end": 3.76
+            },
+            {
+              "word": "dinosaurus",
+              "start": 3.8,
+              "end": 4.48
+            },
+            {
+              "word": "lovil",
+              "start": 4.56,
+              "end": 4.88
+            },
+            {
+              "word": "jeho!“",
+              "start": 4.92,
+              "end": 5.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ferda nastraží uši. Něco ucítí a rozběhne se. Děti se ho snaží chytit, ale on se žene přes zahradu k místu, kterému mapa říká Bažina smrti. Ferda stojí na staré fošně v bahně, vrtí ocasem a míří ke kompostu.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Ferda nastraží uši. Něco ucítí a rozběhne se. Děti se ho snaží chytit, ale on se žene přes zahradu k místu, kterému mapa říká Bažina smrti. Ferda stojí na staré fošně v bahně, vrtí ocasem a míří ke kompostu.\",\"tts\":\"[excited] Ferda nastraží uši. Něco ucítí a rozběhne se. Děti se ho snaží chytit, ale on se žene přes zahradu k místu, kterému mapa říká Bažina smrti. [amused] Ferda stojí na staré fošně v bahně, vrtí ocasem a míří ke kompostu.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 18.364,
+          "words": [
+            {
+              "word": "Ferda",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "nastraží",
+              "start": 0.64,
+              "end": 1.2
+            },
+            {
+              "word": "uši.",
+              "start": 1.28,
+              "end": 1.6
+            },
+            {
+              "word": "Něco",
+              "start": 2.12,
+              "end": 2.48
+            },
+            {
+              "word": "ucítí",
+              "start": 2.6,
+              "end": 3.12
+            },
+            {
+              "word": "a",
+              "start": 3.28,
+              "end": 3.36
+            },
+            {
+              "word": "rozběhne",
+              "start": 3.44,
+              "end": 4.0
+            },
+            {
+              "word": "se.",
+              "start": 4.08,
+              "end": 4.24
+            },
+            {
+              "word": "Děti",
+              "start": 4.88,
+              "end": 5.2
+            },
+            {
+              "word": "se",
+              "start": 5.28,
+              "end": 5.36
+            },
+            {
+              "word": "ho",
+              "start": 5.4,
+              "end": 5.44
+            },
+            {
+              "word": "snaží",
+              "start": 5.52,
+              "end": 5.84
+            },
+            {
+              "word": "chytit,",
+              "start": 5.88,
+              "end": 6.24
+            },
+            {
+              "word": "ale",
+              "start": 6.68,
+              "end": 6.8
+            },
+            {
+              "word": "on",
+              "start": 6.96,
+              "end": 7.12
+            },
+            {
+              "word": "se",
+              "start": 7.2,
+              "end": 7.28
+            },
+            {
+              "word": "žene",
+              "start": 7.36,
+              "end": 7.6
+            },
+            {
+              "word": "přes",
+              "start": 7.68,
+              "end": 7.92
+            },
+            {
+              "word": "zahradu",
+              "start": 8.0,
+              "end": 8.4
+            },
+            {
+              "word": "k",
+              "start": 8.44,
+              "end": 8.48
+            },
+            {
+              "word": "místu,",
+              "start": 8.52,
+              "end": 8.96
+            },
+            {
+              "word": "kterému",
+              "start": 9.24,
+              "end": 9.68
+            },
+            {
+              "word": "mapa",
+              "start": 9.76,
+              "end": 10.0
+            },
+            {
+              "word": "říká",
+              "start": 10.08,
+              "end": 10.56
+            },
+            {
+              "word": "Bažina",
+              "start": 10.96,
+              "end": 11.36
+            },
+            {
+              "word": "smrti.",
+              "start": 11.52,
+              "end": 12.0
+            },
+            {
+              "word": "Ferda",
+              "start": 12.72,
+              "end": 13.04
+            },
+            {
+              "word": "stojí",
+              "start": 13.12,
+              "end": 13.44
+            },
+            {
+              "word": "na",
+              "start": 13.52,
+              "end": 13.6
+            },
+            {
+              "word": "staré",
+              "start": 13.68,
+              "end": 14.0
+            },
+            {
+              "word": "fošně",
+              "start": 14.08,
+              "end": 14.4
+            },
+            {
+              "word": "v",
+              "start": 14.44,
+              "end": 14.48
+            },
+            {
+              "word": "bahně,",
+              "start": 14.56,
+              "end": 14.96
+            },
+            {
+              "word": "vrtí",
+              "start": 15.36,
+              "end": 15.68
+            },
+            {
+              "word": "ocasem",
+              "start": 15.76,
+              "end": 16.32
+            },
+            {
+              "word": "a",
+              "start": 16.48,
+              "end": 16.56
+            },
+            {
+              "word": "míří",
+              "start": 16.64,
+              "end": 17.04
+            },
+            {
+              "word": "ke",
+              "start": 17.12,
+              "end": 17.2
+            },
+            {
+              "word": "kompostu.",
+              "start": 17.28,
+              "end": 17.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ferdo, k noze!“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "04_klara.mp3",
+          "request": "{\"text\":\"„Ferdo, k noze!“\",\"tts\":\"[stern] „Ferdo, k noze!“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.567,
+          "words": [
+            {
+              "word": "„Ferdo,",
+              "start": 0.12,
+              "end": 0.56
+            },
+            {
+              "word": "k",
+              "start": 0.88,
+              "end": 0.92
+            },
+            {
+              "word": "noze!“",
+              "start": 0.96,
+              "end": 1.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Musíme ho odtamtud nějak dostat.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "05_tobi.mp3",
+          "request": "{\"text\":\"„Musíme ho odtamtud nějak dostat.“\",\"tts\":\"[worried] „Musíme ho odtamtud nějak dostat.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.691,
+          "words": [
+            {
+              "word": "„Musíme",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "ho",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "odtamtud",
+              "start": 0.8,
+              "end": 1.28
+            },
+            {
+              "word": "nějak",
+              "start": 1.36,
+              "end": 1.6
+            },
+            {
+              "word": "dostat.“",
+              "start": 1.68,
+              "end": 2.24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "page": "story_02",
+  "lines": [
+    {
+      "text": "Na půdě je šero a všude prach. Uprostřed stojí stará bedna s velkým červeným B.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Na půdě je šero a všude prach. Uprostřed stojí stará bedna s velkým červeným B.\",\"tts\":\"[mysterious] Na půdě je šero a všude prach. Uprostřed stojí stará bedna s velkým červeným Bé.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.523,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Na",
+              "start": 0.682,
+              "end": 0.762
+            },
+            {
+              "word": "půdě",
+              "start": 0.842,
+              "end": 1.162
+            },
+            {
+              "word": "je",
+              "start": 1.282,
+              "end": 1.402
+            },
+            {
+              "word": "šero",
+              "start": 1.442,
+              "end": 1.882
+            },
+            {
+              "word": "a",
+              "start": 2.122,
+              "end": 2.202
+            },
+            {
+              "word": "všude",
+              "start": 2.282,
+              "end": 2.682
+            },
+            {
+              "word": "prach.",
+              "start": 2.762,
+              "end": 3.162
+            },
+            {
+              "word": "Uprostřed",
+              "start": 3.722,
+              "end": 4.282
+            },
+            {
+              "word": "stojí",
+              "start": 4.362,
+              "end": 4.682
+            },
+            {
+              "word": "stará",
+              "start": 4.802,
+              "end": 5.002
+            },
+            {
+              "word": "bedna",
+              "start": 5.082,
+              "end": 5.482
+            },
+            {
+              "word": "s",
+              "start": 5.562,
+              "end": 5.642
+            },
+            {
+              "word": "velkým",
+              "start": 5.722,
+              "end": 6.202
+            },
+            {
+              "word": "červeným",
+              "start": 6.362,
+              "end": 6.842
+            },
+            {
+              "word": "B.",
+              "start": 7.002,
+              "end": 7.322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„‚NE-O-TE-VÍ-RAT!‘ A pod tím malinkými písmenky: ‚kromě průzkumníků‘.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "02_tobi.mp3",
+          "request": "{\"text\":\"„‚NE-O-TE-VÍ-RAT!‘ A pod tím malinkými písmenky: ‚kromě průzkumníků‘.“\",\"tts\":\"[reading slowly] „‚NE-O-TE-VÍ-RAT!‘ A pod tím malinkými písmenky: ‚kromě průzkumníků‘.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.844,
+          "words": [
+            {
+              "word": "„‚NE-O-TE-VÍ-RAT!‘",
+              "start": 0.24,
+              "end": 1.84
+            },
+            {
+              "word": "A",
+              "start": 2.36,
+              "end": 2.4
+            },
+            {
+              "word": "pod",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "tím",
+              "start": 2.72,
+              "end": 2.96
+            },
+            {
+              "word": "malinkými",
+              "start": 3.04,
+              "end": 3.6
+            },
+            {
+              "word": "písmenky:",
+              "start": 3.64,
+              "end": 4.24
+            },
+            {
+              "word": "‚kromě",
+              "start": 4.76,
+              "end": 5.2
+            },
+            {
+              "word": "průzkumníků‘.“",
+              "start": 5.28,
+              "end": 6.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Průzkumníci. To jsme přece my.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "03_klara.mp3",
+          "request": "{\"text\":\"„Průzkumníci. To jsme přece my.“\",\"tts\":\"[grinning] „Průzkumníci. To jsme přece my.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Průzkumníci.",
+              "start": 0.08,
+              "end": 1.2
+            },
+            {
+              "word": "To",
+              "start": 1.68,
+              "end": 1.76
+            },
+            {
+              "word": "jsme",
+              "start": 1.8,
+              "end": 2.0
+            },
+            {
+              "word": "přece",
+              "start": 2.04,
+              "end": 2.4
+            },
+            {
+              "word": "my.“",
+              "start": 2.52,
+              "end": 2.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Bedna má zámek. Ale klíč… nikde.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Bedna má zámek. Ale klíč… nikde.\",\"tts\":\"[amused] Bedna má zámek. Ale klíč… nikde.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.788,
+          "words": [
+            {
+              "word": "Bedna",
+              "start": 0.24,
+              "end": 0.64
+            },
+            {
+              "word": "má",
+              "start": 0.68,
+              "end": 0.8
+            },
+            {
+              "word": "zámek.",
+              "start": 0.88,
+              "end": 1.44
+            },
+            {
+              "word": "Ale",
+              "start": 2.04,
+              "end": 2.16
+            },
+            {
+              "word": "klíč…",
+              "start": 2.24,
+              "end": 2.72
+            },
+            {
+              "word": "nikde.",
+              "start": 3.24,
+              "end": 3.52
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

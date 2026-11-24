@@ -1,0 +1,663 @@
+{
+  "page": "story_03",
+  "lines": [
+    {
+      "text": "Zámek cvakne a víko odskočí. Uvnitř je hromada papírů. Najednou se papíry pohnou a vyběhne z nich malá šedá myš. Tobi vypískne. Ferda zakňučí a schová se Kláře za nohy.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Zámek cvakne a víko odskočí. Uvnitř je hromada papírů. Najednou se papíry pohnou a vyběhne z nich malá šedá myš. Tobi vypískne. Ferda zakňučí a schová se Kláře za nohy.\",\"tts\":\"[excited] Zámek cvakne a víko odskočí. Uvnitř je hromada papírů. Najednou se papíry pohnou a vyběhne z nich malá šedá myš. [amused] Tobi vypískne. Ferda zakňučí a schová se Kláře za nohy.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 14.393,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Zámek",
+              "start": 0.682,
+              "end": 1.082
+            },
+            {
+              "word": "cvakne",
+              "start": 1.162,
+              "end": 1.642
+            },
+            {
+              "word": "a",
+              "start": 1.802,
+              "end": 1.882
+            },
+            {
+              "word": "víko",
+              "start": 2.042,
+              "end": 2.362
+            },
+            {
+              "word": "odskočí.",
+              "start": 2.442,
+              "end": 3.002
+            },
+            {
+              "word": "Uvnitř",
+              "start": 3.402,
+              "end": 3.882
+            },
+            {
+              "word": "je",
+              "start": 3.962,
+              "end": 4.042
+            },
+            {
+              "word": "hromada",
+              "start": 4.122,
+              "end": 4.522
+            },
+            {
+              "word": "papírů.",
+              "start": 4.602,
+              "end": 5.162
+            },
+            {
+              "word": "Najednou",
+              "start": 5.642,
+              "end": 6.042
+            },
+            {
+              "word": "se",
+              "start": 6.122,
+              "end": 6.202
+            },
+            {
+              "word": "papíry",
+              "start": 6.255,
+              "end": 6.602
+            },
+            {
+              "word": "pohnou",
+              "start": 6.682,
+              "end": 7.162
+            },
+            {
+              "word": "a",
+              "start": 7.402,
+              "end": 7.482
+            },
+            {
+              "word": "vyběhne",
+              "start": 7.562,
+              "end": 7.962
+            },
+            {
+              "word": "z",
+              "start": 8.002,
+              "end": 8.042
+            },
+            {
+              "word": "nich",
+              "start": 8.095,
+              "end": 8.202
+            },
+            {
+              "word": "malá",
+              "start": 8.362,
+              "end": 8.682
+            },
+            {
+              "word": "šedá",
+              "start": 8.762,
+              "end": 9.082
+            },
+            {
+              "word": "myš.",
+              "start": 9.162,
+              "end": 9.482
+            },
+            {
+              "word": "Tobi",
+              "start": 9.949,
+              "end": 10.282
+            },
+            {
+              "word": "vypískne.",
+              "start": 10.362,
+              "end": 11.082
+            },
+            {
+              "word": "Ferda",
+              "start": 11.482,
+              "end": 11.802
+            },
+            {
+              "word": "zakňučí",
+              "start": 11.882,
+              "end": 12.442
+            },
+            {
+              "word": "a",
+              "start": 12.682,
+              "end": 12.762
+            },
+            {
+              "word": "schová",
+              "start": 12.842,
+              "end": 13.162
+            },
+            {
+              "word": "se",
+              "start": 13.242,
+              "end": 13.322
+            },
+            {
+              "word": "Kláře",
+              "start": 13.402,
+              "end": 13.722
+            },
+            {
+              "word": "za",
+              "start": 13.802,
+              "end": 13.882
+            },
+            {
+              "word": "nohy.",
+              "start": 13.922,
+              "end": 14.202
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ferdo, ty hrdino. Ty se bojíš myši?“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "02_klara.mp3",
+          "request": "{\"text\":\"„Ferdo, ty hrdino. Ty se bojíš myši?“\",\"tts\":\"[laughing] „Ferdo, ty hrdino. Ty se bojíš myši?“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.127,
+          "words": [
+            {
+              "word": "„Ferdo,",
+              "start": 0.4,
+              "end": 0.96
+            },
+            {
+              "word": "ty",
+              "start": 1.4,
+              "end": 1.52
+            },
+            {
+              "word": "hrdino.",
+              "start": 1.64,
+              "end": 2.16
+            },
+            {
+              "word": "Ty",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "se",
+              "start": 2.72,
+              "end": 2.8
+            },
+            {
+              "word": "bojíš",
+              "start": 2.88,
+              "end": 3.2
+            },
+            {
+              "word": "myši?“",
+              "start": 3.36,
+              "end": 3.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Počkej. Na kalendáři bylo zakroužkované jednadvacáté září. To je přece dneska! B jako Bohouš. Tohle je dědova bedna!“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "03_klara.mp3",
+          "request": "{\"text\":\"„Počkej. Na kalendáři bylo zakroužkované jednadvacáté září. To je přece dneska! B jako Bohouš. Tohle je dědova bedna!“\",\"tts\":\"[gasps] „Počkej. Na kalendáři bylo zakroužkované jednadvacáté září. To je přece dneska! Bé jako Bohouš. Tohle je dědova bedna!“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.841,
+          "words": [
+            {
+              "word": "„Počkej.",
+              "start": 0.68,
+              "end": 1.12
+            },
+            {
+              "word": "Na",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "kalendáři",
+              "start": 1.76,
+              "end": 2.4
+            },
+            {
+              "word": "bylo",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "zakroužkované",
+              "start": 2.72,
+              "end": 3.6
+            },
+            {
+              "word": "jednadvacáté",
+              "start": 3.64,
+              "end": 4.48
+            },
+            {
+              "word": "září.",
+              "start": 4.56,
+              "end": 5.44
+            },
+            {
+              "word": "To",
+              "start": 5.52,
+              "end": 5.6
+            },
+            {
+              "word": "je",
+              "start": 5.68,
+              "end": 5.76
+            },
+            {
+              "word": "přece",
+              "start": 5.787,
+              "end": 6.08
+            },
+            {
+              "word": "dneska!",
+              "start": 6.12,
+              "end": 7.04
+            },
+            {
+              "word": "B",
+              "start": 7.2,
+              "end": 7.44
+            },
+            {
+              "word": "jako",
+              "start": 7.52,
+              "end": 7.84
+            },
+            {
+              "word": "Bohouš.",
+              "start": 7.92,
+              "end": 8.72
+            },
+            {
+              "word": "Tohle",
+              "start": 8.8,
+              "end": 9.12
+            },
+            {
+              "word": "je",
+              "start": 9.2,
+              "end": 9.36
+            },
+            {
+              "word": "dědova",
+              "start": 9.4,
+              "end": 9.84
+            },
+            {
+              "word": "bedna!“",
+              "start": 9.96,
+              "end": 10.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Myš si z papírů udělala pelíšek. Tobi je opatrně přebírá a najde útržek s nakresleným praporkem.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "04_narrator.mp3",
+          "request": "{\"text\":\"Myš si z papírů udělala pelíšek. Tobi je opatrně přebírá a najde útržek s nakresleným praporkem.\",\"tts\":\"[curious] Myš si z papírů udělala pelíšek. Tobi je opatrně přebírá a najde útržek s nakresleným praporkem.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.046,
+          "words": [
+            {
+              "word": "Myš",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "si",
+              "start": 0.48,
+              "end": 0.56
+            },
+            {
+              "word": "z",
+              "start": 0.6,
+              "end": 0.64
+            },
+            {
+              "word": "papírů",
+              "start": 0.68,
+              "end": 1.12
+            },
+            {
+              "word": "udělala",
+              "start": 1.2,
+              "end": 1.6
+            },
+            {
+              "word": "pelíšek.",
+              "start": 1.68,
+              "end": 2.32
+            },
+            {
+              "word": "Tobi",
+              "start": 2.92,
+              "end": 3.2
+            },
+            {
+              "word": "je",
+              "start": 3.28,
+              "end": 3.36
+            },
+            {
+              "word": "opatrně",
+              "start": 3.44,
+              "end": 3.92
+            },
+            {
+              "word": "přebírá",
+              "start": 3.96,
+              "end": 4.72
+            },
+            {
+              "word": "a",
+              "start": 4.8,
+              "end": 4.88
+            },
+            {
+              "word": "najde",
+              "start": 4.92,
+              "end": 5.28
+            },
+            {
+              "word": "útržek",
+              "start": 5.36,
+              "end": 5.84
+            },
+            {
+              "word": "s",
+              "start": 5.92,
+              "end": 6.0
+            },
+            {
+              "word": "nakresleným",
+              "start": 6.08,
+              "end": 6.72
+            },
+            {
+              "word": "praporkem.",
+              "start": 6.76,
+              "end": 7.44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Kláro… to je mapa k pokladu!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "05_tobi.mp3",
+          "request": "{\"text\":\"„Kláro… to je mapa k pokladu!“\",\"tts\":\"[amazed] „Kláro… to je mapa k pokladu!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.082,
+          "words": [
+            {
+              "word": "„Kláro…",
+              "start": 0.069,
+              "end": 0.72
+            },
+            {
+              "word": "to",
+              "start": 1.28,
+              "end": 1.36
+            },
+            {
+              "word": "je",
+              "start": 1.48,
+              "end": 1.6
+            },
+            {
+              "word": "mapa",
+              "start": 1.72,
+              "end": 1.92
+            },
+            {
+              "word": "k",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "pokladu!“",
+              "start": 2.16,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Nebo nákupní seznam.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "06_klara.mp3",
+          "request": "{\"text\":\"„Nebo nákupní seznam.“\",\"tts\":\"[teasing] „Nebo nákupní seznam.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.273,
+          "words": [
+            {
+              "word": "„Nebo",
+              "start": 0.28,
+              "end": 0.56
+            },
+            {
+              "word": "nákupní",
+              "start": 0.64,
+              "end": 1.2
+            },
+            {
+              "word": "seznam.“",
+              "start": 1.28,
+              "end": 1.84
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Na nákupní seznam se praporky nekreslí!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "07_tobi.mp3",
+          "request": "{\"text\":\"„Na nákupní seznam se praporky nekreslí!“\",\"tts\":\"[offended] „Na nákupní seznam se praporky nekreslí!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "„Na",
+              "start": 0.16,
+              "end": 0.24
+            },
+            {
+              "word": "nákupní",
+              "start": 0.32,
+              "end": 0.8
+            },
+            {
+              "word": "seznam",
+              "start": 0.88,
+              "end": 1.28
+            },
+            {
+              "word": "se",
+              "start": 1.36,
+              "end": 1.44
+            },
+            {
+              "word": "praporky",
+              "start": 1.48,
+              "end": 1.92
+            },
+            {
+              "word": "nekreslí!“",
+              "start": 2.0,
+              "end": 2.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„A na mapu k pokladu se kreslí křížek. Vidíš tu nějaký?“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "08_klara.mp3",
+          "request": "{\"text\":\"„A na mapu k pokladu se kreslí křížek. Vidíš tu nějaký?“\",\"tts\":\"[teasing] „A na mapu k pokladu se kreslí křížek. Vidíš tu nějaký?“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.598,
+          "words": [
+            {
+              "word": "„A",
+              "start": 0.137,
+              "end": 0.16
+            },
+            {
+              "word": "na",
+              "start": 0.24,
+              "end": 0.4
+            },
+            {
+              "word": "mapu",
+              "start": 0.52,
+              "end": 0.72
+            },
+            {
+              "word": "k",
+              "start": 0.8,
+              "end": 0.84
+            },
+            {
+              "word": "pokladu",
+              "start": 0.88,
+              "end": 1.52
+            },
+            {
+              "word": "se",
+              "start": 1.6,
+              "end": 1.76
+            },
+            {
+              "word": "kreslí",
+              "start": 1.84,
+              "end": 2.16
+            },
+            {
+              "word": "křížek.",
+              "start": 2.24,
+              "end": 2.88
+            },
+            {
+              "word": "Vidíš",
+              "start": 3.24,
+              "end": 3.6
+            },
+            {
+              "word": "tu",
+              "start": 3.64,
+              "end": 3.68
+            },
+            {
+              "word": "nějaký?“",
+              "start": 3.76,
+              "end": 4.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Na útržku žádný křížek není. Ale útržků je v bedně spousta.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "09_narrator.mp3",
+          "request": "{\"text\":\"Na útržku žádný křížek není. Ale útržků je v bedně spousta.\",\"tts\":\"[mysterious] Na útržku žádný křížek není. Ale útržků je v bedně spousta.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.721,
+          "words": [
+            {
+              "word": "Na",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "útržku",
+              "start": 0.4,
+              "end": 0.88
+            },
+            {
+              "word": "žádný",
+              "start": 1.04,
+              "end": 1.52
+            },
+            {
+              "word": "křížek",
+              "start": 1.6,
+              "end": 2.0
+            },
+            {
+              "word": "není.",
+              "start": 2.12,
+              "end": 2.48
+            },
+            {
+              "word": "Ale",
+              "start": 3.28,
+              "end": 3.44
+            },
+            {
+              "word": "útržků",
+              "start": 3.52,
+              "end": 4.16
+            },
+            {
+              "word": "je",
+              "start": 4.24,
+              "end": 4.32
+            },
+            {
+              "word": "v",
+              "start": 4.36,
+              "end": 4.4
+            },
+            {
+              "word": "bedně",
+              "start": 4.52,
+              "end": 4.72
+            },
+            {
+              "word": "spousta.",
+              "start": 4.8,
+              "end": 5.52
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

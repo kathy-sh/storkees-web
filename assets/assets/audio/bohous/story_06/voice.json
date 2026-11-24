@@ -1,0 +1,447 @@
+{
+  "page": "story_06",
+  "lines": [
+    {
+      "text": "Studna na zahradě stojí dodnes. Klára se k ní rozběhne, ale Tobi ji chytí za rukáv.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Studna na zahradě stojí dodnes. Klára se k ní rozběhne, ale Tobi ji chytí za rukáv.\",\"tts\":\"Studna na zahradě stojí dodnes. Klára se k ní rozběhne, ale Tobi ji chytí za rukáv.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.21,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Studna",
+              "start": 0.522,
+              "end": 1.002
+            },
+            {
+              "word": "na",
+              "start": 1.082,
+              "end": 1.162
+            },
+            {
+              "word": "zahradě",
+              "start": 1.202,
+              "end": 1.642
+            },
+            {
+              "word": "stojí",
+              "start": 1.722,
+              "end": 2.042
+            },
+            {
+              "word": "dodnes.",
+              "start": 2.122,
+              "end": 2.682
+            },
+            {
+              "word": "Klára",
+              "start": 3.242,
+              "end": 3.642
+            },
+            {
+              "word": "se",
+              "start": 3.682,
+              "end": 3.722
+            },
+            {
+              "word": "k",
+              "start": 3.802,
+              "end": 3.855
+            },
+            {
+              "word": "ní",
+              "start": 3.909,
+              "end": 3.962
+            },
+            {
+              "word": "rozběhne,",
+              "start": 4.042,
+              "end": 4.602
+            },
+            {
+              "word": "ale",
+              "start": 5.002,
+              "end": 5.242
+            },
+            {
+              "word": "Tobi",
+              "start": 5.322,
+              "end": 5.722
+            },
+            {
+              "word": "ji",
+              "start": 5.802,
+              "end": 5.882
+            },
+            {
+              "word": "chytí",
+              "start": 5.922,
+              "end": 6.202
+            },
+            {
+              "word": "za",
+              "start": 6.282,
+              "end": 6.362
+            },
+            {
+              "word": "rukáv.",
+              "start": 6.482,
+              "end": 6.922
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Čára vede přes všechny praporky. Kapitán by si to nezkracoval.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "02_tobi.mp3",
+          "request": "{\"text\":\"„Čára vede přes všechny praporky. Kapitán by si to nezkracoval.“\",\"tts\":\"[serious] „Čára vede přes všechny praporky. Kapitán by si to nezkracoval.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.833,
+          "words": [
+            {
+              "word": "„Čára",
+              "start": 0.16,
+              "end": 0.48
+            },
+            {
+              "word": "vede",
+              "start": 0.56,
+              "end": 0.72
+            },
+            {
+              "word": "přes",
+              "start": 0.76,
+              "end": 1.04
+            },
+            {
+              "word": "všechny",
+              "start": 1.08,
+              "end": 1.48
+            },
+            {
+              "word": "praporky.",
+              "start": 1.52,
+              "end": 2.08
+            },
+            {
+              "word": "Kapitán",
+              "start": 2.613,
+              "end": 3.12
+            },
+            {
+              "word": "by",
+              "start": 3.2,
+              "end": 3.28
+            },
+            {
+              "word": "si",
+              "start": 3.32,
+              "end": 3.36
+            },
+            {
+              "word": "to",
+              "start": 3.44,
+              "end": 3.52
+            },
+            {
+              "word": "nezkracoval.“",
+              "start": 3.64,
+              "end": 4.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Další praporek je u nápisu „Pozor! Dinosauři!“. Dnes tam leží jen stará betonová deska pod hromadou listí.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Další praporek je u nápisu „Pozor! Dinosauři!“. Dnes tam leží jen stará betonová deska pod hromadou listí.\",\"tts\":\"[matter-of-fact] Další praporek je u nápisu „Pozor, dinosauři“. Dnes tam leží jen stará betonová deska pod hromadou listí.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.281,
+          "words": [
+            {
+              "word": "Další",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "praporek",
+              "start": 0.6,
+              "end": 1.04
+            },
+            {
+              "word": "je",
+              "start": 1.12,
+              "end": 1.2
+            },
+            {
+              "word": "u",
+              "start": 1.24,
+              "end": 1.28
+            },
+            {
+              "word": "nápisu",
+              "start": 1.32,
+              "end": 1.84
+            },
+            {
+              "word": "„Pozor!",
+              "start": 2.12,
+              "end": 2.56
+            },
+            {
+              "word": "Dinosauři!“.",
+              "start": 2.8,
+              "end": 3.44
+            },
+            {
+              "word": "Dnes",
+              "start": 4.16,
+              "end": 4.48
+            },
+            {
+              "word": "tam",
+              "start": 4.56,
+              "end": 4.64
+            },
+            {
+              "word": "leží",
+              "start": 4.72,
+              "end": 4.88
+            },
+            {
+              "word": "jen",
+              "start": 5.0,
+              "end": 5.12
+            },
+            {
+              "word": "stará",
+              "start": 5.2,
+              "end": 5.52
+            },
+            {
+              "word": "betonová",
+              "start": 5.6,
+              "end": 6.08
+            },
+            {
+              "word": "deska",
+              "start": 6.16,
+              "end": 6.48
+            },
+            {
+              "word": "pod",
+              "start": 6.56,
+              "end": 6.72
+            },
+            {
+              "word": "hromadou",
+              "start": 6.8,
+              "end": 7.2
+            },
+            {
+              "word": "listí.",
+              "start": 7.36,
+              "end": 7.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Co když tu ještě nějaký je?“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "04_tobi.mp3",
+          "request": "{\"text\":\"„Co když tu ještě nějaký je?“\",\"tts\":\"[scared] „Co když tu ještě nějaký je?“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.116,
+          "words": [
+            {
+              "word": "„Co",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "když",
+              "start": 0.28,
+              "end": 0.48
+            },
+            {
+              "word": "tu",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "ještě",
+              "start": 0.72,
+              "end": 0.96
+            },
+            {
+              "word": "nějaký",
+              "start": 1.0,
+              "end": 1.44
+            },
+            {
+              "word": "je?“",
+              "start": 1.52,
+              "end": 1.76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Žádní dinosauři. Babička říkala, že tady býval kurník.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "05_klara.mp3",
+          "request": "{\"text\":\"„Žádní dinosauři. Babička říkala, že tady býval kurník.“\",\"tts\":\"[know-it-all] „Žádní dinosauři. Babička říkala, že tady býval kurník.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.676,
+          "words": [
+            {
+              "word": "„Žádní",
+              "start": 0.24,
+              "end": 0.64
+            },
+            {
+              "word": "dinosauři.",
+              "start": 0.72,
+              "end": 1.44
+            },
+            {
+              "word": "Babička",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "word": "říkala,",
+              "start": 2.32,
+              "end": 2.72
+            },
+            {
+              "word": "že",
+              "start": 2.8,
+              "end": 2.88
+            },
+            {
+              "word": "tady",
+              "start": 2.96,
+              "end": 3.12
+            },
+            {
+              "word": "býval",
+              "start": 3.2,
+              "end": 3.52
+            },
+            {
+              "word": "kurník.“",
+              "start": 3.6,
+              "end": 4.16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Slepice? Tak to děda trochu přeháněl.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "06_tobi.mp3",
+          "request": "{\"text\":\"„Slepice? Tak to děda trochu přeháněl.“\",\"tts\":\"[disappointed] „Slepice? Tak to děda trochu přeháněl.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.709,
+          "words": [
+            {
+              "word": "„Slepice?",
+              "start": 0.24,
+              "end": 1.04
+            },
+            {
+              "word": "Tak",
+              "start": 1.48,
+              "end": 1.68
+            },
+            {
+              "word": "to",
+              "start": 1.76,
+              "end": 1.84
+            },
+            {
+              "word": "děda",
+              "start": 1.88,
+              "end": 2.08
+            },
+            {
+              "word": "trochu",
+              "start": 2.16,
+              "end": 2.4
+            },
+            {
+              "word": "přeháněl.“",
+              "start": 2.48,
+              "end": 3.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Vlastně ani ne. Slepice jsou potomci dinosaurů.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "07_klara.mp3",
+          "request": "{\"text\":\"„Vlastně ani ne. Slepice jsou potomci dinosaurů.“\",\"tts\":\"[grinning] „Vlastně ani ne. Slepice jsou potomci dinosaurů.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.441,
+          "words": [
+            {
+              "word": "„Vlastně",
+              "start": 0.24,
+              "end": 0.8
+            },
+            {
+              "word": "ani",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "ne.",
+              "start": 1.24,
+              "end": 1.36
+            },
+            {
+              "word": "Slepice",
+              "start": 1.84,
+              "end": 2.4
+            },
+            {
+              "word": "jsou",
+              "start": 2.48,
+              "end": 2.72
+            },
+            {
+              "word": "potomci",
+              "start": 2.84,
+              "end": 3.28
+            },
+            {
+              "word": "dinosaurů.“",
+              "start": 3.36,
+              "end": 4.08
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

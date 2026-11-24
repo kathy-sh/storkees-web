@@ -1,0 +1,524 @@
+{
+  "page": "story_08",
+  "lines": [
+    {
+      "text": "Ferda chňapne kost a skočí s ní rovnou do kompostu. Pak vyletí ven a celý ušmudlaný uhání k domu.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Ferda chňapne kost a skočí s ní rovnou do kompostu. Pak vyletí ven a celý ušmudlaný uhání k domu.\",\"tts\":\"[amused] Ferda chňapne kost a skočí s ní rovnou do kompostu. Pak vyletí ven a celý ušmudlaný uhání k domu.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.15,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Ferda",
+              "start": 0.682,
+              "end": 1.082
+            },
+            {
+              "word": "chňapne",
+              "start": 1.162,
+              "end": 1.562
+            },
+            {
+              "word": "kost",
+              "start": 1.642,
+              "end": 2.042
+            },
+            {
+              "word": "a",
+              "start": 2.122,
+              "end": 2.202
+            },
+            {
+              "word": "skočí",
+              "start": 2.282,
+              "end": 2.682
+            },
+            {
+              "word": "s",
+              "start": 2.722,
+              "end": 2.762
+            },
+            {
+              "word": "ní",
+              "start": 2.842,
+              "end": 2.922
+            },
+            {
+              "word": "rovnou",
+              "start": 3.082,
+              "end": 3.402
+            },
+            {
+              "word": "do",
+              "start": 3.482,
+              "end": 3.562
+            },
+            {
+              "word": "kompostu.",
+              "start": 3.682,
+              "end": 4.122
+            },
+            {
+              "word": "Pak",
+              "start": 4.602,
+              "end": 4.762
+            },
+            {
+              "word": "vyletí",
+              "start": 4.842,
+              "end": 5.162
+            },
+            {
+              "word": "ven",
+              "start": 5.322,
+              "end": 5.482
+            },
+            {
+              "word": "a",
+              "start": 5.722,
+              "end": 5.802
+            },
+            {
+              "word": "celý",
+              "start": 5.882,
+              "end": 6.202
+            },
+            {
+              "word": "ušmudlaný",
+              "start": 6.362,
+              "end": 7.002
+            },
+            {
+              "word": "uhání",
+              "start": 7.162,
+              "end": 7.562
+            },
+            {
+              "word": "k",
+              "start": 7.602,
+              "end": 7.642
+            },
+            {
+              "word": "domu.",
+              "start": 7.722,
+              "end": 7.962
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ne, ne, ne, ne…“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "02_klara.mp3",
+          "request": "{\"text\":\"„Ne, ne, ne, ne…“\",\"tts\":\"[horrified] „Ne, ne, ne, ne…“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.273,
+          "words": [
+            {
+              "word": "„Ne,",
+              "start": 0.32,
+              "end": 0.48
+            },
+            {
+              "word": "ne,",
+              "start": 0.96,
+              "end": 1.12
+            },
+            {
+              "word": "ne,",
+              "start": 1.2,
+              "end": 1.36
+            },
+            {
+              "word": "ne…“",
+              "start": 1.68,
+              "end": 1.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Z domu se ozve řinčení a křik. Za chvilku se Ferda přiřítí zpátky. Spokojený, umazaný a se strýcovou kravatou v zubech.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Z domu se ozve řinčení a křik. Za chvilku se Ferda přiřítí zpátky. Spokojený, umazaný a se strýcovou kravatou v zubech.\",\"tts\":\"[comic chaos] Z domu se ozve řinčení a křik. Za chvilku se Ferda přiřítí zpátky. Spokojený, umazaný a se strýcovou kravatou v zubech.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 10.031,
+          "words": [
+            {
+              "word": "Z",
+              "start": 0.16,
+              "end": 0.2
+            },
+            {
+              "word": "domu",
+              "start": 0.24,
+              "end": 0.48
+            },
+            {
+              "word": "se",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "ozve",
+              "start": 0.72,
+              "end": 0.96
+            },
+            {
+              "word": "řinčení",
+              "start": 1.04,
+              "end": 1.68
+            },
+            {
+              "word": "a",
+              "start": 1.76,
+              "end": 1.84
+            },
+            {
+              "word": "křik.",
+              "start": 1.92,
+              "end": 2.32
+            },
+            {
+              "word": "Za",
+              "start": 2.96,
+              "end": 3.04
+            },
+            {
+              "word": "chvilku",
+              "start": 3.08,
+              "end": 3.44
+            },
+            {
+              "word": "se",
+              "start": 3.52,
+              "end": 3.6
+            },
+            {
+              "word": "Ferda",
+              "start": 3.68,
+              "end": 4.0
+            },
+            {
+              "word": "přiřítí",
+              "start": 4.04,
+              "end": 4.56
+            },
+            {
+              "word": "zpátky.",
+              "start": 4.64,
+              "end": 5.12
+            },
+            {
+              "word": "Spokojený,",
+              "start": 5.68,
+              "end": 6.4
+            },
+            {
+              "word": "umazaný",
+              "start": 6.72,
+              "end": 7.36
+            },
+            {
+              "word": "a",
+              "start": 7.52,
+              "end": 7.6
+            },
+            {
+              "word": "se",
+              "start": 7.68,
+              "end": 7.84
+            },
+            {
+              "word": "strýcovou",
+              "start": 7.92,
+              "end": 8.4
+            },
+            {
+              "word": "kravatou",
+              "start": 8.48,
+              "end": 8.88
+            },
+            {
+              "word": "v",
+              "start": 8.96,
+              "end": 9.04
+            },
+            {
+              "word": "zubech.",
+              "start": 9.08,
+              "end": 9.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Aspoň už nebude vyprávět o hypotékách. Teď bude vyprávět o kravatě.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "04_tobi.mp3",
+          "request": "{\"text\":\"„Aspoň už nebude vyprávět o hypotékách. Teď bude vyprávět o kravatě.“\",\"tts\":\"[giggling] „Aspoň už nebude vyprávět o hypotékách. Teď bude vyprávět o kravatě.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.034,
+          "words": [
+            {
+              "word": "„Aspoň",
+              "start": 0.88,
+              "end": 1.2
+            },
+            {
+              "word": "už",
+              "start": 1.24,
+              "end": 1.36
+            },
+            {
+              "word": "nebude",
+              "start": 1.44,
+              "end": 1.68
+            },
+            {
+              "word": "vyprávět",
+              "start": 1.76,
+              "end": 2.24
+            },
+            {
+              "word": "o",
+              "start": 2.32,
+              "end": 2.36
+            },
+            {
+              "word": "hypotékách.",
+              "start": 2.4,
+              "end": 3.2
+            },
+            {
+              "word": "Teď",
+              "start": 3.6,
+              "end": 3.8
+            },
+            {
+              "word": "bude",
+              "start": 3.84,
+              "end": 4.0
+            },
+            {
+              "word": "vyprávět",
+              "start": 4.08,
+              "end": 4.64
+            },
+            {
+              "word": "o",
+              "start": 4.72,
+              "end": 4.8
+            },
+            {
+              "word": "kravatě.“",
+              "start": 4.88,
+              "end": 5.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "U studny Tobi zvedne fotku a porovnává. Studna je pořád na stejném místě. Jen malý stromek, u kterého stojí malý Bohouš, tu nikde není.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "05_narrator.mp3",
+          "request": "{\"text\":\"U studny Tobi zvedne fotku a porovnává. Studna je pořád na stejném místě. Jen malý stromek, u kterého stojí malý Bohouš, tu nikde není.\",\"tts\":\"U studny Tobi zvedne fotku a porovnává. Studna je pořád na stejném místě. Jen malý stromek, u kterého stojí malý Bohouš, tu nikde není.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 11.389,
+          "words": [
+            {
+              "word": "U",
+              "start": 0.0,
+              "end": 0.08
+            },
+            {
+              "word": "studny",
+              "start": 0.16,
+              "end": 0.64
+            },
+            {
+              "word": "Tobi",
+              "start": 0.72,
+              "end": 0.96
+            },
+            {
+              "word": "zvedne",
+              "start": 1.0,
+              "end": 1.36
+            },
+            {
+              "word": "fotku",
+              "start": 1.4,
+              "end": 1.92
+            },
+            {
+              "word": "a",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "porovnává.",
+              "start": 2.16,
+              "end": 2.88
+            },
+            {
+              "word": "Studna",
+              "start": 3.76,
+              "end": 4.16
+            },
+            {
+              "word": "je",
+              "start": 4.28,
+              "end": 4.4
+            },
+            {
+              "word": "pořád",
+              "start": 4.48,
+              "end": 4.88
+            },
+            {
+              "word": "na",
+              "start": 4.96,
+              "end": 5.04
+            },
+            {
+              "word": "stejném",
+              "start": 5.12,
+              "end": 5.52
+            },
+            {
+              "word": "místě.",
+              "start": 5.6,
+              "end": 6.08
+            },
+            {
+              "word": "Jen",
+              "start": 6.88,
+              "end": 7.04
+            },
+            {
+              "word": "malý",
+              "start": 7.12,
+              "end": 7.36
+            },
+            {
+              "word": "stromek,",
+              "start": 7.44,
+              "end": 8.0
+            },
+            {
+              "word": "u",
+              "start": 8.12,
+              "end": 8.16
+            },
+            {
+              "word": "kterého",
+              "start": 8.2,
+              "end": 8.56
+            },
+            {
+              "word": "stojí",
+              "start": 8.64,
+              "end": 8.96
+            },
+            {
+              "word": "malý",
+              "start": 9.04,
+              "end": 9.28
+            },
+            {
+              "word": "Bohouš,",
+              "start": 9.36,
+              "end": 9.84
+            },
+            {
+              "word": "tu",
+              "start": 10.24,
+              "end": 10.32
+            },
+            {
+              "word": "nikde",
+              "start": 10.4,
+              "end": 10.72
+            },
+            {
+              "word": "není.",
+              "start": 10.8,
+              "end": 11.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„‚Tady jsem ho zakopal.‘ Jenže kde je to ‚tady‘?“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "06_tobi.mp3",
+          "request": "{\"text\":\"„‚Tady jsem ho zakopal.‘ Jenže kde je to ‚tady‘?“\",\"tts\":\"[puzzled, emphasizing] „‚Tady jsem ho zakopal.‘ Jenže kde je to ‚TADY‘?“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.284,
+          "words": [
+            {
+              "word": "„‚Tady",
+              "start": 0.074,
+              "end": 0.32
+            },
+            {
+              "word": "jsem",
+              "start": 0.36,
+              "end": 0.56
+            },
+            {
+              "word": "ho",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "zakopal.‘",
+              "start": 0.8,
+              "end": 1.6
+            },
+            {
+              "word": "Jenže",
+              "start": 2.16,
+              "end": 2.48
+            },
+            {
+              "word": "kde",
+              "start": 2.88,
+              "end": 3.12
+            },
+            {
+              "word": "je",
+              "start": 3.2,
+              "end": 3.28
+            },
+            {
+              "word": "to",
+              "start": 3.36,
+              "end": 3.6
+            },
+            {
+              "word": "‚tady‘?“",
+              "start": 3.68,
+              "end": 4.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

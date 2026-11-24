@@ -1,0 +1,666 @@
+{
+  "page": "story_12",
+  "lines": [
+    {
+      "text": "Pod dvojitým dnem leží kapesní hodinky.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Pod dvojitým dnem leží kapesní hodinky.\",\"tts\":\"[moved] Pod dvojitým dnem leží kapesní hodinky.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.527,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Pod",
+              "start": 0.722,
+              "end": 0.762
+            },
+            {
+              "word": "dvojitým",
+              "start": 0.842,
+              "end": 1.322
+            },
+            {
+              "word": "dnem",
+              "start": 1.402,
+              "end": 1.802
+            },
+            {
+              "word": "leží",
+              "start": 1.882,
+              "end": 2.202
+            },
+            {
+              "word": "kapesní",
+              "start": 2.242,
+              "end": 2.762
+            },
+            {
+              "word": "hodinky.",
+              "start": 2.802,
+              "end": 3.322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dvojité dno? O tom jsem vůbec nevěděl! To mi táta neřekl.“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "02_bohous.mp3",
+          "request": "{\"text\":\"„Dvojité dno? O tom jsem vůbec nevěděl! To mi táta neřekl.“\",\"tts\":\"[amazed] „Dvojité dno? O tom jsem vůbec nevěděl! To mi táta neřekl.“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.799,
+          "words": [
+            {
+              "word": "„Dvojité",
+              "start": 0.2,
+              "end": 0.8
+            },
+            {
+              "word": "dno?",
+              "start": 0.88,
+              "end": 1.36
+            },
+            {
+              "word": "O",
+              "start": 1.84,
+              "end": 1.92
+            },
+            {
+              "word": "tom",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "jsem",
+              "start": 2.12,
+              "end": 2.32
+            },
+            {
+              "word": "vůbec",
+              "start": 2.4,
+              "end": 2.8
+            },
+            {
+              "word": "nevěděl!",
+              "start": 2.92,
+              "end": 3.52
+            },
+            {
+              "word": "To",
+              "start": 3.92,
+              "end": 4.08
+            },
+            {
+              "word": "mi",
+              "start": 4.16,
+              "end": 4.24
+            },
+            {
+              "word": "táta",
+              "start": 4.36,
+              "end": 4.56
+            },
+            {
+              "word": "neřekl.“",
+              "start": 4.64,
+              "end": 5.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Děda vezme hodinky do dlaně a dlouze se na ně dívá.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Děda vezme hodinky do dlaně a dlouze se na ně dívá.\",\"tts\":\"[moved] Děda vezme hodinky do dlaně a dlouze se na ně dívá.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.866,
+          "words": [
+            {
+              "word": "Děda",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "vezme",
+              "start": 0.52,
+              "end": 0.72
+            },
+            {
+              "word": "hodinky",
+              "start": 0.76,
+              "end": 1.2
+            },
+            {
+              "word": "do",
+              "start": 1.28,
+              "end": 1.36
+            },
+            {
+              "word": "dlaně",
+              "start": 1.44,
+              "end": 1.84
+            },
+            {
+              "word": "a",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "dlouze",
+              "start": 2.16,
+              "end": 2.72
+            },
+            {
+              "word": "se",
+              "start": 2.8,
+              "end": 2.88
+            },
+            {
+              "word": "na",
+              "start": 2.96,
+              "end": 3.04
+            },
+            {
+              "word": "ně",
+              "start": 3.08,
+              "end": 3.2
+            },
+            {
+              "word": "dívá.",
+              "start": 3.24,
+              "end": 3.68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tátovy hodinky. Myslel jsem, že se dávno ztratily.“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "04_bohous.mp3",
+          "request": "{\"text\":\"„Tátovy hodinky. Myslel jsem, že se dávno ztratily.“\",\"tts\":\"[hoarse] „Tátovy hodinky. Myslel jsem, že se dávno ztratily.“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.486,
+          "words": [
+            {
+              "word": "„Tátovy",
+              "start": 0.08,
+              "end": 0.64
+            },
+            {
+              "word": "hodinky.",
+              "start": 0.68,
+              "end": 1.36
+            },
+            {
+              "word": "Myslel",
+              "start": 2.24,
+              "end": 2.72
+            },
+            {
+              "word": "jsem,",
+              "start": 2.76,
+              "end": 3.04
+            },
+            {
+              "word": "že",
+              "start": 3.68,
+              "end": 3.76
+            },
+            {
+              "word": "se",
+              "start": 3.84,
+              "end": 3.92
+            },
+            {
+              "word": "dávno",
+              "start": 4.0,
+              "end": 4.4
+            },
+            {
+              "word": "ztratily.“",
+              "start": 4.48,
+              "end": 5.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Pod hodinkami leží složený lísteček.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "05_narrator.mp3",
+          "request": "{\"text\":\"Pod hodinkami leží složený lísteček.\",\"tts\":\"[warmly] Pod hodinkami leží složený lísteček.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.161,
+          "words": [
+            {
+              "word": "Pod",
+              "start": 0.08,
+              "end": 0.24
+            },
+            {
+              "word": "hodinkami",
+              "start": 0.28,
+              "end": 0.8
+            },
+            {
+              "word": "leží",
+              "start": 0.88,
+              "end": 1.2
+            },
+            {
+              "word": "složený",
+              "start": 1.28,
+              "end": 1.76
+            },
+            {
+              "word": "lísteček.",
+              "start": 1.84,
+              "end": 2.56
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„‚Milý Bohouši, dnes je Ti dvacet let. Tyhle hodinky jsem dostal od svého táty, když mi bylo dvacet. Teď jsou Tvoje. Jsem na Tebe pyšný. Táta.‘“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "06_bohous.mp3",
+          "request": "{\"text\":\"„‚Milý Bohouši, dnes je Ti dvacet let. Tyhle hodinky jsem dostal od svého táty, když mi bylo dvacet. Teď jsou Tvoje. Jsem na Tebe pyšný. Táta.‘“\",\"tts\":\"[reading, moved] „‚Milý Bohouši, dnes je Ti dvacet let. Tyhle hodinky jsem dostal od svého táty, když mi bylo dvacet. Teď jsou Tvoje. Jsem na Tebe pyšný. Táta.‘“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 11.651,
+          "words": [
+            {
+              "word": "„‚Milý",
+              "start": 0.24,
+              "end": 0.48
+            },
+            {
+              "word": "Bohouši,",
+              "start": 0.56,
+              "end": 1.2
+            },
+            {
+              "word": "dnes",
+              "start": 1.68,
+              "end": 2.08
+            },
+            {
+              "word": "je",
+              "start": 2.16,
+              "end": 2.24
+            },
+            {
+              "word": "Ti",
+              "start": 2.32,
+              "end": 2.4
+            },
+            {
+              "word": "dvacet",
+              "start": 2.48,
+              "end": 2.88
+            },
+            {
+              "word": "let.",
+              "start": 3.04,
+              "end": 3.2
+            },
+            {
+              "word": "Tyhle",
+              "start": 3.84,
+              "end": 4.08
+            },
+            {
+              "word": "hodinky",
+              "start": 4.12,
+              "end": 4.56
+            },
+            {
+              "word": "jsem",
+              "start": 4.613,
+              "end": 4.72
+            },
+            {
+              "word": "dostal",
+              "start": 4.8,
+              "end": 5.12
+            },
+            {
+              "word": "od",
+              "start": 5.2,
+              "end": 5.28
+            },
+            {
+              "word": "svého",
+              "start": 5.36,
+              "end": 5.6
+            },
+            {
+              "word": "táty,",
+              "start": 5.68,
+              "end": 6.08
+            },
+            {
+              "word": "když",
+              "start": 6.32,
+              "end": 6.56
+            },
+            {
+              "word": "mi",
+              "start": 6.64,
+              "end": 6.72
+            },
+            {
+              "word": "bylo",
+              "start": 6.76,
+              "end": 6.96
+            },
+            {
+              "word": "dvacet.",
+              "start": 7.0,
+              "end": 7.44
+            },
+            {
+              "word": "Teď",
+              "start": 8.04,
+              "end": 8.16
+            },
+            {
+              "word": "jsou",
+              "start": 8.2,
+              "end": 8.4
+            },
+            {
+              "word": "Tvoje.",
+              "start": 8.48,
+              "end": 8.8
+            },
+            {
+              "word": "Jsem",
+              "start": 9.36,
+              "end": 9.52
+            },
+            {
+              "word": "na",
+              "start": 9.56,
+              "end": 9.6
+            },
+            {
+              "word": "Tebe",
+              "start": 9.68,
+              "end": 9.92
+            },
+            {
+              "word": "pyšný.",
+              "start": 10.0,
+              "end": 10.4
+            },
+            {
+              "word": "Táta.‘“",
+              "start": 10.92,
+              "end": 11.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Chvíli je ticho. Děda natáhne hodinky a po šedesáti letech se znovu ozve: tik, tak, tik, tak.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "07_narrator.mp3",
+          "request": "{\"text\":\"Chvíli je ticho. Děda natáhne hodinky a po šedesáti letech se znovu ozve: tik, tak, tik, tak.\",\"tts\":\"[moved, quiet] Chvíli je ticho. Děda natáhne hodinky a po šedesáti letech se znovu ozve: tik, tak, tik, tak.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 9.718,
+          "words": [
+            {
+              "word": "Chvíli",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "je",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "ticho.",
+              "start": 0.76,
+              "end": 1.2
+            },
+            {
+              "word": "Děda",
+              "start": 2.16,
+              "end": 2.4
+            },
+            {
+              "word": "natáhne",
+              "start": 2.52,
+              "end": 2.88
+            },
+            {
+              "word": "hodinky",
+              "start": 2.96,
+              "end": 3.52
+            },
+            {
+              "word": "a",
+              "start": 3.68,
+              "end": 3.76
+            },
+            {
+              "word": "po",
+              "start": 3.92,
+              "end": 4.0
+            },
+            {
+              "word": "šedesáti",
+              "start": 4.08,
+              "end": 4.64
+            },
+            {
+              "word": "letech",
+              "start": 4.72,
+              "end": 5.04
+            },
+            {
+              "word": "se",
+              "start": 5.12,
+              "end": 5.28
+            },
+            {
+              "word": "znovu",
+              "start": 5.36,
+              "end": 5.68
+            },
+            {
+              "word": "ozve:",
+              "start": 5.8,
+              "end": 6.0
+            },
+            {
+              "word": "tik,",
+              "start": 6.76,
+              "end": 7.12
+            },
+            {
+              "word": "tak,",
+              "start": 7.44,
+              "end": 7.84
+            },
+            {
+              "word": "tik,",
+              "start": 8.36,
+              "end": 8.72
+            },
+            {
+              "word": "tak.",
+              "start": 9.16,
+              "end": 9.52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dědo, ty pláčeš?“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "08_tobi.mp3",
+          "request": "{\"text\":\"„Dědo, ty pláčeš?“\",\"tts\":\"[worried] „Dědo, ty pláčeš?“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.194,
+          "words": [
+            {
+              "word": "„Dědo,",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "ty",
+              "start": 1.12,
+              "end": 1.2
+            },
+            {
+              "word": "pláčeš?“",
+              "start": 1.28,
+              "end": 1.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Pláču. Ale radostí.“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "09_bohous.mp3",
+          "request": "{\"text\":\"„Pláču. Ale radostí.“\",\"tts\":\"[smiling through tears] „Pláču. Ale radostí.“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.926,
+          "words": [
+            {
+              "word": "„Pláču.",
+              "start": 0.08,
+              "end": 0.96
+            },
+            {
+              "word": "Ale",
+              "start": 1.52,
+              "end": 1.76
+            },
+            {
+              "word": "radostí.“",
+              "start": 1.84,
+              "end": 2.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Klára a Tobi dědu obejmou. Ferda se přidá taky, i když je pořád celý od bláta.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "10_narrator.mp3",
+          "request": "{\"text\":\"Klára a Tobi dědu obejmou. Ferda se přidá taky, i když je pořád celý od bláta.\",\"tts\":\"[warmly] Klára a Tobi dědu obejmou. Ferda se přidá taky, i když je pořád celý od bláta.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.269,
+          "words": [
+            {
+              "word": "Klára",
+              "start": 0.08,
+              "end": 0.48
+            },
+            {
+              "word": "a",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "Tobi",
+              "start": 0.72,
+              "end": 1.04
+            },
+            {
+              "word": "dědu",
+              "start": 1.12,
+              "end": 1.44
+            },
+            {
+              "word": "obejmou.",
+              "start": 1.56,
+              "end": 2.08
+            },
+            {
+              "word": "Ferda",
+              "start": 2.64,
+              "end": 2.96
+            },
+            {
+              "word": "se",
+              "start": 3.04,
+              "end": 3.12
+            },
+            {
+              "word": "přidá",
+              "start": 3.147,
+              "end": 3.44
+            },
+            {
+              "word": "taky,",
+              "start": 3.48,
+              "end": 3.76
+            },
+            {
+              "word": "i",
+              "start": 4.12,
+              "end": 4.16
+            },
+            {
+              "word": "když",
+              "start": 4.2,
+              "end": 4.4
+            },
+            {
+              "word": "je",
+              "start": 4.48,
+              "end": 4.56
+            },
+            {
+              "word": "pořád",
+              "start": 4.64,
+              "end": 5.12
+            },
+            {
+              "word": "celý",
+              "start": 5.24,
+              "end": 5.44
+            },
+            {
+              "word": "od",
+              "start": 5.52,
+              "end": 5.6
+            },
+            {
+              "word": "bláta.",
+              "start": 5.68,
+              "end": 6.08
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,8 @@
   "defaults": {
     "skin": "plet_broskvova",
     "hair": "vlasy_mikado_tmave_hneda",
-    "clothes": "obleceni_tricko_oranzova"
+    "clothes": "obleceni_tricko_oranzova",
+    "eyes": "oci_hneda"
   },
   "parts": [
     {
@@ -338,6 +339,14 @@
       "file": "odmena_obleceni_museum.webp",
       "kind": "clothes",
       "shape": "museum",
+      "color": "",
+      "order": 30,
+      "reward": true
+    },
+    {
+      "file": "odmena_obleceni_bohous.webp",
+      "kind": "clothes",
+      "shape": "bohous",
       "color": "",
       "order": 30,
       "reward": true
@@ -1060,6 +1069,102 @@
       "shape": "rozepnuta_kosile",
       "color": "seda",
       "order": 30,
+      "reward": false
+    },
+    {
+      "file": "oci_hneda.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "hneda",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_oriskova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "oriskova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_jantarova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "jantarova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_zelena.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "zelena",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_modra.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "modra",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_seda.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "seda",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_tyrkysova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "tyrkysova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_fialova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "fialova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_ruzova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "ruzova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_ledova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "ledova",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_zlata.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "zlata",
+      "order": 40,
+      "reward": false
+    },
+    {
+      "file": "oci_duhova.webp",
+      "kind": "eyes",
+      "shape": "",
+      "color": "duhova",
+      "order": 40,
       "reward": false
     },
     {

@@ -1,0 +1,445 @@
+{
+  "page": "story_09",
+  "lines": [
+    {
+      "text": "Kolík cinkne o něco tvrdého. Přímo mezi kořeny obrovské jabloně.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Kolík cinkne o něco tvrdého. Přímo mezi kořeny obrovské jabloně.\",\"tts\":\"[mysterious] Kolík cinkne o něco tvrdého. Přímo mezi kořeny obrovské jabloně.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.008,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Kolík",
+              "start": 0.602,
+              "end": 1.002
+            },
+            {
+              "word": "cinkne",
+              "start": 1.082,
+              "end": 1.562
+            },
+            {
+              "word": "o",
+              "start": 1.602,
+              "end": 1.642
+            },
+            {
+              "word": "něco",
+              "start": 1.682,
+              "end": 1.882
+            },
+            {
+              "word": "tvrdého.",
+              "start": 2.042,
+              "end": 2.762
+            },
+            {
+              "word": "Přímo",
+              "start": 3.322,
+              "end": 3.722
+            },
+            {
+              "word": "mezi",
+              "start": 3.802,
+              "end": 4.042
+            },
+            {
+              "word": "kořeny",
+              "start": 4.122,
+              "end": 4.522
+            },
+            {
+              "word": "obrovské",
+              "start": 4.602,
+              "end": 5.162
+            },
+            {
+              "word": "jabloně.",
+              "start": 5.242,
+              "end": 5.722
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Kláro. Ten malý stromek… to je ta obří jabloň?“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "02_tobi.mp3",
+          "request": "{\"text\":\"„Kláro. Ten malý stromek… to je ta obří jabloň?“\",\"tts\":\"[slowly realising] „Kláro. Ten malý stromek… to je ta obří jabloň?“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.486,
+          "words": [
+            {
+              "word": "„Kláro.",
+              "start": 0.08,
+              "end": 0.8
+            },
+            {
+              "word": "Ten",
+              "start": 1.44,
+              "end": 1.68
+            },
+            {
+              "word": "malý",
+              "start": 1.76,
+              "end": 2.08
+            },
+            {
+              "word": "stromek…",
+              "start": 2.16,
+              "end": 2.64
+            },
+            {
+              "word": "to",
+              "start": 3.44,
+              "end": 3.6
+            },
+            {
+              "word": "je",
+              "start": 3.68,
+              "end": 3.76
+            },
+            {
+              "word": "ta",
+              "start": 3.88,
+              "end": 4.0
+            },
+            {
+              "word": "obří",
+              "start": 4.08,
+              "end": 4.48
+            },
+            {
+              "word": "jabloň?“",
+              "start": 4.56,
+              "end": 5.12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Šedesát let, Tobi. Malé stromky za takovou dobu trochu vyrostou, víš?“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "03_klara.mp3",
+          "request": "{\"text\":\"„Šedesát let, Tobi. Malé stromky za takovou dobu trochu vyrostou, víš?“\",\"tts\":\"[softly, teasing] „Šedesát let, Tobi. Malé stromky za takovou dobu trochu vyrostou, víš?“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.251,
+          "words": [
+            {
+              "word": "„Šedesát",
+              "start": 0.2,
+              "end": 0.72
+            },
+            {
+              "word": "let,",
+              "start": 0.8,
+              "end": 1.04
+            },
+            {
+              "word": "Tobi.",
+              "start": 1.12,
+              "end": 1.44
+            },
+            {
+              "word": "Malé",
+              "start": 2.12,
+              "end": 2.32
+            },
+            {
+              "word": "stromky",
+              "start": 2.48,
+              "end": 2.72
+            },
+            {
+              "word": "za",
+              "start": 2.8,
+              "end": 2.88
+            },
+            {
+              "word": "takovou",
+              "start": 2.92,
+              "end": 3.28
+            },
+            {
+              "word": "dobu",
+              "start": 3.36,
+              "end": 3.6
+            },
+            {
+              "word": "trochu",
+              "start": 3.68,
+              "end": 3.92
+            },
+            {
+              "word": "vyrostou,",
+              "start": 4.0,
+              "end": 4.48
+            },
+            {
+              "word": "víš?“",
+              "start": 4.68,
+              "end": 4.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Takže děda byl taky jednou malý stromek.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "04_tobi.mp3",
+          "request": "{\"text\":\"„Takže děda byl taky jednou malý stromek.“\",\"tts\":\"[thoughtful] „Takže děda byl taky jednou malý stromek.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.396,
+          "words": [
+            {
+              "word": "„Takže",
+              "start": 0.12,
+              "end": 0.48
+            },
+            {
+              "word": "děda",
+              "start": 0.56,
+              "end": 0.8
+            },
+            {
+              "word": "byl",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "taky",
+              "start": 1.2,
+              "end": 1.52
+            },
+            {
+              "word": "jednou",
+              "start": 1.573,
+              "end": 1.84
+            },
+            {
+              "word": "malý",
+              "start": 1.92,
+              "end": 2.16
+            },
+            {
+              "word": "stromek.“",
+              "start": 2.36,
+              "end": 2.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Klára přinese z garáže dvě lopatky.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "05_narrator.mp3",
+          "request": "{\"text\":\"Klára přinese z garáže dvě lopatky.\",\"tts\":\"Klára přinese z garáže dvě lopatky.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.586,
+          "words": [
+            {
+              "word": "Klára",
+              "start": 0.0,
+              "end": 0.4
+            },
+            {
+              "word": "přinese",
+              "start": 0.44,
+              "end": 0.88
+            },
+            {
+              "word": "z",
+              "start": 0.92,
+              "end": 0.96
+            },
+            {
+              "word": "garáže",
+              "start": 1.04,
+              "end": 1.52
+            },
+            {
+              "word": "dvě",
+              "start": 1.6,
+              "end": 1.76
+            },
+            {
+              "word": "lopatky.",
+              "start": 1.84,
+              "end": 2.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Já první!“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "06_klara.mp3",
+          "request": "{\"text\":\"„Já první!“\",\"tts\":\"[excited] „Já první!“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.071,
+          "words": [
+            {
+              "word": "„Já",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "první!“",
+              "start": 0.4,
+              "end": 0.88
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Ne, já!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "07_tobi.mp3",
+          "request": "{\"text\":\"„Ne, já!“\",\"tts\":\"[excited] „Ne, já!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 1.411,
+          "words": [
+            {
+              "word": "„Ne,",
+              "start": 0.16,
+              "end": 0.48
+            },
+            {
+              "word": "já!“",
+              "start": 0.8,
+              "end": 1.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Kopou oba najednou a Ferda kope s nimi. Pak lopatka narazí na plechovou krabici. Kořeny jabloně ji ale celou obrostly.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "08_narrator.mp3",
+          "request": "{\"text\":\"Kopou oba najednou a Ferda kope s nimi. Pak lopatka narazí na plechovou krabici. Kořeny jabloně ji ale celou obrostly.\",\"tts\":\"[comic] Kopou oba najednou a Ferda kope s nimi. Pak lopatka narazí na plechovou krabici. Kořeny jabloně ji ale celou obrostly.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 9.404,
+          "words": [
+            {
+              "word": "Kopou",
+              "start": 0.064,
+              "end": 0.4
+            },
+            {
+              "word": "oba",
+              "start": 0.48,
+              "end": 0.72
+            },
+            {
+              "word": "najednou",
+              "start": 0.76,
+              "end": 1.28
+            },
+            {
+              "word": "a",
+              "start": 1.6,
+              "end": 1.68
+            },
+            {
+              "word": "Ferda",
+              "start": 1.84,
+              "end": 2.24
+            },
+            {
+              "word": "kope",
+              "start": 2.32,
+              "end": 2.56
+            },
+            {
+              "word": "s",
+              "start": 2.64,
+              "end": 2.68
+            },
+            {
+              "word": "nimi.",
+              "start": 2.72,
+              "end": 3.04
+            },
+            {
+              "word": "Pak",
+              "start": 3.6,
+              "end": 3.76
+            },
+            {
+              "word": "lopatka",
+              "start": 3.84,
+              "end": 4.24
+            },
+            {
+              "word": "narazí",
+              "start": 4.32,
+              "end": 4.72
+            },
+            {
+              "word": "na",
+              "start": 4.8,
+              "end": 4.88
+            },
+            {
+              "word": "plechovou",
+              "start": 4.96,
+              "end": 5.36
+            },
+            {
+              "word": "krabici.",
+              "start": 5.44,
+              "end": 6.0
+            },
+            {
+              "word": "Kořeny",
+              "start": 6.56,
+              "end": 6.96
+            },
+            {
+              "word": "jabloně",
+              "start": 7.08,
+              "end": 7.52
+            },
+            {
+              "word": "ji",
+              "start": 7.6,
+              "end": 7.68
+            },
+            {
+              "word": "ale",
+              "start": 7.76,
+              "end": 8.0
+            },
+            {
+              "word": "celou",
+              "start": 8.08,
+              "end": 8.48
+            },
+            {
+              "word": "obrostly.",
+              "start": 8.56,
+              "end": 9.12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

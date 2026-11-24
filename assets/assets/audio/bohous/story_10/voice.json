@@ -1,0 +1,376 @@
+{
+  "page": "story_10",
+  "lines": [
+    {
+      "text": "Krabice je konečně volná. Je ale tak těžká, že s ní děti ani nepohnou.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "01_narrator.mp3",
+          "request": "{\"text\":\"Krabice je konečně volná. Je ale tak těžká, že s ní děti ani nepohnou.\",\"tts\":\"[warmly] Krabice je konečně volná. Je ale tak těžká, že s ní děti ani nepohnou.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.165,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "Krabice",
+              "start": 0.682,
+              "end": 1.162
+            },
+            {
+              "word": "je",
+              "start": 1.282,
+              "end": 1.402
+            },
+            {
+              "word": "konečně",
+              "start": 1.442,
+              "end": 1.962
+            },
+            {
+              "word": "volná.",
+              "start": 2.082,
+              "end": 2.522
+            },
+            {
+              "word": "Je",
+              "start": 3.002,
+              "end": 3.082
+            },
+            {
+              "word": "ale",
+              "start": 3.162,
+              "end": 3.322
+            },
+            {
+              "word": "tak",
+              "start": 3.402,
+              "end": 3.642
+            },
+            {
+              "word": "těžká,",
+              "start": 3.722,
+              "end": 4.202
+            },
+            {
+              "word": "že",
+              "start": 4.282,
+              "end": 4.362
+            },
+            {
+              "word": "s",
+              "start": 4.402,
+              "end": 4.442
+            },
+            {
+              "word": "ní",
+              "start": 4.522,
+              "end": 4.602
+            },
+            {
+              "word": "děti",
+              "start": 4.682,
+              "end": 5.002
+            },
+            {
+              "word": "ani",
+              "start": 5.122,
+              "end": 5.242
+            },
+            {
+              "word": "nepohnou.",
+              "start": 5.322,
+              "end": 5.962
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Copak to tu kopete, průzkumníci? Zlato? Nebo snad hledáte krtky?“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "02_bohous.mp3",
+          "request": "{\"text\":\"„Copak to tu kopete, průzkumníci? Zlato? Nebo snad hledáte krtky?“\",\"tts\":\"[amused] „Copak to tu kopete, průzkumníci? Zlato? [teasing, rising intonation] Nebo snad hledáte krtky?“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.269,
+          "words": [
+            {
+              "word": "„Copak",
+              "start": 0.08,
+              "end": 0.48
+            },
+            {
+              "word": "to",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "tu",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "kopete,",
+              "start": 0.88,
+              "end": 1.36
+            },
+            {
+              "word": "průzkumníci?",
+              "start": 1.52,
+              "end": 2.48
+            },
+            {
+              "word": "Zlato?",
+              "start": 2.88,
+              "end": 3.44
+            },
+            {
+              "word": "Nebo",
+              "start": 3.92,
+              "end": 4.16
+            },
+            {
+              "word": "snad",
+              "start": 4.24,
+              "end": 4.56
+            },
+            {
+              "word": "hledáte",
+              "start": 4.6,
+              "end": 5.2
+            },
+            {
+              "word": "krtky?“",
+              "start": 5.36,
+              "end": 5.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Nad jámou stojí děda. Přišel se podívat, jakou neplechu zase provádí Ferda. Pak si všimne krabice a zmlkne.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "03_narrator.mp3",
+          "request": "{\"text\":\"Nad jámou stojí děda. Přišel se podívat, jakou neplechu zase provádí Ferda. Pak si všimne krabice a zmlkne.\",\"tts\":\"[warmly] Nad jámou stojí děda. Přišel se podívat, jakou neplechu zase provádí Ferda. Pak si všimne krabice a zmlkne.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.673,
+          "words": [
+            {
+              "word": "Nad",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "jámou",
+              "start": 0.44,
+              "end": 0.8
+            },
+            {
+              "word": "stojí",
+              "start": 0.88,
+              "end": 1.12
+            },
+            {
+              "word": "děda.",
+              "start": 1.2,
+              "end": 1.6
+            },
+            {
+              "word": "Přišel",
+              "start": 2.16,
+              "end": 2.4
+            },
+            {
+              "word": "se",
+              "start": 2.48,
+              "end": 2.64
+            },
+            {
+              "word": "podívat,",
+              "start": 2.76,
+              "end": 3.2
+            },
+            {
+              "word": "jakou",
+              "start": 3.36,
+              "end": 3.76
+            },
+            {
+              "word": "neplechu",
+              "start": 3.84,
+              "end": 4.32
+            },
+            {
+              "word": "zase",
+              "start": 4.4,
+              "end": 4.72
+            },
+            {
+              "word": "provádí",
+              "start": 4.8,
+              "end": 5.28
+            },
+            {
+              "word": "Ferda.",
+              "start": 5.36,
+              "end": 5.76
+            },
+            {
+              "word": "Pak",
+              "start": 6.4,
+              "end": 6.56
+            },
+            {
+              "word": "si",
+              "start": 6.6,
+              "end": 6.64
+            },
+            {
+              "word": "všimne",
+              "start": 6.72,
+              "end": 7.04
+            },
+            {
+              "word": "krabice",
+              "start": 7.12,
+              "end": 7.68
+            },
+            {
+              "word": "a",
+              "start": 7.84,
+              "end": 7.92
+            },
+            {
+              "word": "zmlkne.",
+              "start": 8.0,
+              "end": 8.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„To snad… to není možné.“",
+      "recordings": [
+        {
+          "voice": "bohous",
+          "file": "04_bohous.mp3",
+          "request": "{\"text\":\"„To snad… to není možné.“\",\"tts\":\"[whispers, moved] „To snad… to není možné.“\",\"voiceId\":\"YCeB3Rgdp25cLfRIbPig\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.004,
+          "words": [
+            {
+              "word": "„To",
+              "start": 0.16,
+              "end": 0.24
+            },
+            {
+              "word": "snad…",
+              "start": 0.32,
+              "end": 0.64
+            },
+            {
+              "word": "to",
+              "start": 1.28,
+              "end": 1.44
+            },
+            {
+              "word": "není",
+              "start": 1.56,
+              "end": 1.84
+            },
+            {
+              "word": "možné.“",
+              "start": 1.96,
+              "end": 2.48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Děda si klekne do hlíny ve svých svátečních kalhotách a pohladí rezavé víko krabice.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "05_narrator.mp3",
+          "request": "{\"text\":\"Děda si klekne do hlíny ve svých svátečních kalhotách a pohladí rezavé víko krabice.\",\"tts\":\"[warmly] Děda si klekne do hlíny ve svých svátečních kalhotách a pohladí rezavé víko krabice.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 6.191,
+          "words": [
+            {
+              "word": "Děda",
+              "start": 0.24,
+              "end": 0.48
+            },
+            {
+              "word": "si",
+              "start": 0.56,
+              "end": 0.64
+            },
+            {
+              "word": "klekne",
+              "start": 0.72,
+              "end": 1.04
+            },
+            {
+              "word": "do",
+              "start": 1.12,
+              "end": 1.2
+            },
+            {
+              "word": "hlíny",
+              "start": 1.28,
+              "end": 1.6
+            },
+            {
+              "word": "ve",
+              "start": 1.68,
+              "end": 1.76
+            },
+            {
+              "word": "svých",
+              "start": 1.84,
+              "end": 2.08
+            },
+            {
+              "word": "svátečních",
+              "start": 2.16,
+              "end": 2.72
+            },
+            {
+              "word": "kalhotách",
+              "start": 2.8,
+              "end": 3.6
+            },
+            {
+              "word": "a",
+              "start": 3.84,
+              "end": 3.92
+            },
+            {
+              "word": "pohladí",
+              "start": 4.0,
+              "end": 4.56
+            },
+            {
+              "word": "rezavé",
+              "start": 4.68,
+              "end": 5.12
+            },
+            {
+              "word": "víko",
+              "start": 5.2,
+              "end": 5.44
+            },
+            {
+              "word": "krabice.",
+              "start": 5.52,
+              "end": 6.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

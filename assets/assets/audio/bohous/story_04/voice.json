@@ -1,0 +1,785 @@
+{
+  "page": "story_04",
+  "lines": [
+    {
+      "text": "„Mapa kapitána Bohouše. Z roku 1964.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "01_tobi.mp3",
+          "request": "{\"text\":\"„Mapa kapitána Bohouše. Z roku 1964.“\",\"tts\":\"[reverently] „Mapa kapitána Bohouše. Z roku devatenácet-šedesát-čtyři.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.93,
+          "leadingSilence": 0.522,
+          "words": [
+            {
+              "word": "„Mapa",
+              "start": 0.882,
+              "end": 1.082
+            },
+            {
+              "word": "kapitána",
+              "start": 1.162,
+              "end": 1.802
+            },
+            {
+              "word": "Bohouše.",
+              "start": 1.882,
+              "end": 2.522
+            },
+            {
+              "word": "Z",
+              "start": 3.082,
+              "end": 3.162
+            },
+            {
+              "word": "roku",
+              "start": 3.242,
+              "end": 3.402
+            },
+            {
+              "word": "1964.“",
+              "start": 3.562,
+              "end": 5.322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„‚Pevnost.‘ ‚Pozor! Dinosauři!‘ ‚Bažina smrti.‘“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "02_klara.mp3",
+          "request": "{\"text\":\"„‚Pevnost.‘ ‚Pozor! Dinosauři!‘ ‚Bažina smrti.‘“\",\"tts\":\"[reading] „‚Pevnost.‘ ‚Pozor! Dinosauři!‘ ‚Bažina smrti.‘“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.206,
+          "words": [
+            {
+              "word": "„‚Pevnost.‘",
+              "start": 0.069,
+              "end": 0.64
+            },
+            {
+              "word": "‚Pozor!",
+              "start": 1.093,
+              "end": 1.52
+            },
+            {
+              "word": "Dinosauři!‘",
+              "start": 1.76,
+              "end": 2.48
+            },
+            {
+              "word": "‚Bažina",
+              "start": 2.96,
+              "end": 3.36
+            },
+            {
+              "word": "smrti.‘“",
+              "start": 3.52,
+              "end": 4.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„No, to je teda zahrada.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "03_klara.mp3",
+          "request": "{\"text\":\"„No, to je teda zahrada.“\",\"tts\":\"[dryly] „No, to je teda zahrada.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.847,
+          "words": [
+            {
+              "word": "„No,",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "to",
+              "start": 0.8,
+              "end": 0.96
+            },
+            {
+              "word": "je",
+              "start": 1.04,
+              "end": 1.2
+            },
+            {
+              "word": "teda",
+              "start": 1.32,
+              "end": 1.52
+            },
+            {
+              "word": "zahrada.“",
+              "start": 1.6,
+              "end": 2.24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Dinosauři! Děda měl na zahradě dinosaury?“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "04_tobi.mp3",
+          "request": "{\"text\":\"„Dinosauři! Děda měl na zahradě dinosaury?“\",\"tts\":\"[excited] „Dinosauři! Děda měl na zahradě dinosaury?“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.866,
+          "words": [
+            {
+              "word": "„Dinosauři!",
+              "start": 0.2,
+              "end": 1.04
+            },
+            {
+              "word": "Děda",
+              "start": 1.44,
+              "end": 1.68
+            },
+            {
+              "word": "měl",
+              "start": 1.76,
+              "end": 1.92
+            },
+            {
+              "word": "na",
+              "start": 2.0,
+              "end": 2.08
+            },
+            {
+              "word": "zahradě",
+              "start": 2.12,
+              "end": 2.64
+            },
+            {
+              "word": "dinosaury?“",
+              "start": 2.76,
+              "end": 3.36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jo, a já mám pod postelí draka.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "05_klara.mp3",
+          "request": "{\"text\":\"„Jo, a já mám pod postelí draka.“\",\"tts\":\"[dryly] „Jo, a já mám pod postelí draka.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 3.239,
+          "words": [
+            {
+              "word": "„Jo,",
+              "start": 0.16,
+              "end": 0.4
+            },
+            {
+              "word": "a",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "já",
+              "start": 1.04,
+              "end": 1.28
+            },
+            {
+              "word": "mám",
+              "start": 1.32,
+              "end": 1.52
+            },
+            {
+              "word": "pod",
+              "start": 1.64,
+              "end": 1.76
+            },
+            {
+              "word": "postelí",
+              "start": 1.88,
+              "end": 2.24
+            },
+            {
+              "word": "draka.“",
+              "start": 2.32,
+              "end": 2.72
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Jen tu mapu ta myš celou prokousala. Jsou v ní samé díry.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "06_tobi.mp3",
+          "request": "{\"text\":\"„Jen tu mapu ta myš celou prokousala. Jsou v ní samé díry.“\",\"tts\":\"[sadly] „Jen tu mapu ta myš celou prokousala. Jsou v ní samé díry.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 4.911,
+          "words": [
+            {
+              "word": "„Jen",
+              "start": 0.16,
+              "end": 0.32
+            },
+            {
+              "word": "tu",
+              "start": 0.4,
+              "end": 0.56
+            },
+            {
+              "word": "mapu",
+              "start": 0.72,
+              "end": 0.96
+            },
+            {
+              "word": "ta",
+              "start": 1.12,
+              "end": 1.28
+            },
+            {
+              "word": "myš",
+              "start": 1.36,
+              "end": 1.52
+            },
+            {
+              "word": "celou",
+              "start": 1.64,
+              "end": 1.84
+            },
+            {
+              "word": "prokousala.",
+              "start": 1.92,
+              "end": 2.64
+            },
+            {
+              "word": "Jsou",
+              "start": 3.12,
+              "end": 3.28
+            },
+            {
+              "word": "v",
+              "start": 3.36,
+              "end": 3.413
+            },
+            {
+              "word": "ní",
+              "start": 3.467,
+              "end": 3.52
+            },
+            {
+              "word": "samé",
+              "start": 3.6,
+              "end": 3.92
+            },
+            {
+              "word": "díry.“",
+              "start": 4.0,
+              "end": 4.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Pevnost… Na zahradě ale žádná pevnost není. Je tam jen garáž.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "07_klara.mp3",
+          "request": "{\"text\":\"„Pevnost… Na zahradě ale žádná pevnost není. Je tam jen garáž.“\",\"tts\":\"[thinking] „Pevnost… Na zahradě ale žádná pevnost není. Je tam jen garáž.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.642,
+          "words": [
+            {
+              "word": "„Pevnost…",
+              "start": 0.12,
+              "end": 0.88
+            },
+            {
+              "word": "Na",
+              "start": 1.52,
+              "end": 1.6
+            },
+            {
+              "word": "zahradě",
+              "start": 1.68,
+              "end": 2.08
+            },
+            {
+              "word": "ale",
+              "start": 2.16,
+              "end": 2.32
+            },
+            {
+              "word": "žádná",
+              "start": 2.36,
+              "end": 2.72
+            },
+            {
+              "word": "pevnost",
+              "start": 2.8,
+              "end": 3.2
+            },
+            {
+              "word": "není.",
+              "start": 3.28,
+              "end": 3.68
+            },
+            {
+              "word": "Je",
+              "start": 4.16,
+              "end": 4.24
+            },
+            {
+              "word": "tam",
+              "start": 4.32,
+              "end": 4.4
+            },
+            {
+              "word": "jen",
+              "start": 4.48,
+              "end": 4.56
+            },
+            {
+              "word": "garáž.“",
+              "start": 4.64,
+              "end": 5.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Pevnost je přece každá skrýš. Stan z deky. Skříň. Nebo… stará kůlna!“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "08_tobi.mp3",
+          "request": "{\"text\":\"„Pevnost je přece každá skrýš. Stan z deky. Skříň. Nebo… stará kůlna!“\",\"tts\":\"[dreamy] „Pevnost je přece každá skrýš. Stan z deky. Skříň. Nebo… stará kůlna!“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 7.628,
+          "words": [
+            {
+              "word": "„Pevnost",
+              "start": 0.12,
+              "end": 0.64
+            },
+            {
+              "word": "je",
+              "start": 0.72,
+              "end": 0.8
+            },
+            {
+              "word": "přece",
+              "start": 0.84,
+              "end": 1.2
+            },
+            {
+              "word": "každá",
+              "start": 1.28,
+              "end": 1.68
+            },
+            {
+              "word": "skrýš.",
+              "start": 1.76,
+              "end": 2.32
+            },
+            {
+              "word": "Stan",
+              "start": 2.8,
+              "end": 3.04
+            },
+            {
+              "word": "z",
+              "start": 3.12,
+              "end": 3.16
+            },
+            {
+              "word": "deky.",
+              "start": 3.2,
+              "end": 3.6
+            },
+            {
+              "word": "Skříň.",
+              "start": 4.08,
+              "end": 4.64
+            },
+            {
+              "word": "Nebo…",
+              "start": 5.12,
+              "end": 5.52
+            },
+            {
+              "word": "stará",
+              "start": 6.08,
+              "end": 6.48
+            },
+            {
+              "word": "kůlna!“",
+              "start": 6.64,
+              "end": 7.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Tobi, ty jsi génius! Babička jednou říkala, že garáž bývala kůlna.“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "09_klara.mp3",
+          "request": "{\"text\":\"„Tobi, ty jsi génius! Babička jednou říkala, že garáž bývala kůlna.“\",\"tts\":\"[surprised] „Tobi, ty jsi génius! Babička jednou říkala, že garáž bývala kůlna.“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.486,
+          "words": [
+            {
+              "word": "„Tobi,",
+              "start": 0.08,
+              "end": 0.48
+            },
+            {
+              "word": "ty",
+              "start": 0.88,
+              "end": 0.96
+            },
+            {
+              "word": "jsi",
+              "start": 1.04,
+              "end": 1.2
+            },
+            {
+              "word": "génius!",
+              "start": 1.28,
+              "end": 2.0
+            },
+            {
+              "word": "Babička",
+              "start": 2.48,
+              "end": 2.88
+            },
+            {
+              "word": "jednou",
+              "start": 2.92,
+              "end": 3.2
+            },
+            {
+              "word": "říkala,",
+              "start": 3.24,
+              "end": 3.6
+            },
+            {
+              "word": "že",
+              "start": 3.76,
+              "end": 3.84
+            },
+            {
+              "word": "garáž",
+              "start": 3.92,
+              "end": 4.32
+            },
+            {
+              "word": "bývala",
+              "start": 4.4,
+              "end": 4.8
+            },
+            {
+              "word": "kůlna.“",
+              "start": 4.84,
+              "end": 5.28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Tobi se začervená. Takovou pochvalu od sestry ještě nikdy nedostal.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "10_narrator.mp3",
+          "request": "{\"text\":\"Tobi se začervená. Takovou pochvalu od sestry ještě nikdy nedostal.\",\"tts\":\"[warmly] Tobi se začervená. Takovou pochvalu od sestry ještě nikdy nedostal.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.146,
+          "words": [
+            {
+              "word": "Tobi",
+              "start": 0.08,
+              "end": 0.4
+            },
+            {
+              "word": "se",
+              "start": 0.48,
+              "end": 0.56
+            },
+            {
+              "word": "začervená.",
+              "start": 0.68,
+              "end": 1.36
+            },
+            {
+              "word": "Takovou",
+              "start": 2.0,
+              "end": 2.4
+            },
+            {
+              "word": "pochvalu",
+              "start": 2.48,
+              "end": 2.96
+            },
+            {
+              "word": "od",
+              "start": 3.04,
+              "end": 3.12
+            },
+            {
+              "word": "sestry",
+              "start": 3.2,
+              "end": 3.52
+            },
+            {
+              "word": "ještě",
+              "start": 3.6,
+              "end": 3.92
+            },
+            {
+              "word": "nikdy",
+              "start": 4.0,
+              "end": 4.32
+            },
+            {
+              "word": "nedostal.",
+              "start": 4.4,
+              "end": 5.04
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Děti se proplíží do garáže. Zůstala v ní stará kamenná zeď a tlustý trám z doby, kdy tu stála kůlna.",
+      "recordings": [
+        {
+          "voice": "narrator",
+          "file": "11_narrator.mp3",
+          "request": "{\"text\":\"Děti se proplíží do garáže. Zůstala v ní stará kamenná zeď a tlustý trám z doby, kdy tu stála kůlna.\",\"tts\":\"Děti se proplíží do garáže. Zůstala v ní stará kamenná zeď a tlustý trám z doby, kdy tu stála kůlna.\",\"voiceId\":\"L7dTRXhRzVTQ3RzTmbZQ\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 8.751,
+          "words": [
+            {
+              "word": "Děti",
+              "start": 0.0,
+              "end": 0.32
+            },
+            {
+              "word": "se",
+              "start": 0.44,
+              "end": 0.56
+            },
+            {
+              "word": "proplíží",
+              "start": 0.64,
+              "end": 1.12
+            },
+            {
+              "word": "do",
+              "start": 1.2,
+              "end": 1.28
+            },
+            {
+              "word": "garáže.",
+              "start": 1.4,
+              "end": 1.92
+            },
+            {
+              "word": "Zůstala",
+              "start": 2.72,
+              "end": 3.12
+            },
+            {
+              "word": "v",
+              "start": 3.2,
+              "end": 3.24
+            },
+            {
+              "word": "ní",
+              "start": 3.28,
+              "end": 3.44
+            },
+            {
+              "word": "stará",
+              "start": 3.6,
+              "end": 3.92
+            },
+            {
+              "word": "kamenná",
+              "start": 4.0,
+              "end": 4.4
+            },
+            {
+              "word": "zeď",
+              "start": 4.48,
+              "end": 4.96
+            },
+            {
+              "word": "a",
+              "start": 5.04,
+              "end": 5.12
+            },
+            {
+              "word": "tlustý",
+              "start": 5.2,
+              "end": 5.68
+            },
+            {
+              "word": "trám",
+              "start": 5.76,
+              "end": 6.0
+            },
+            {
+              "word": "z",
+              "start": 6.08,
+              "end": 6.16
+            },
+            {
+              "word": "doby,",
+              "start": 6.2,
+              "end": 6.48
+            },
+            {
+              "word": "kdy",
+              "start": 6.76,
+              "end": 6.88
+            },
+            {
+              "word": "tu",
+              "start": 6.96,
+              "end": 7.04
+            },
+            {
+              "word": "stála",
+              "start": 7.12,
+              "end": 7.44
+            },
+            {
+              "word": "kůlna.",
+              "start": 7.52,
+              "end": 7.92
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Kláro, na tom trámu něco je.“",
+      "recordings": [
+        {
+          "voice": "tobi",
+          "file": "12_tobi.mp3",
+          "request": "{\"text\":\"„Kláro, na tom trámu něco je.“\",\"tts\":\"[curious] „Kláro, na tom trámu něco je.“\",\"voiceId\":\"kkU5ndYUrEZryZkzlmPW\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 2.926,
+          "words": [
+            {
+              "word": "„Kláro,",
+              "start": 0.08,
+              "end": 0.56
+            },
+            {
+              "word": "na",
+              "start": 1.04,
+              "end": 1.12
+            },
+            {
+              "word": "tom",
+              "start": 1.2,
+              "end": 1.28
+            },
+            {
+              "word": "trámu",
+              "start": 1.36,
+              "end": 1.76
+            },
+            {
+              "word": "něco",
+              "start": 1.813,
+              "end": 2.08
+            },
+            {
+              "word": "je.“",
+              "start": 2.2,
+              "end": 2.32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "„Vypadá to jako nějaké tajné písmo. Kapitán Bohouš měl tajné písmo?“",
+      "recordings": [
+        {
+          "voice": "klara",
+          "file": "13_klara.mp3",
+          "request": "{\"text\":\"„Vypadá to jako nějaké tajné písmo. Kapitán Bohouš měl tajné písmo?“\",\"tts\":\"[curious] „Vypadá to jako nějaké tajné písmo. [amazed] Kapitán Bohouš měl tajné písmo?“\",\"voiceId\":\"rOQszp8IV9CTxJcrYlt8\",\"modelId\":\"eleven_v4\",\"voiceSettings\":{\"stability\":0.35,\"similarity_boost\":0.75},\"outputFormat\":\"mp3_44100_128\"}",
+          "duration": 5.956,
+          "words": [
+            {
+              "word": "„Vypadá",
+              "start": 0.16,
+              "end": 0.56
+            },
+            {
+              "word": "to",
+              "start": 0.64,
+              "end": 0.72
+            },
+            {
+              "word": "jako",
+              "start": 0.76,
+              "end": 0.96
+            },
+            {
+              "word": "nějaké",
+              "start": 1.0,
+              "end": 1.52
+            },
+            {
+              "word": "tajné",
+              "start": 1.56,
+              "end": 2.0
+            },
+            {
+              "word": "písmo.",
+              "start": 2.04,
+              "end": 2.56
+            },
+            {
+              "word": "Kapitán",
+              "start": 3.04,
+              "end": 3.52
+            },
+            {
+              "word": "Bohouš",
+              "start": 3.68,
+              "end": 4.12
+            },
+            {
+              "word": "měl",
+              "start": 4.16,
+              "end": 4.48
+            },
+            {
+              "word": "tajné",
+              "start": 4.52,
+              "end": 4.96
+            },
+            {
+              "word": "písmo?“",
+              "start": 5.04,
+              "end": 5.6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
